@@ -1,0 +1,2 @@
+# rvgl-strings
+RVGL Localization
