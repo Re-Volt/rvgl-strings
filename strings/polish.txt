@@ -1,0 +1,607 @@
+Re-Volt
+Wybierz wyscig
+Wpisz nazwe
+Wybierz pojazd
+Wybierz trase
+Wybierz puchar
+Podsumowanie
+Typ polaczenia:
+Zaawansowane
+Rodzaj gry
+Poczekalnia
+Gra juz sie rozpoczela!
+\VPUstawienia sterowania
+\VNKontroler
+\VSUstawienia sterowania
+Wybierz gre aby dolaczyc
+Rozpocznij wyscig
+\VPNajlepsze czasy
+\VNCzasy probne
+\VSNajlepsze czasy
+Tabela postepów
+Edytor tras
+Opcje
+Wyjscie
+Mistrzostwa
+Szybki wyscig
+Mechaniczna rzez
+Bitwa
+Próba czasowa
+Trening
+Arena wyczynów
+Gra wieloosobowa
+Tryb edycji
+Oblicz statystyki pojazdów
+Wybierz pojazd
+Wybierz trase
+Lustrzana
+Odwrócona
+CPU
+Okrazen
+Dystans
+Brazowy puchar
+Srebrny puchar
+Zloty puchar
+Platynowy puchar
+Wybierz tryb
+Podstawowe zakrety
+Zaawansowane zakrety
+Twoje pierwsze wyczyny
+Ustawienia gry
+Ustawienia wideo
+Ustawienia dzwieku
+Ustawienia sterowania
+Wczytaj/Zapisz Rekordy
+Autorzy
+Ilosc pojazdów
+Losowe pojazdy
+Losowe trasy
+Bronie
+Ilosc okrazen
+Czas bitwy
+Poziom
+Dostepnosc pojazdów
+Miedzyczasy
+Kolizje
+Jednostka predkosci
+Wpisz nazwe
+Wlaczone
+Wylaczone
+Tak
+Nie
+Latwy
+Sredni
+Trudny
+Ekstremalny
+Pionowy
+Poziomy
+Rozdzielczosc
+Tekstury
+Blyszczenie
+Cienie
+Grafika
+Jasnosc
+Kontrast
+Odleglosc rysowania
+Odbicia
+Modele obiektów
+Slady opon
+Swiatla
+Automatyczne
+Niedostepne
+Antyaliasing
+Synchronizacja pionowa
+Pokazuj licznik FPS
+Filtrowanie tekstur
+Poziom mipmap
+Model szkieletowy
+Pudla pojazdów
+Czasteczki
+Dym
+\VPWysoka rozdzielczosc
+\VNSredniej rozdzielczosci
+\VSWysoka rozdzielczosc
+Podzielony ekran
+Muzyka w grze
+Glosnosc efektów
+Glosnosc muzyki
+Test efektów
+Test muzyki
+Kanal efektów
+Audio
+Stereo
+Mono
+Zobacz rekordy
+Zapisz rekordy
+Wyscig
+Rekordy
+Rozpocznij gre
+Dolacz do gry
+Poczekaj na polaczenie
+Wybierz gre
+Host:
+Kontynuuj gre
+Opusc gre
+Liczba graczy
+Optymalizacja pakietów
+Protokól DirectPlay
+Wyszukiwanie gry…
+Dolaczenie do gry…
+Wcisnij Spacje aby odswiezyc liste graczy
+Nastepna trasa
+Domyslne
+Braz
+Srebro
+Zloto
+Specjalne
+Wczytaj powtórke
+Zapisz powtórke
+Wznów
+Kontynuuj Mistrzostwa
+Zakoncz Mistrzostwa
+Poddaj sie
+Zrestartuj wyscig
+Zrestartuj powtorke
+Wyjscie
+Zobacz powtorke
+Wybierz Kontroler:
+Konfiguracja sterowania
+Martwa Strefa
+Zasieg Sterowania
+Nieliniowe Sterowanie
+Ustaw sterowanie domyslne
+Konfiguracja
+Tryb demo
+Gracz
+Save Carinfo Single
+Save Carinfo Multiple
+Save Current Car Info
+Resetuj tabele postepów
+Tryb
+Symulacja
+Zrecznosciowy
+Konsolowy
+Junior RC
+MPH
+Skalowane MPH
+FPM
+KPH
+Skalowane KPH
+PRZYJECHALES
+POSTARAJ SIE UKLASOWAC WYZEJ
+ABY ODBLOKOWAC NASTEPNE WYZWANIE!
+BRAZOWY PUCHAR
+SREBRNY PUCHAR
+ZLOTY PUCHAR
+SPECJALNY PUCHAR
+ZOSTAL ODBLOKOWANY
+LUSTRZANE TRASY
+ODWRÓCONE TRASY
+ZOSTALA ODBLOKOWANA
+NOWA DOSTAWA POJAZDÓW
+ODBLOKOWALES
+NOWE POJAZDY
+1-SZY
+2-GI
+3-CI
+Wczytaj / Zapisz
+Blad
+Ostrzezenie
+Jestes pewien?
+\VPWczytaj ustawienia
+\VNWczytaj postepy
+\VSWczytaj ustawienia
+\VPZapisz ustawienia
+\VNZapisz postepy
+\VSZapisz ustawienia
+Wczytaj trasy uzytkownika
+Wczytywanie…
+Zapisywanie…
+
+Wczytaj miedzyczasy
+Zapisz miedzyczasy
+Kontynuuj
+Kontynuuj bez zapisywania
+Kontynuuj bez wczytywania
+Formatuj Kontroler Pak
+Spróbuj naprawic
+Zarzadzaj Kontrolerem Pak
+Zmien Kontroler Pak
+Powtórz
+Próba naprawy…
+Naprawa nie powiodla sie
+Naprawa udana
+
+Usun Blok Karty Pamieci
+Zajmij trzecie lub lepsze miejsce
+w wyscigu aby awansowac!
+Ukoncz z najwyzszym wynikiem
+aby odblokowac nowe wyzwania!
+Zakoncz na szczycie tabeli
+aby zostac \"Mistrzem Re-Volt\"!
+
+KONTROLER PAK WYKRYTY W\n\rKONTROLER \7, TEN KONTROLER PAK\n\rBEDZIE UZYTY DO ZAPISU I WCZYTANIA\n\r
+NOWY CONTROLER PAK WLOZONO DO\n\rKONTROLER \7, TEN KONTROLER PAK\n\rBEDZIE UZYTY DO ZAPISU I WCZYTANIA\n\r
+NOWY CONTROLER PAK WLOZONO DO\n\rKONTROLER \7, BEDZIE UZYTY DO ZAPISU\n\rI WCZYTANIA
+UWAGA NIEWLASCIWY KONTROLER PAK!!\r\nKONTROLER PAK \7 JEST USZKODZONY
+UWAGA!!\r\nKONTROLER PAK \7 FULL\n\rNIE JEST W STANIE ZAPISAC
+UWAGA!!\r\nKONTROLER PAK \7 FULL\n\rNIE JEST W STANIE ZAPISAC
+BLAD!!\r\nKONTROLER ODLACZONY
+UWAGA!!\r\nNIE ZNALEZIONO KONTROLERA PAK\r\nNIE BEDZIE MOZLIWE\n\rZAPISANIE LUB WCZYTANIE
+BLAD!!\r\nON KONTROLER PAK \7\n\rNIE JEST W STANIE ZLOKALIZOWAC
+PROSZE USUNAC RUMBLE PAK\n\rI WLOZYC KONTROLER PAK\n\rA NASTEPNIE SPROBOWAC PONOWNIE
+Ta gra jest kompatibylna z Rumble Pakiemn\rProsze wlozyc swoj Rumble Pak teraz\n\rJezeli chcesz z nim grac
+UWAGA!!\r\nPoprzednio zapisane dane\n\rmoga zostac utracone!
+NAPRAW?
+POSTEP W GRZE
+MIEDZYCZASY
+TRASY UZYTKOWNIKA
+Zastap
+Potwierdz
+M
+R
+(M)
+(R)
+Klasa
+Klasyfikacja
+Szybkosc
+Przyspieszenie
+Waga
+Naped
+Elektryczny
+Spalinowy
+Specjalny
+Rekrut
+Amator
+Zaawansowany
+Pólprofesjonalny
+Profesjonalista
+4WD
+FWD
+RWD
+Nieznany
+Zablokowana
+Gracz
+Gracze
+Pelna predkosc, Realistyczne kolizje
+Pelna predkosc, Proste kolizje pojazdów
+Pelna predkosc, Proste kolizje
+Zmniejszona predkosc, Proste kolizje
+Przyspieszenie
+Wsteczny
+Strzal
+Odwróc pojazd
+Zrepozycjonuj pojazd
+Zmiana kamery
+Widok z tylu
+Pauza
+Trasy
+Wygrany
+Wyscig
+Norm
+Odwr
+Lustr
+Gwiazdy
+Rodzaj gry:
+Etap:
+Trasa:
+Pojazd
+Wygrana:
+Znaleziono gwiazd:
+Kolekcja gwiazd:
+z
+Pokonany
+Czas wyzwania:
+\VPPozostala Ci
+\VN
+\VSPozostaly Ci
+próba.
+próby.
+szy
+gi
+ci
+ty
+GRATULACJE!
+GRASZ DALEJ!
+GRATULACJE!
+MISTRZOSTWA UKONCZONE!
+NIE UDALO CI SIE ZAKWALIFIKOWAC!
+Pojazd
+Pkt
+Najlepsze okrazenie
+Ostatnie okrazenie
+Okrazenie
+Wyscig
+Okrazenie
+Miedzyczas
+Przeciwnicy
+Wyzwanie
+Czas wyzwania pobity!
+Czas
+Wynik gry
+Wynik wyscigu
+Naprawde wyjsc?
+Naprawde restart?
+Naprawde czy udajesz?
+Naprawde
+Udaje
+Domyslnie
+Braz
+Srebro
+Zloto
+Platyna
+Koniec gry! Spróbuj szczescia nastepnym razem!
+NOWA DOSTAWA POJAZDOW!\n(Sprawdz nowe pudla w\nmenu wyboru pojazdów)\n
+GRATULACJE!\n%s TRASY SA TERAZ\nDOSTEPNE W TRYBIE LUSTRZANYM\n(Wcisnij DOL w menu wyboru tras)\n
+GRATULACJE!\n%s TRASY SA TERAZ\nDOSTEPNE W TRYBIE ODWROCONYM\n(Wcisnij GORA w menu wyboru tras)\n
+GRATULACJE!\n%s TRASY SA TERAZ DOSTEPNE \nW TRYBIE LUSTRZANYM ODWROCONYM\n(Wcisnij GORA potem DOL\nw menu wyboru tras)\n
+\VPNOWY TRYB!\n\"MECHANICZNA RZEZ\"\nZOSTAL ODBLOKOWANY\n
+\VNGRATULACJE!\nZEBRANO WSZYSTKIE GWIAZDY ARENY WYCZYNOW\n
+\VSGRATULACJE!\nZEBRANO WSZYSTKIE GWIAZDY ARENY WYCZYNOW\n
+Wcisnij przycisk Start
+Wcisnij przycisk Start, aby kontynuowac
+\1Wcisnij przycisk Start, aby kontynuowac
+Pauza
+Gra autorstwa
+Menedzer projektu
+Glowny programista
+Programisci PC
+Programisci Nintendo 64
+Programisci PlayStation
+Grafika i Dzwiek (Oczy i Uszy R/C)
+Dynamika (Dlonie i Stopy R/C)
+Inteligencja (Mózgi R/C)
+Edytor tras
+Dodatkowe programowanie
+Glówny Artysta
+Modelowanie Tras
+Tekstury Tras
+Modele Pojazdów i Grafika
+Na podstawie oryginalnej koncepcji wg
+Glówny Projektant
+Projektanci
+Projektowanie Efektów Dzwiekowych
+Muzyka Napisana Przez
+Specjalne Rozwiazania dla N64
+Menadzer Kontroli Jakosci
+Druzyna Kontroli Jakosci
+Menadzer Sieciowy
+Technik Komputerowy
+Dyrektor ds. Rozwoju Produktu
+Dyrektor Artystyczny
+Pelniacy Funkcje Dyrektora Kreatywnego
+Rezyser Dzwieku
+Menedzer ds. Rozwoju Rynkowego
+Pelniacy Funkcje Dyrektora Technicznego
+Specjalne podziekowania
+\VP
+\VPOpracowane przez Acclaim Studios London
+\VP
+\VPWszelkie prawa zastrzezone
+\VP
+\VPWykorzystuje Miles Sound System. @ 1991-1999 by Rad Game Tools, inc.
+\VP
+\VPWszystkie znaki handlowe s¹ w³asnoscia
+\VPAcclaim Entertainment, inc.
+\VP
+\VPTM, r & @ 1999 ACCLAIM ENTERTAINMENT, INC. WSZELKIE PRAWA ZASTRZEZONE
+\VP
+\VPDystrybuowane przez Acclaim Distribution, inc.
+\VP
+\VP
+\VPDZIEKUJEMY ZA GRE!
+\VN
+\VNOpracowane przez Acclaim Studios London
+\VN
+\VNWszystkie postacie w nim zawarte oraz
+\VNich podobizny z dzielnic s¹ znakami towarowymi
+\VNAcclaim Entertainment, inc.
+\VN
+\VNTM , \2 & \3 1999
+\VNACCLAIM ENTERTAINMENT, INC.
+\VNWSZELKIE PRAWA ZASTRZEZONE
+\VN
+\VNDystrybuowane przez
+\VNAcclaim Distribution, inc.
+\VN
+\VNDZIEKUJEMY ZA GRE!
+\VN
+\VS
+\VSOpracowane przez Acclaim Studios London
+\VS
+\VSWszystkie postacie w nim zawarte oraz
+\VSich podobizny z dzielnic s¹ znakami towarowymi
+\VSAcclaim Entertainment, inc.
+\VS
+\VSTM , R & @ 1999
+\VSACCLAIM ENTERTAINMENT, INC.
+\VSALL RIGHTS RESERVED
+\VS
+\VSDystrybuowane przez
+\VSAcclaim Distribution, inc.
+\VS
+\VSDZIEKUJEMY ZA GRE!
+\VS
+moduly
+pick-ups
+dostosuj
+zachowaj
+nowy
+wczytaj
+eksportuj
+wyjscie
+umiesc moduly
+kasowanie
+menu
+ostrzezenie
+pytanie
+info
+start
+proste
+spadki
+wzniesienia
+kwadratowe zakrety
+polokragle zakrety
+ukosne
+brzeg
+wstrzasy
+waski
+rura
+most
+skrzyzowanie
+skok
+szykana
+TAK
+NIE
+etap : 1
+etap : 2
+etap : 3
+etap : 4
+etap : 5
+etap : 6
+etap : 7
+etap : 8
+etap : 9
+etap : 10
+etap : 11
+etap : 12
+Ukonczony!!
+ZAPISZ
+Trasa %d
+ustawione pick-upy:\n\r%d z 6
+: pozycja
+: rozmiar
+Nie zapisales biezacej trasy.\n\rChcesz ja zapisac teraz?\n\r
+Nie udalo sie zapisac trasy\n\rPonowic ?
+Nadpisac istniejaca trase?\n\r
+Naprawde chcesz usunac\n\r'%s'\n\r
+Czy chcesz zachowac zmiany\n\rktórych w³aœnie dokona³eœ?\n\r
+Trasa zapisana!
+Wystapil blad podczas zapisu trasy!
+\1Trasa nie tworzy petli, lub ma\n\ruskok w góre w rurze. Kursor bedzie\n\rustawiony w ostatniej poprawnej pozycji.
+\1Trasa nie tworzy petli, lub ma\n\ruskok w góre. Kursor bedzie\n\rustawiony w ostatniej poprawnej pozycji.
+\1Trasa nie tworzy petli, lub ma\n\ruskok w góre w rurze.
+\1Trasa nie tworzy petli, lub ma\n\rw sobie uskok w góre.
+Trasa zbyt zlozona!
+\1Trasa nie posiada startu
+\1Trasa posiada wiecej niz jeden start
+Lewo
+Prawo
+Klakson
+Spróbuj ponownie?
+Demo
+Ladowanie menu
+Ladowanie autorów
+Ladowanie Wskaznika Punktu Odniesienia Gry
+Graczy:
+CPU
+Losowo
+Status
+Gotowy
+Nie jest gotowy
+Wcisnij TAB aby rozpoczac
+Gra Multiplayer Przerwana!
+Czekamy na:
+Czekaj na hosta…
+Host
+Trasa
+Gra
+Zla wersja
+Pelen
+Rekord
+Skalowany
+Ukonczony
+Rozpoczety
+Otwórz
+Powtórka
+Galeria
+Local
+Download
+Dzwiek 3D
+ EAX
+Technologia 3D:
+ Sledzenie Fal:
+  Niedroznosci
+  Odbicia
+  Szczególy
+Wysrodkowanie HUDu
+Utrzymanie stylu gry
+Czestotliwosc próby
+Lusterko wsteczne
+Wersja
+Wcisnij spacje by pokazac informacje sesji
+Szukanie graczy…
+Opcje zaawansowane
+Pelny ekran
+Rozdzielczosc okna
+Rozmiar okna
+Proporcje obrazu
+Rdzenie procesora
+Ustawienia sieci
+Zuzycie lacza
+Zgodnosc z innymi wersjami
+Ustawienia profilu
+Odblokuj profile
+Wczytaj ustawienia
+Zapisz ustawienia
+Haslo
+Prosze czekac …
+Ogladaj
+Wcisnij Spacje, aby rozpoczac
+Wcisnij TAB, aby wznowic
+Maksymalna ilosc polaczen
+Bronie
+Wybierz gracza
+Pokój pelny!
+Zarzadzaj graczami
+Wyrzuc
+Ustaw jako Host
+Ustaw jako Widz
+Widz
+Teraz hostujesz te gre!
+Ustaw jako gracza
+Jestes teraz widzem gry!
+Jestes teraz aktywnym graczem!
+Pokazuj ducha
+Ustaw wszystkie klawisze
+Ustaw sterowanie domyslne
+Host wystartowal gre z nieznana trasa!
+Podlaczenie do sesji
+Wcisnij Esc, aby anulowac
+Polaczenie nawiazne
+Polaczenie przerwane
+Wcisnij Pauze, aby kontynuowac
+Wcisnij dowolny klawisz
+Wybierz jezyk
+Wybierz profil
+Zalóz profil
+Wczytaj profil
+Usun profil
+Profil juz istnieje!
+Gniazdo kontrolera:
+Odwróc / Widok Wsteczny
+CPU w Multiplayerze
+Uzyj Pobierania
+Globalnie
+wg Klasyfikacji
+Generuj Mipmapy
+Anizotropia
+Podzielony ekran
+Falowanie wody
+W Oknie
+Multisampling
+Czekanie na graczy…
+Dolaczanie do nastepnej gry…
+Wcisnij TAB aby Dolaczyc
+Dotknij Ekranu by Rozpoczac
+Dotknij Ekranu by Wznowic
+Dotknij Ekranu by Kontynuowac
+Widok z Kamery
+Podazajaca
+Sledzaca
+W aucie
+Na masce
+Nieprzezroczystosc Przycisków
+Ostatnie okrazenie!
+Renderer
+Polski
