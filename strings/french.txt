@@ -5,7 +5,7 @@ Sél. Voit.
 Circuit
 Sél. Coupe
 Résumé
-Type de connect.
+Type Multi
 Config. Ecran
 Type de jeu
 Salle d'attente
@@ -30,7 +30,7 @@ Edit. Circuits
 Stats de la voiture
 Sél. voiture
 Circuit
-Mode mirroir
+Mode miroir
 Mode inversé
 Voit. CPU
 Nb tours
@@ -57,7 +57,7 @@ Nb de tours
 Tps Battle Tag
 Difficulté
 Niveau véhicules
-Vs. Phantôme
+Vs. Fantôme
 Collision
 Unités De Vitesse
 Entrer nom
@@ -97,11 +97,11 @@ Fumée
 Haute résolution
 Ecran partagé
 Musique
-Vol. Sfx
+Vol. Effets
 Vol. Musique
-Tester SFX
+Tester Effets
 Tester Musique
-Canaux Sfx
+Canaux Effets
 Audio
 Stéréo
 Mono
@@ -111,7 +111,7 @@ Course
 Records
 En piste !
 Rejoindre course
-Attendre connection réseau
+Attendre connexion réseau
 Choisir partie
 Serveur
 Continuer partie
@@ -147,9 +147,9 @@ Contrôles par défaut
 Configuration
 Mode démo
 Joueur
-Sauve Carinfo simple
-Sauve Carinfo multi.
-Sauve Carinfo actuelle
+Sauver Carinfo simple
+Sauver Carinfo multi.
+Sauver Carinfo actuelle
 Effacer la progression
 Mode
 Simulation
@@ -162,18 +162,18 @@ Fpm
 K/h
 K/h réduits
 VOUS ETES
-PASSER LA VITESSE SUPÉRIEURE
+PASSEZ LA VITESSE SUPÉRIEURE
 POUR ACCÉDER AU PROCHAIN NIVEAU
 LA COUPE EN  BRONZE
 LA COUPE EN  ARGENT
 LA COUPE EN OR
 LA COUPE SPECIALE
 EST ACCESSIBLE.
-LES CIRCUITS MIRROIRS
+LES CIRCUITS MIROIRS
 LES CIRCUITS INVERSÉS
 SONT ACCESSIBLES.
 NOUVELLES VOITURES
-VOUS AVEZ LIBÉRÉ
+VOUS AVEZ DÉBLOQUÉ
 DES VOITURES
 1er
 2ème
@@ -182,24 +182,24 @@ Charger/Sauver
 Erreur
 Attention
 Etes-vous sûr ?
-Progrès De Chargement
-Économiser Le Progrès
+Chargement Progression
+Sauvegarde Progression
 Charg. circuits
 Chargement
 Sauvegarde
 
-Temps Fendus De Chargement
-Économiser Fendus Des Temps
+Chargement Des Temps
+Sauvegarde Des Temps
 Continuer
 Continuez sans sauver
 Continuez sans charger
-Formatage du Controler Pak
+Formatage du Controller Pak
 Tentative de réparation
-Vérifiez le Controler Pak
-Changez Le Controler Pak
+Vérifiez le Controller Pak
+Changez le Controller Pak
 Réessayez
 Tentative de Réparation
-Réparation échouée
+Réparation Échouée
 Réparation Réussie
 
 Effacement des données
@@ -224,7 +224,7 @@ CE JEU EST COMPATIBLE RUMBLE PAK.\n\rL'INSERER POUR L'UTILISER\n\rAVEC RE-VOLT.
 ATTENTION !!  DES DONNéES\n\rantérieures seront perdues
 Réparer ?
 Avancement
-Fendus Les Temps
+Temps
 Circuits perso.
 Ecraser
 Confirmer
@@ -243,7 +243,7 @@ Essence
 Spécial
 Débutant
 Amateur
-Avançé
+Avancé
 Semi-Pro
 Pro
 4x4
@@ -257,20 +257,20 @@ Vitesse max, collisions réalistes
 Vitesse max, collisions voitures simples
 Vitesse max, collisions simples
 Vitesse réduite, collisions simples
-Accélerer
+Accélérer
 Frein/Recul
 Tir
 Retourner voiture
 Repositionner voiture
 Changer de caméra
-Vue arriere
+Vue arrière
 Pause
 Circuits
 Gagné
 
 Norm.
 Rev.
-Mirr.
+Mir.
 Étoile
 Mode de jeu:
 Étape:
@@ -524,7 +524,7 @@ Plein écran
 Résolution écran
 Taille de l’écran
 Format d'image
-Noyaux CPU
+Cœurs CPU
 Paramètres réseau
 Util. Bande-passante
 Retro-Compatibilité
@@ -551,7 +551,7 @@ Intégrer à la partie
 Vous êtes spectateur !
 Vous êtes un joueur actif !
 Voir le fantôme
-Régler tout les contrôles
+Régler tous les contrôles
 Contrôles réglés par défaut
 L'hôte commence le jeu avec un circuit inconnu !
 Connexion à la session
