@@ -1,190 +1,190 @@
 Re-volt
-Válassz versenyt
-Írd be a neved
-Válassz autót
-Válassz pályát
-Válassz kupát
-Összegzés
-Multi típusa:
-Render beállítás
-Játék típus
-Váróterem
-A játék már elkezdõdött!
-\VPKontroller Beállításai
+VÃ¡lassz versenyt
+Ãrd be a neved
+VÃ¡lassz autÃ³t
+VÃ¡lassz pÃ¡lyÃ¡t
+VÃ¡lassz kupÃ¡t
+Ã–sszegzÃ©s
+Multi tÃ­pusa:
+Render beÃ¡llÃ­tÃ¡s
+JÃ¡tÃ©k tÃ­pus
+VÃ¡rÃ³terem
+A jÃ¡tÃ©k mÃ¡r elkezdÃµdÃ¶tt!
+\VPKontroller BeÃ¡llÃ­tÃ¡sai
 \VNKontroller
-\VSKontroller Beállításai
-Válassz játékot a csatlakozáshoz
-Verseny indítása
-\VPLegjobb idõk
-\VNIdõk
-\VSLegjobb idõk
-Haladási tábla
-Pályakészítõ
-Opciók
-Kilépés
-Bajnokság
-Szóló verseny
-Óramû Õrület
-Fogócska
-Idõmérõ
-Gyakorlás
-Stunt aréna
-Többjátékos
-Szerkesztõ mód
-Autóstatisztikák számolása
-Válassz autót
-Válassz pályát
-Tükrözött
-Fordított
-CPU autók
-Körök
-Hosszúság
+\VSKontroller BeÃ¡llÃ­tÃ¡sai
+VÃ¡lassz jÃ¡tÃ©kot a csatlakozÃ¡shoz
+Verseny indÃ­tÃ¡sa
+\VPLegjobb idÃµk
+\VNIdÃµk
+\VSLegjobb idÃµk
+HaladÃ¡si tÃ¡bla
+PÃ¡lyakÃ©szÃ­tÃµ
+OpciÃ³k
+KilÃ©pÃ©s
+BajnoksÃ¡g
+SzÃ³lÃ³ verseny
+Ã“ramÃ» Ã•rÃ¼let
+FogÃ³cska
+IdÃµmÃ©rÃµ
+GyakorlÃ¡s
+Stunt arÃ©na
+TÃ¶bbjÃ¡tÃ©kos
+SzerkesztÃµ mÃ³d
+AutÃ³statisztikÃ¡k szÃ¡molÃ¡sa
+VÃ¡lassz autÃ³t
+VÃ¡lassz pÃ¡lyÃ¡t
+TÃ¼krÃ¶zÃ¶tt
+FordÃ­tott
+CPU autÃ³k
+KÃ¶rÃ¶k
+HosszÃºsÃ¡g
 Bronz Kupa
-Ezüst Kupa
+EzÃ¼st Kupa
 Arany Kupa
 Platina Kupa
-Mód kiválasztása
-Alapvetõ kanyarodás
-Haladó kanyarodás
-Az elsõ ugratóid
-Játék beállítások
-Videó beállítások
-Hang beállítások
-Kontroller beállítások
-Rekordok Betöltése/Mentése
-Stáblista
-Autók száma
-Véletlenszerû autók
-véletlenszerû pályák
+MÃ³d kivÃ¡lasztÃ¡sa
+AlapvetÃµ kanyarodÃ¡s
+HaladÃ³ kanyarodÃ¡s
+Az elsÃµ ugratÃ³id
+JÃ¡tÃ©k beÃ¡llÃ­tÃ¡sok
+VideÃ³ beÃ¡llÃ­tÃ¡sok
+Hang beÃ¡llÃ­tÃ¡sok
+Kontroller beÃ¡llÃ­tÃ¡sok
+Rekordok BetÃ¶ltÃ©se/MentÃ©se
+StÃ¡blista
+AutÃ³k szÃ¡ma
+VÃ©letlenszerÃ» autÃ³k
+vÃ©letlenszerÃ» pÃ¡lyÃ¡k
 Pick upok
-Körök száma
-Fogócska idõzítõ
-Nehézség
-Autóhozzáférés
-Osztott idõk
-Ütközés
-Sebességmérõ
-Írd be a neved
+KÃ¶rÃ¶k szÃ¡ma
+FogÃ³cska idÃµzÃ­tÃµ
+NehÃ©zsÃ©g
+AutÃ³hozzÃ¡fÃ©rÃ©s
+Osztott idÃµk
+ÃœtkÃ¶zÃ©s
+SebessÃ©gmÃ©rÃµ
+Ãrd be a neved
 Be
 Ki
 Igen
 Nem
-Könnyû
-Közepes
-Nehéz
-Extrém
-Függõleges
-Vízszintes
-Felbontás
-Textúrák
-Fényesség
-Árnyékok
-Video készülék
-Fényerõ
+KÃ¶nnyÃ»
+KÃ¶zepes
+NehÃ©z
+ExtrÃ©m
+FÃ¼ggÃµleges
+VÃ­zszintes
+FelbontÃ¡s
+TextÃºrÃ¡k
+FÃ©nyessÃ©g
+ÃrnyÃ©kok
+Video kÃ©szÃ¼lÃ©k
+FÃ©nyerÃµ
 Kontraszt
-Látótávolság
-Tükrözõdések
+LÃ¡tÃ³tÃ¡volsÃ¡g
+TÃ¼krÃ¶zÃµdÃ©sek
 Modellek
-Féknyomok
-Fények
+FÃ©knyomok
+FÃ©nyek
 Automata
-Nem elérhetõ
+Nem elÃ©rhetÃµ
 Antialias
-V-sync engedélyezése
-Frame rate mutatása
-Textúra filter
+V-sync engedÃ©lyezÃ©se
+Frame rate mutatÃ¡sa
+TextÃºra filter
 Mipmap szint
 Wireframe
-Autódobozok
-Részecskék
-Füst
+AutÃ³dobozok
+RÃ©szecskÃ©k
+FÃ¼st
 \VPHigh Resolution
 \VNMedium Resolution
 \VSHigh Resolution
-Osztottképernyõ
-Játékbeli zene
+OsztottkÃ©pernyÃµ
+JÃ¡tÃ©kbeli zene
 Effektek hangereje
 Zene hangereje
 Effekt teszt
 Zene teszt
-Effekt csatornák
+Effekt csatornÃ¡k
 Hang
-Sztereó
+SztereÃ³
 Mono
-Rekordok megtekintése
-Rekordok mentése
+Rekordok megtekintÃ©se
+Rekordok mentÃ©se
 Verseny
 Rekordok
-Játék kezdése
-Csatlakozás játékhoz
-Várakozás a lobbira
-Játék kiválasztása
-Host Gép:
-Játék folytatása
-Játék elhagyása
-Játékosok száma
-Packet optimalizálás
+JÃ¡tÃ©k kezdÃ©se
+CsatlakozÃ¡s jÃ¡tÃ©khoz
+VÃ¡rakozÃ¡s a lobbira
+JÃ¡tÃ©k kivÃ¡lasztÃ¡sa
+Host GÃ©p:
+JÃ¡tÃ©k folytatÃ¡sa
+JÃ¡tÃ©k elhagyÃ¡sa
+JÃ¡tÃ©kosok szÃ¡ma
+Packet optimalizÃ¡lÃ¡s
 DirectPlay Protokoll
-Játékok keresése...
-Csatlakozás a játékhoz...
-Nyomj egy Space-t a frissítéshez
-Következõ pálya
+JÃ¡tÃ©kok keresÃ©se...
+CsatlakozÃ¡s a jÃ¡tÃ©khoz...
+Nyomj egy Space-t a frissÃ­tÃ©shez
+KÃ¶vetkezÃµ pÃ¡lya
 Alap
 Bronz
-Ezüst
+EzÃ¼st
 Arany
 Platina
-Replay betöltése
-Replay mentése
-Folytatás
-Bajnokság folytatása
-Bajnokság befejezése
-Újrapróbálás
-Verseny újraindítása
-Replay Újraindítása
-Kilépés
-Replay megnézése
-Válassz kontrollert:
-Kontroller konfigurálása
-Irányítási holtpont
-Irányítási hatótáv
-Non-lineáris irányítás
-Irányítás alaphelyzetre állítása
-Konfiguráció
-Demo mód
-Játékos
+Replay betÃ¶ltÃ©se
+Replay mentÃ©se
+FolytatÃ¡s
+BajnoksÃ¡g folytatÃ¡sa
+BajnoksÃ¡g befejezÃ©se
+ÃšjraprÃ³bÃ¡lÃ¡s
+Verseny ÃºjraindÃ­tÃ¡sa
+Replay ÃšjraindÃ­tÃ¡sa
+KilÃ©pÃ©s
+Replay megnÃ©zÃ©se
+VÃ¡lassz kontrollert:
+Kontroller konfigurÃ¡lÃ¡sa
+IrÃ¡nyÃ­tÃ¡si holtpont
+IrÃ¡nyÃ­tÃ¡si hatÃ³tÃ¡v
+Non-lineÃ¡ris irÃ¡nyÃ­tÃ¡s
+IrÃ¡nyÃ­tÃ¡s alaphelyzetre Ã¡llÃ­tÃ¡sa
+KonfigurÃ¡ciÃ³
+Demo mÃ³d
+JÃ¡tÃ©kos
 Save Carinfo Single
 Save Carinfo Multiple
 Save Current Car Info
-Haladási tábla törlése
-Mód
-Szimuláció
-Árkád
+HaladÃ¡si tÃ¡bla tÃ¶rlÃ©se
+MÃ³d
+SzimulÃ¡ciÃ³
+ÃrkÃ¡d
 Konzol
 Junior RC
 MPH
-Skálázott MPH
+SkÃ¡lÃ¡zott MPH
 FPM
 KPH
-Skálázott KPH
-TE LETTÉL A(Z)
-PRÓBÁLJ MEG JOBB HELYEZÉST ELÉRNI
-A KÖVETKEZÕ KIHÍVÁS FELOLDÁSÁHOZ!
+SkÃ¡lÃ¡zott KPH
+TE LETTÃ‰L A(Z)
+PRÃ“BÃLJ MEG JOBB HELYEZÃ‰ST ELÃ‰RNI
+A KÃ–VETKEZÃ• KIHÃVÃS FELOLDÃSÃHOZ!
 BRONZ KUPA
-EZÜST KUPA
+EZÃœST KUPA
 ARANY KUPA
 PLATINA KUPA
 FEL LETT OLDVA
-TÜKRÖZÖTT PÁLYÁK
-FORDÍTOTT PÁLYÁK
+TÃœKRÃ–ZÃ–TT PÃLYÃK
+FORDÃTOTT PÃLYÃK
 LETTEK FELOLDVA
-ÚJ AUTÓSZÁLLÍTMANY
-ÉRKEZETT
-ÚJ AUTÓK
+ÃšJ AUTÃ“SZÃLLÃTMANY
+Ã‰RKEZETT
+ÃšJ AUTÃ“K
 1.
 2.
 3.
-Betöltés / Mentés
+BetÃ¶ltÃ©s / MentÃ©s
 Hiba
 Figyelem
 Biztos vagy benne?
@@ -194,31 +194,31 @@ Biztos vagy benne?
 \VPSave Settings
 \VNSave Progress
 \VSSave Settings
-Felhasználó pályáinak betöltése
-Betöltés...
-Mentés...
+FelhasznÃ¡lÃ³ pÃ¡lyÃ¡inak betÃ¶ltÃ©se
+BetÃ¶ltÃ©s...
+MentÃ©s...
 
-Részidõk betöltése
-Részidõk mentése
-Folytatás
-Folytatás mentés nélkül
-Folytatás betöltés nélkül
+RÃ©szidÃµk betÃ¶ltÃ©se
+RÃ©szidÃµk mentÃ©se
+FolytatÃ¡s
+FolytatÃ¡s mentÃ©s nÃ©lkÃ¼l
+FolytatÃ¡s betÃ¶ltÃ©s nÃ©lkÃ¼l
 Format Controller Pak
 Attempt Repair
 Manage Controller Pak
 Change Controller Pak
-Újrapróbálás
-Próbálkozás a javításra...
-A javítás nem sikerült
-A javítás sikerült
+ÃšjraprÃ³bÃ¡lÃ¡s
+PrÃ³bÃ¡lkozÃ¡s a javÃ­tÃ¡sra...
+A javÃ­tÃ¡s nem sikerÃ¼lt
+A javÃ­tÃ¡s sikerÃ¼lt
 
-Memória kártya blokk törlése
-Érj el harmadik vagy jobb helyet mindegyik
-versenyen hogy továbbléphess!
-Érd el a tabella tetejét a
-következõ kihíváshoz!
-Érd el a tabella tetejét
-a \"Re-Volt Mestere\" cím eléréséhez!
+MemÃ³ria kÃ¡rtya blokk tÃ¶rlÃ©se
+Ã‰rj el harmadik vagy jobb helyet mindegyik
+versenyen hogy tovÃ¡bblÃ©phess!
+Ã‰rd el a tabella tetejÃ©t a
+kÃ¶vetkezÃµ kihÃ­vÃ¡shoz!
+Ã‰rd el a tabella tetejÃ©t
+a \"Re-Volt Mestere\" cÃ­m elÃ©rÃ©sÃ©hez!
 
 CONTROLLER PAK DETECTED IN\n\rCONTROLLER \7, THIS CONTROLLER PAK\n\rWILL BE USED TO SAVE AND LOAD\n\r
 NEW CONTROLLER PAK INSERTED INTO\n\rCONTROLLER \7, THIS CONTROLLER PAK\n\rWILL BE USED TO SAVE AND LOAD\n\r
@@ -233,115 +233,115 @@ PLEASE REMOVE RUMBLE PAK\n\rAND INSERT A CONTROLLER PAK\n\rTHEN TRY AGAIN
 This game is Rumble Pak Compatible\n\rPlease Insert your Rumble Pak now\n\rIf you wish to play with it
 WARNING!!\r\nPreviously save data\n\rmay be lost!
 REPAIR?
-JÁTÉK HALADÁSA
-A RÉSZIDÕK
-A FELHASZNÁLÓK PÁLYÁI
-Felülírás
-Beleegyezés
+JÃTÃ‰K HALADÃSA
+A RÃ‰SZIDÃ•K
+A FELHASZNÃLÃ“K PÃLYÃI
+FelÃ¼lÃ­rÃ¡s
+BeleegyezÃ©s
 T
 F
 (T)
 (F)
-Osztály
-Besorolás
-Sebesség
-Gyorsulás
-Súly
-Meghajtás
+OsztÃ¡ly
+BesorolÃ¡s
+SebessÃ©g
+GyorsulÃ¡s
+SÃºly
+MeghajtÃ¡s
 Elektromos
-Robbanómotoros
-Különleges
-Kezdõ
-Amatõr
-Haladó
-Félprofi
+RobbanÃ³motoros
+KÃ¼lÃ¶nleges
+KezdÃµ
+AmatÃµr
+HaladÃ³
+FÃ©lprofi
 Profi
 4WD
 FWD
 RWD
 Ismeretlen
-Lezárt
-Játékos
-Játékosok
-Teljes sebesség; Realisztikus ütközés
-Teljes sebesség; Szimpla autó ütközés
-Teljes sebesség; Szimpla ütközés
-Csökkentett sebesség; Szimpla ütközés
-Gyorsulás
-Rükverc
-Tûz
-Autó visszafordítása
-Autó visszahelyezése
-Kameraváltás
-Hátsó nézet
-Szünet
-Pályák
+LezÃ¡rt
+JÃ¡tÃ©kos
+JÃ¡tÃ©kosok
+Teljes sebessÃ©g; Realisztikus Ã¼tkÃ¶zÃ©s
+Teljes sebessÃ©g; Szimpla autÃ³ Ã¼tkÃ¶zÃ©s
+Teljes sebessÃ©g; Szimpla Ã¼tkÃ¶zÃ©s
+CsÃ¶kkentett sebessÃ©g; Szimpla Ã¼tkÃ¶zÃ©s
+GyorsulÃ¡s
+RÃ¼kverc
+TÃ»z
+AutÃ³ visszafordÃ­tÃ¡sa
+AutÃ³ visszahelyezÃ©se
+KameravÃ¡ltÃ¡s
+HÃ¡tsÃ³ nÃ©zet
+SzÃ¼net
+PÃ¡lyÃ¡k
 Nyert
 Verseny
 Norm
 Vissz
-Tükör
+TÃ¼kÃ¶r
 Csillagok
-Játékmód:
+JÃ¡tÃ©kmÃ³d:
 Szakasz:
-Pálya:
-Autó
+PÃ¡lya:
+AutÃ³
 Nyert verseny:
-Csillagok megtalálva:
-Csillagok összegyûjtve:
-ennyibõl:
-Legyõzve
-Kitûzött idõ:
+Csillagok megtalÃ¡lva:
+Csillagok Ã¶sszegyÃ»jtve:
+ennyibÃµl:
+LegyÃµzve
+KitÃ»zÃ¶tt idÃµ:
 \VPYou have
 \VN
 \VSYou have
-Próbálj balra.
-Próbál balra.
+PrÃ³bÃ¡lj balra.
+PrÃ³bÃ¡l balra.
 .
 .
 .
 .
-GRATULÁLUNK!
-TOVÁBBJUTOTTÁL!
-GRATULÁLUNK!
-BAJNOKSÁG BEFEJEZVE!
-NEM SIKERÜLT TOVÁBB JUTNOD!
-Autó
+GRATULÃLUNK!
+TOVÃBBJUTOTTÃL!
+GRATULÃLUNK!
+BAJNOKSÃG BEFEJEZVE!
+NEM SIKERÃœLT TOVÃBB JUTNOD!
+AutÃ³
 Pont
-Legjobb kör
-Elõzõ kör
-Kör
+Legjobb kÃ¶r
+ElÃµzÃµ kÃ¶r
+KÃ¶r
 Verseny
-Kör
-Részidõ
-Ellenfél
-Kihívás
-Kihívás teljesítve!
-Idõ
-Játék eredményei
-Verseny eredményei
-Biztos kilépsz?
-Biztos újraindítod?
+KÃ¶r
+RÃ©szidÃµ
+EllenfÃ©l
+KihÃ­vÃ¡s
+KihÃ­vÃ¡s teljesÃ­tve!
+IdÃµ
+JÃ¡tÃ©k eredmÃ©nyei
+Verseny eredmÃ©nyei
+Biztos kilÃ©psz?
+Biztos ÃºjraindÃ­tod?
 Biztos vagy sem?
 Biztos
 Nem
 Alap
 Bronz
-Ezüst
+EzÃ¼st
 Arany
 Platina
-Game Over! Majd legközelebb!
-ÚJ SZÁLLÍTMÁNY ÉRKEZETT!\n(Nézd meg a dobozokat a\npolcokon!)\n
-GRATULÁLUNK!\n%s PÁLYÁK MOSTANTÓL\nVISSZAFELÉ IS ELÉRHETÕEK\n(Nyomj LEFELÉ a pályaválasztási képernyõn)\n
-GRATULÁLUNK!\n%s PÁLYÁK MOSTANTÓL\nTÜKRÖZÖTTEN IS ELÉRHETÕEK\n(Nyomj FELFELÉ a pályaválasztási képernyõn)\n
-GRATULÁLUNK!\n%s PÁLYÁK MOSTANTÓL\nVISSZAFELÉ ÉS TÜKRÖZÖTTEN IS ELÉRHETÕEK\n(Nyomj LEFELÉ MAJD FELFELÉ\na pályaválasztási képernyõn)\n
-\VPÚJ JÁTÉKMÓD!\n\"ÓRAMÚ ÕRÜLET\"\nFELOLDVA\n
-\VNGRATULÁLUNK!\nMINDEN STUNT ARÉNA CSILLAG ÖSSZEGYÛJTVE\n
-\VSGRATULÁLUNK!\nMINDEN STUNT ARÉNA CSILLAG ÖSSZEGYÛJTVE\n
+Game Over! Majd legkÃ¶zelebb!
+ÃšJ SZÃLLÃTMÃNY Ã‰RKEZETT!\n(NÃ©zd meg a dobozokat a\npolcokon!)\n
+GRATULÃLUNK!\n%s PÃLYÃK MOSTANTÃ“L\nVISSZAFELÃ‰ IS ELÃ‰RHETÃ•EK\n(Nyomj LEFELÃ‰ a pÃ¡lyavÃ¡lasztÃ¡si kÃ©pernyÃµn)\n
+GRATULÃLUNK!\n%s PÃLYÃK MOSTANTÃ“L\nTÃœKRÃ–ZÃ–TTEN IS ELÃ‰RHETÃ•EK\n(Nyomj FELFELÃ‰ a pÃ¡lyavÃ¡lasztÃ¡si kÃ©pernyÃµn)\n
+GRATULÃLUNK!\n%s PÃLYÃK MOSTANTÃ“L\nVISSZAFELÃ‰ Ã‰S TÃœKRÃ–ZÃ–TTEN IS ELÃ‰RHETÃ•EK\n(Nyomj LEFELÃ‰ MAJD FELFELÃ‰\na pÃ¡lyavÃ¡lasztÃ¡si kÃ©pernyÃµn)\n
+\VPÃšJ JÃTÃ‰KMÃ“D!\n\"Ã“RAMÃš Ã•RÃœLET\"\nFELOLDVA\n
+\VNGRATULÃLUNK!\nMINDEN STUNT ARÃ‰NA CSILLAG Ã–SSZEGYÃ›JTVE\n
+\VSGRATULÃLUNK!\nMINDEN STUNT ARÃ‰NA CSILLAG Ã–SSZEGYÃ›JTVE\n
 Nyomd meg a Start Gombot
 Nyomd meg a Start Gombot
 \1Nyomd meg a Start Gombot
-Szünet
+SzÃ¼net
 A Game by
 Project Manager
 Lead
@@ -488,120 +488,120 @@ Track Too Complex!
 Bal
 Jobb
 Duda
-Újrapróbálod?
+ÃšjraprÃ³bÃ¡lod?
 Demo
 Loading Frontend
 Loading Credits
 Loading Game Gauge Benchmark
-Versenyzõk:
+VersenyzÃµk:
 CPU
-Véletlenszerû
-Státusz
-Kész
-Nem áll készen
-Nyomd meg a TAB-ot az indításhoz
-Többrésztvevõs játék Megszakítva!
-Várakozás:
-Várakozás a Host-ra...
+VÃ©letlenszerÃ»
+StÃ¡tusz
+KÃ©sz
+Nem Ã¡ll kÃ©szen
+Nyomd meg a TAB-ot az indÃ­tÃ¡shoz
+TÃ¶bbrÃ©sztvevÃµs jÃ¡tÃ©k MegszakÃ­tva!
+VÃ¡rakozÃ¡s:
+VÃ¡rakozÃ¡s a Host-ra...
 Host
-Pálya
-Játék
-Rossz verzió
+PÃ¡lya
+JÃ¡tÃ©k
+Rossz verziÃ³
 Full
 Rekord
-Skálázott
-Célba ért
+SkÃ¡lÃ¡zott
+CÃ©lba Ã©rt
 Elindult
 Nyitott
 Replay
-Galéria megnézése
+GalÃ©ria megnÃ©zÃ©se
 Helyi
-Letöltés
+LetÃ¶ltÃ©s
 3D Hang
  EAX
-3D Technológia
+3D TechnolÃ³gia
  Wavetracing:
-  Okklúziók
-  Tükrözõdések
-  Részletek
-HUD középre
-Nézet megtartása
+  OkklÃºziÃ³k
+  TÃ¼krÃ¶zÃµdÃ©sek
+  RÃ©szletek
+HUD kÃ¶zÃ©pre
+NÃ©zet megtartÃ¡sa
 Sample Rate
-Tükör
-Verzió
-Nyomj Space-t a Szesszió információi megmutatásához
-Játékosok keresése...
-Haladó beállítások
-Teljes képernyõ
-Képernyõfelbontás
-Képernyõméret
-Képszélesség
+TÃ¼kÃ¶r
+VerziÃ³
+Nyomj Space-t a SzessziÃ³ informÃ¡ciÃ³i megmutatÃ¡sÃ¡hoz
+JÃ¡tÃ©kosok keresÃ©se...
+HaladÃ³ beÃ¡llÃ­tÃ¡sok
+Teljes kÃ©pernyÃµ
+KÃ©pernyÃµfelbontÃ¡s
+KÃ©pernyÃµmÃ©ret
+KÃ©pszÃ©lessÃ©g
 CPU Magok
-Hálózati beállítások
-Sávszélesség használat
-Örökölt kompatibilitás
-Profil beállítások
-Profilok engedélyezése
-Beállítások betöltése
-Beállítások mentése
-Jelszó
-Kérlek várj ...
-Nézõ
-Nyomd meg a space-t az indításhoz
-Nyomd meg a TAB-ot a folytatáshoz
-Maximum csatlakozók
+HÃ¡lÃ³zati beÃ¡llÃ­tÃ¡sok
+SÃ¡vszÃ©lessÃ©g hasznÃ¡lat
+Ã–rÃ¶kÃ¶lt kompatibilitÃ¡s
+Profil beÃ¡llÃ­tÃ¡sok
+Profilok engedÃ©lyezÃ©se
+BeÃ¡llÃ­tÃ¡sok betÃ¶ltÃ©se
+BeÃ¡llÃ­tÃ¡sok mentÃ©se
+JelszÃ³
+KÃ©rlek vÃ¡rj ...
+NÃ©zÃµ
+Nyomd meg a space-t az indÃ­tÃ¡shoz
+Nyomd meg a TAB-ot a folytatÃ¡shoz
+Maximum csatlakozÃ³k
 Pickupok
-Játékos kiválasztása
+JÃ¡tÃ©kos kivÃ¡lasztÃ¡sa
 Teli szoba!
-Játékosok kezelése
-Játékos kirúgása
-Játékos szoba élére helyezése
-Kirúgás a játékból
-Nézõ
-A szoba élére lettél helyezve!
-Játékhoz rendelés
-Kirúgtak a játékból!
-Bevettek a játékba!
+JÃ¡tÃ©kosok kezelÃ©se
+JÃ¡tÃ©kos kirÃºgÃ¡sa
+JÃ¡tÃ©kos szoba Ã©lÃ©re helyezÃ©se
+KirÃºgÃ¡s a jÃ¡tÃ©kbÃ³l
+NÃ©zÃµ
+A szoba Ã©lÃ©re lettÃ©l helyezve!
+JÃ¡tÃ©khoz rendelÃ©s
+KirÃºgtak a jÃ¡tÃ©kbÃ³l!
+Bevettek a jÃ¡tÃ©kba!
 Szellem
-Minden irányítás beállítása
-Irányitás alaphelyzetbe állítása
-A host ismeretlen pályával kezdett játékot!
-Csatlakozás a lobbihoz
-Nyomj Esc-et a megszakításhoz
-Kapcsolat létrejött
+Minden irÃ¡nyÃ­tÃ¡s beÃ¡llÃ­tÃ¡sa
+IrÃ¡nyitÃ¡s alaphelyzetbe Ã¡llÃ­tÃ¡sa
+A host ismeretlen pÃ¡lyÃ¡val kezdett jÃ¡tÃ©kot!
+CsatlakozÃ¡s a lobbihoz
+Nyomj Esc-et a megszakÃ­tÃ¡shoz
+Kapcsolat lÃ©trejÃ¶tt
 Kapcsolat megszakadt
-Nyomd meg a Szünet gombot
+Nyomd meg a SzÃ¼net gombot
 Nyomj meg egy gombot
-Nyelvválasztás
-Profilválasztás
-Profilkészítés
-Profil betöltése
-Profil törlése
-A profil már létezik!
+NyelvvÃ¡lasztÃ¡s
+ProfilvÃ¡lasztÃ¡s
+ProfilkÃ©szÃ­tÃ©s
+Profil betÃ¶ltÃ©se
+Profil tÃ¶rlÃ©se
+A profil mÃ¡r lÃ©tezik!
 Controller hely:
-Fordít / Hátsó Nézet
-Többrésztvevõs CPU
-Letöltés használata
-Globális
+FordÃ­t / HÃ¡tsÃ³ NÃ©zet
+TÃ¶bbrÃ©sztvevÃµs CPU
+LetÃ¶ltÃ©s hasznÃ¡lata
+GlobÃ¡lis
 Per-Rating
-Mipmapok generálása
-Anizotrópia
-Osztottképernyõ
-Vízfodrok
+Mipmapok generÃ¡lÃ¡sa
+AnizotrÃ³pia
+OsztottkÃ©pernyÃµ
+VÃ­zfodrok
 Ablakban
-Multimintázás
-Waiting For Players…
-Joining Next Game…
-Press TAB to Join
-Touch Screen to Start
-Touch Screen to Resume
-Touch Screen to Continue
-Camera View
-Follow
-Chase
-In-Car
+MultimintÃ¡zÃ¡s
+VÃ¡rakozÃ¡s JÃ¡tÃ©kosokraÂ…
+CsatalkozÃ¡s a kÃ¶vetkezÅ‘ jÃ¡tÃ©kkorÂ…
+CsatlakozÃ¡shoz nyomd meg a TAB-ot
+A kezdÃ©shez koppints
+A folytatÃ¡shoz koppints
+A folytatÃ¡shoz koppints
+Kamera NÃ©zet
+KÃ¶vetÃ©s
+ÃœldÃ¶zÃ©s
+BelsÅ‘ nÃ©zet
 Hood
-Button Opacity
-Utolsó Kör!
-Video Renderer
+Gombok Ã¡tlÃ¡tszÃ³sÃ¡ga
+UtolsÃ³ KÃ¶r!
+VideÃ³ lekÃ©pezÅ‘
 Magyar
