@@ -490,7 +490,7 @@ Non prêt
 Appuyez sur TAB pour démarrer
 Le Jeu Multijoueur est terminé!
 Attente :
-Attente serveur...
+Attente serveur…
 Serveur
 Circuit
 Jeu
@@ -522,7 +522,7 @@ Recherche des joueurs…
 Options avancées
 Plein écran
 Résolution écran
-Taille de l’écran
+Taille de l'écran
 Format d'image
 Cœurs CPU
 Paramètres réseau
