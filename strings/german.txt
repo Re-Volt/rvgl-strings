@@ -577,7 +577,7 @@ Profil wählen
 Profil erstellen
 Profil laden
 Profil löschen
-Profil existiert schon!
+Profil existiert!
 Controller-Slot:
 Umdrehen / Rückansicht
 Computergegner im Mehrspieler

@@ -577,7 +577,7 @@ Escolher Perfil
 Criar Perfil
 Carregar Perfil
 Eliminar perfil
-Já existe um perfil com esse nome!
+O perfil existe!
 Ranhura de Controlo:
 Voltar o Carro/Retrovisor
 CPU em Multi-Jogador

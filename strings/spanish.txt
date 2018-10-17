@@ -573,7 +573,7 @@ Cambiar de perfil
 Crear perfil
 Cargar perfil
 Eliminar perfil
-¡Ya existe un perfil con ese nombre!
+¡El perfil existe!
 Controles de:
 Voltear/Vista trasera
 CPU en multijugador

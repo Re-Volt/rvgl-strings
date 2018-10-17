@@ -583,7 +583,7 @@ Seleziona Profilo
 Crea Profilo
 Carica Profilo
 Cancella Profilo
-Profilo già esistente!
+Profilo esistente!
 Slot Controller:
 Ribalta / Guarda indietro
 CPU Multigiocatore

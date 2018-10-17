@@ -577,7 +577,7 @@ Aukeratu profila
 Sortu profila
 Kargatu profila
 Ezabatu profila
-Profila dagoeneko badago!
+Profila badago!
 Kontrolagailu zirrikitua:
 Biratu / Atzera ikuspegia
 Multi-jokalari CPUa

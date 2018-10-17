@@ -577,7 +577,7 @@ Kies profiel
 Maak een nieuw profiel
 Laad profiel
 Verwijder profiel
-Dat profiel bestaat al!
+Dat profiel bestaat!
 Controller-ingang:
 Kantelen / Achteruitzicht
 Multiplayer CPU

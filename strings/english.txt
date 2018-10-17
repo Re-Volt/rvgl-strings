@@ -577,7 +577,7 @@ Select Profile
 Create Profile
 Load Profile
 Delete Profile
-Profile Already Exists!
+Profile Exists!
 Controller Slot:
 Flip / Rear View
 Multiplayer CPU

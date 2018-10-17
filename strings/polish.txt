@@ -577,7 +577,7 @@ Wybierz profil
 Zalóz profil
 Wczytaj profil
 Usun profil
-Profil juz istnieje!
+Profil istnieje!
 Gniazdo kontrolera:
 Odwróc / Widok Wsteczny
 CPU w Multiplayerze

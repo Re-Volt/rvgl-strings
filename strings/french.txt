@@ -565,7 +565,7 @@ Sélectionner profil
 Nouveau profil
 Charger profil
 Supprimer profil
-Ce profil existe déjà!
+Ce profil existe!
 Sélection Joueur:
 Retourner / Vue en arrière
 Multijoueurs CPU

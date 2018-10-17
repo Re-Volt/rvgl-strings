@@ -577,7 +577,7 @@ Profilválasztás
 Profilkészítés
 Profil betöltése
 Profil törlése
-A profil már létezik!
+A profil létezik!
 Controller hely:
 Fordít / Hátsó Nézet
 Többrésztvevõs CPU
