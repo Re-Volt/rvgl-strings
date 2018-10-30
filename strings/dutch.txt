@@ -125,8 +125,8 @@ Sessie stoppen
 Aantal Spelers
 Pakket optimalisatie
 DirectPlay Protocol
-Zoeken naar spellen…
-Meedoen aan een spel…
+Zoeken naar spellenâ€¦
+Meedoen aan een spelâ€¦
 Druk op de spatiebalk om de spelerslijst te vernieuwen
 Volgende circuit
 Standaart
@@ -138,7 +138,7 @@ Laad filmpje
 Sla filmpje op
 Doorgaan
 Doorgaan met de kampioenschap
-Kampioenschap beëindigen
+Kampioenschap beÃ«indigen
 Opnieuw proberen
 Herstart race
 Herstart filmpje
@@ -195,8 +195,8 @@ Zeker weten?
 \VNSla vooruitgang op
 \VSSla instellingen op
 Laad circuits van de gebruiker
-Laden…
-Opslaan…
+Ladenâ€¦
+Opslaanâ€¦
 
 Laad tussentijden
 Sla tussentijden op
@@ -208,7 +208,7 @@ Probeer te repareren
 Beheer je controller pak
 Verander controller pak
 Opnieuw proberen
-Aan het repareren…
+Aan het reparerenâ€¦
 Reparatie heeft gefaald
 Reparatie is succesvol!
 
@@ -218,7 +218,7 @@ in elke race om verder te komen!
 Finish aan de top van de tabel om naar
 de volgende uitdaging te komen!
 Finish bovenaan en
-je wordt geëerd als \"Re-volt Meester\"!
+je wordt geÃ«erd als \"Re-volt Meester\"!
 
 CONTROLLER PAK HERKEND IN\n\rCONTROLLER \7, DEZE CONTROLLER PAK\n\rWORDT GEBRUIKT OM TE OPSLAAN EN LADEN\n\r
 NIEUWE CONTROLLER PAK INGEVOEGD IN\n\rCONTROLLER \7, DEZE CONTROLLER PAK\n\rWORDT GEBRUIKT OM TE OPSLAAN EN LADEN\n\r
@@ -500,9 +500,9 @@ Status
 Klaar
 Niet klaar
 Druk op TAB om te beginnen
-Multiplayer spel beëendigd!
+Multiplayer spel beÃ«endigd!
 Wachten voor:
-Wachten voor de host…
+Wachten voor de hostâ€¦
 Host
 Circuit
 Spel
@@ -530,7 +530,7 @@ Sample Rate
 Achteruitkijkspiegel
 Versie
 Druk spatiebalk om spelerslijst te laten zien
-Zoeken naar spelers…
+Zoeken naar spelersâ€¦
 Geavanceerde opties
 Volledig scherm
 Venster resolutie
@@ -545,7 +545,7 @@ Profielen maken
 Laad instellingen
 Bewaar instellingen
 Wachtwoord
-Wacht Alstublieft …
+Wacht Alstublieft â€¦
 Spectate
 Druk spatiebalk om te beginnen
 Druk op TAB om door te gaan
@@ -590,8 +590,8 @@ Gesplitst scherm
 Waterdeiningen
 Venstermodus
 Multisampling
-Wachten op spelers…
-Volgende race wordt opgestart…
+Wachten op spelersâ€¦
+Volgende race wordt opgestartâ€¦
 Druk op TAB om mee te doen
 Raak scherm aan om te starten
 Raak scherm aan om te hervatten

@@ -18,7 +18,7 @@ Rozpocznij wyscig
 \VPNajlepsze czasy
 \VNCzasy probne
 \VSNajlepsze czasy
-Tabela postepów
+Tabela postepÃ³w
 Edytor tras
 Opcje
 Wyjscie
@@ -26,16 +26,16 @@ Mistrzostwa
 Szybki wyscig
 Mechaniczna rzez
 Bitwa
-Próba czasowa
+PrÃ³ba czasowa
 Trening
-Arena wyczynów
+Arena wyczynÃ³w
 Gra wieloosobowa
 Tryb edycji
-Oblicz statystyki pojazdów
+Oblicz statystyki pojazdÃ³w
 Wybierz pojazd
 Wybierz trase
 Lustrzana
-Odwrócona
+OdwrÃ³cona
 CPU
 Okrazen
 Dystans
@@ -53,14 +53,14 @@ Ustawienia dzwieku
 Ustawienia sterowania
 Wczytaj/Zapisz Rekordy
 Autorzy
-Ilosc pojazdów
+Ilosc pojazdÃ³w
 Losowe pojazdy
 Losowe trasy
 Bronie
 Ilosc okrazen
 Czas bitwy
 Poziom
-Dostepnosc pojazdów
+Dostepnosc pojazdÃ³w
 Miedzyczasy
 Kolizje
 Jednostka predkosci
@@ -84,7 +84,7 @@ Jasnosc
 Kontrast
 Odleglosc rysowania
 Odbicia
-Modele obiektów
+Modele obiektÃ³w
 Slady opon
 Swiatla
 Automatyczne
@@ -95,7 +95,7 @@ Pokazuj licznik FPS
 Filtrowanie tekstur
 Poziom mipmap
 Model szkieletowy
-Pudla pojazdów
+Pudla pojazdÃ³w
 Czasteczki
 Dym
 \VPWysoka rozdzielczosc
@@ -103,11 +103,11 @@ Dym
 \VSWysoka rozdzielczosc
 Podzielony ekran
 Muzyka w grze
-Glosnosc efektów
+Glosnosc efektÃ³w
 Glosnosc muzyki
-Test efektów
+Test efektÃ³w
 Test muzyki
-Kanal efektów
+Kanal efektÃ³w
 Audio
 Stereo
 Mono
@@ -123,10 +123,10 @@ Host:
 Kontynuuj gre
 Opusc gre
 Liczba graczy
-Optymalizacja pakietów
-Protokól DirectPlay
-Wyszukiwanie gry…
-Dolaczenie do gry…
+Optymalizacja pakietÃ³w
+ProtokÃ³l DirectPlay
+Wyszukiwanie gryâ€¦
+Dolaczenie do gryâ€¦
 Wcisnij Spacje aby odswiezyc liste graczy
 Nastepna trasa
 Domyslne
@@ -134,9 +134,9 @@ Braz
 Srebro
 Zloto
 Specjalne
-Wczytaj powtórke
-Zapisz powtórke
-Wznów
+Wczytaj powtÃ³rke
+Zapisz powtÃ³rke
+WznÃ³w
 Kontynuuj Mistrzostwa
 Zakoncz Mistrzostwa
 Poddaj sie
@@ -156,7 +156,7 @@ Gracz
 Save Carinfo Single
 Save Carinfo Multiple
 Save Current Car Info
-Resetuj tabele postepów
+Resetuj tabele postepÃ³w
 Tryb
 Symulacja
 Zrecznosciowy
@@ -176,9 +176,9 @@ ZLOTY PUCHAR
 SPECJALNY PUCHAR
 ZOSTAL ODBLOKOWANY
 LUSTRZANE TRASY
-ODWRÓCONE TRASY
+ODWRÃ“CONE TRASY
 ZOSTALA ODBLOKOWANA
-NOWA DOSTAWA POJAZDÓW
+NOWA DOSTAWA POJAZDÃ“W
 ODBLOKOWALES
 NOWE POJAZDY
 1-SZY
@@ -195,8 +195,8 @@ Jestes pewien?
 \VNZapisz postepy
 \VSZapisz ustawienia
 Wczytaj trasy uzytkownika
-Wczytywanie…
-Zapisywanie…
+Wczytywanieâ€¦
+Zapisywanieâ€¦
 
 Wczytaj miedzyczasy
 Zapisz miedzyczasy
@@ -204,11 +204,11 @@ Kontynuuj
 Kontynuuj bez zapisywania
 Kontynuuj bez wczytywania
 Formatuj Kontroler Pak
-Spróbuj naprawic
+SprÃ³buj naprawic
 Zarzadzaj Kontrolerem Pak
 Zmien Kontroler Pak
-Powtórz
-Próba naprawy…
+PowtÃ³rz
+PrÃ³ba naprawyâ€¦
 Naprawa nie powiodla sie
 Naprawa udana
 
@@ -254,7 +254,7 @@ Specjalny
 Rekrut
 Amator
 Zaawansowany
-Pólprofesjonalny
+PÃ³lprofesjonalny
 Profesjonalista
 4WD
 FWD
@@ -264,13 +264,13 @@ Zablokowana
 Gracz
 Gracze
 Pelna predkosc, Realistyczne kolizje
-Pelna predkosc, Proste kolizje pojazdów
+Pelna predkosc, Proste kolizje pojazdÃ³w
 Pelna predkosc, Proste kolizje
 Zmniejszona predkosc, Proste kolizje
 Przyspieszenie
 Wsteczny
 Strzal
-Odwróc pojazd
+OdwrÃ³c pojazd
 Zrepozycjonuj pojazd
 Zmiana kamery
 Widok z tylu
@@ -295,8 +295,8 @@ Czas wyzwania:
 \VPPozostala Ci
 \VN
 \VSPozostaly Ci
-próba.
-próby.
+prÃ³ba.
+prÃ³by.
 szy
 gi
 ci
@@ -330,8 +330,8 @@ Braz
 Srebro
 Zloto
 Platyna
-Koniec gry! Spróbuj szczescia nastepnym razem!
-NOWA DOSTAWA POJAZDOW!\n(Sprawdz nowe pudla w\nmenu wyboru pojazdów)\n
+Koniec gry! SprÃ³buj szczescia nastepnym razem!
+NOWA DOSTAWA POJAZDOW!\n(Sprawdz nowe pudla w\nmenu wyboru pojazdÃ³w)\n
 GRATULACJE!\n%s TRASY SA TERAZ\nDOSTEPNE W TRYBIE LUSTRZANYM\n(Wcisnij DOL w menu wyboru tras)\n
 GRATULACJE!\n%s TRASY SA TERAZ\nDOSTEPNE W TRYBIE ODWROCONYM\n(Wcisnij GORA w menu wyboru tras)\n
 GRATULACJE!\n%s TRASY SA TERAZ DOSTEPNE \nW TRYBIE LUSTRZANYM ODWROCONYM\n(Wcisnij GORA potem DOL\nw menu wyboru tras)\n
@@ -350,17 +350,17 @@ Programisci Nintendo 64
 Programisci PlayStation
 Grafika i Dzwiek (Oczy i Uszy R/C)
 Dynamika (Dlonie i Stopy R/C)
-Inteligencja (Mózgi R/C)
+Inteligencja (MÃ³zgi R/C)
 Edytor tras
 Dodatkowe programowanie
-Glówny Artysta
+GlÃ³wny Artysta
 Modelowanie Tras
 Tekstury Tras
-Modele Pojazdów i Grafika
+Modele PojazdÃ³w i Grafika
 Na podstawie oryginalnej koncepcji wg
-Glówny Projektant
+GlÃ³wny Projektant
 Projektanci
-Projektowanie Efektów Dzwiekowych
+Projektowanie EfektÃ³w Dzwiekowych
 Muzyka Napisana Przez
 Specjalne Rozwiazania dla N64
 Menadzer Kontroli Jakosci
@@ -381,7 +381,7 @@ Specjalne podziekowania
 \VP
 \VPWykorzystuje Miles Sound System. @ 1991-1999 by Rad Game Tools, inc.
 \VP
-\VPWszystkie znaki handlowe s¹ w³asnoscia
+\VPWszystkie znaki handlowe sÂ¹ wÂ³asnoscia
 \VPAcclaim Entertainment, inc.
 \VP
 \VPTM, r & @ 1999 ACCLAIM ENTERTAINMENT, INC. WSZELKIE PRAWA ZASTRZEZONE
@@ -394,7 +394,7 @@ Specjalne podziekowania
 \VNOpracowane przez Acclaim Studios London
 \VN
 \VNWszystkie postacie w nim zawarte oraz
-\VNich podobizny z dzielnic s¹ znakami towarowymi
+\VNich podobizny z dzielnic sÂ¹ znakami towarowymi
 \VNAcclaim Entertainment, inc.
 \VN
 \VNTM , \2 & \3 1999
@@ -410,7 +410,7 @@ Specjalne podziekowania
 \VSOpracowane przez Acclaim Studios London
 \VS
 \VSWszystkie postacie w nim zawarte oraz
-\VSich podobizny z dzielnic s¹ znakami towarowymi
+\VSich podobizny z dzielnic sÂ¹ znakami towarowymi
 \VSAcclaim Entertainment, inc.
 \VS
 \VSTM , R & @ 1999
@@ -475,23 +475,23 @@ Nie zapisales biezacej trasy.\n\rChcesz ja zapisac teraz?\n\r
 Nie udalo sie zapisac trasy\n\rPonowic ?
 Nadpisac istniejaca trase?\n\r
 Naprawde chcesz usunac\n\r'%s'\n\r
-Czy chcesz zachowac zmiany\n\rktórych w³aœnie dokona³eœ?\n\r
+Czy chcesz zachowac zmiany\n\rktÃ³rych wÂ³aÅ“nie dokonaÂ³eÅ“?\n\r
 Trasa zapisana!
 Wystapil blad podczas zapisu trasy!
-\1Trasa nie tworzy petli, lub ma\n\ruskok w góre w rurze. Kursor bedzie\n\rustawiony w ostatniej poprawnej pozycji.
-\1Trasa nie tworzy petli, lub ma\n\ruskok w góre. Kursor bedzie\n\rustawiony w ostatniej poprawnej pozycji.
-\1Trasa nie tworzy petli, lub ma\n\ruskok w góre w rurze.
-\1Trasa nie tworzy petli, lub ma\n\rw sobie uskok w góre.
+\1Trasa nie tworzy petli, lub ma\n\ruskok w gÃ³re w rurze. Kursor bedzie\n\rustawiony w ostatniej poprawnej pozycji.
+\1Trasa nie tworzy petli, lub ma\n\ruskok w gÃ³re. Kursor bedzie\n\rustawiony w ostatniej poprawnej pozycji.
+\1Trasa nie tworzy petli, lub ma\n\ruskok w gÃ³re w rurze.
+\1Trasa nie tworzy petli, lub ma\n\rw sobie uskok w gÃ³re.
 Trasa zbyt zlozona!
 \1Trasa nie posiada startu
 \1Trasa posiada wiecej niz jeden start
 Lewo
 Prawo
 Klakson
-Spróbuj ponownie?
+SprÃ³buj ponownie?
 Demo
 Ladowanie menu
-Ladowanie autorów
+Ladowanie autorÃ³w
 Ladowanie Wskaznika Punktu Odniesienia Gry
 Graczy:
 CPU
@@ -502,7 +502,7 @@ Nie jest gotowy
 Wcisnij TAB aby rozpoczac
 Gra Multiplayer Przerwana!
 Czekamy na:
-Czekaj na hosta…
+Czekaj na hostaâ€¦
 Host
 Trasa
 Gra
@@ -512,8 +512,8 @@ Rekord
 Skalowany
 Ukonczony
 Rozpoczety
-Otwórz
-Powtórka
+OtwÃ³rz
+PowtÃ³rka
 Galeria
 Local
 Download
@@ -523,14 +523,14 @@ Technologia 3D:
  Sledzenie Fal:
   Niedroznosci
   Odbicia
-  Szczególy
+  SzczegÃ³ly
 Wysrodkowanie HUDu
 Utrzymanie stylu gry
-Czestotliwosc próby
+Czestotliwosc prÃ³by
 Lusterko wsteczne
 Wersja
 Wcisnij spacje by pokazac informacje sesji
-Szukanie graczy…
+Szukanie graczyâ€¦
 Opcje zaawansowane
 Pelny ekran
 Rozdzielczosc okna
@@ -545,14 +545,14 @@ Odblokuj profile
 Wczytaj ustawienia
 Zapisz ustawienia
 Haslo
-Prosze czekac …
+Prosze czekac â€¦
 Ogladaj
 Wcisnij Spacje, aby rozpoczac
 Wcisnij TAB, aby wznowic
 Maksymalna ilosc polaczen
 Bronie
 Wybierz gracza
-Pokój pelny!
+PokÃ³j pelny!
 Zarzadzaj graczami
 Wyrzuc
 Ustaw jako Host
@@ -574,12 +574,12 @@ Wcisnij Pauze, aby kontynuowac
 Wcisnij dowolny klawisz
 Wybierz jezyk
 Wybierz profil
-Zalóz profil
+ZalÃ³z profil
 Wczytaj profil
 Usun profil
 Profil istnieje!
 Gniazdo kontrolera:
-Odwróc / Widok Wsteczny
+OdwrÃ³c / Widok Wsteczny
 CPU w Multiplayerze
 Uzyj Pobierania
 Globalnie
@@ -590,8 +590,8 @@ Podzielony ekran
 Falowanie wody
 W Oknie
 Multisampling
-Czekanie na graczy…
-Dolaczanie do nastepnej gry…
+Czekanie na graczyâ€¦
+Dolaczanie do nastepnej gryâ€¦
 Wcisnij TAB aby Dolaczyc
 Dotknij Ekranu by Rozpoczac
 Dotknij Ekranu by Wznowic
@@ -601,7 +601,7 @@ Podazajaca
 Sledzaca
 W aucie
 Na masce
-Nieprzezroczystosc Przycisków
+Nieprzezroczystosc PrzyciskÃ³w
 Ostatnie okrazenie!
 Renderer
 Polski

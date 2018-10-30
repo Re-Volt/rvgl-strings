@@ -1,9 +1,9 @@
 Re-Volt
-Spielmodus wählen
+Spielmodus wÃ¤hlen
 Namen eingeben
-Auto wählen
-Strecke wählen
-Meisterschaft wählen
+Auto wÃ¤hlen
+Strecke wÃ¤hlen
+Meisterschaft wÃ¤hlen
 Zusammenfassung
 Verbindungstyp:
 Darstellungsoptionen
@@ -13,7 +13,7 @@ Das Spiel hat bereits begonnen!
 \VPSteuerungs-Einstellungen
 \VNController
 \VSSteuerungs-Einstellungen
-Spiel zum beitreten wählen
+Spiel zum beitreten wÃ¤hlen
 Rennen starten
 \VPBestzeiten
 \VNBestzeiten
@@ -32,18 +32,18 @@ Stunt Arena
 Mehrspieler
 Bearbeitungsmodus
 Fahrzeugstatistik berechnen
-Auto wählen
+Auto wÃ¤hlen
 Strecke
 Gespiegelt
-Rückwärts
+RÃ¼ckwÃ¤rts
 Computergegner
 Runden
-Länge
+LÃ¤nge
 Bronze-Pokal
 Silber-Pokal
 Gold-Pokal
 Platinum-Pokal
-Modus wählen
+Modus wÃ¤hlen
 ???Basic Cornering
 ???Advanced Cornering
 Deine ersten Stunts
@@ -54,8 +54,8 @@ Steuerungs-Einstellungen
 Rekorde Laden/Speichern
 Mitwirkende
 Anzahl der Autos
-Zufälliges Auto
-Zufällige Strecke
+ZufÃ¤lliges Auto
+ZufÃ¤llige Strecke
 Pick-Ups
 Anzahl der Runden
 Battle-Tag Zeitlimit
@@ -75,7 +75,7 @@ Schwer
 Extrem
 Vertikal
 Horizontal
-Auflösung
+AuflÃ¶sung
 Texturen
 Glanz
 Schatten
@@ -88,8 +88,8 @@ Objekte im Spiel
 Reifenspuren
 Lichter
 Automatisch
-Nicht verfügbar
-Kantenglättung
+Nicht verfÃ¼gbar
+KantenglÃ¤ttung
 V-Sync einschalten
 Bilder pro Sekunde anzeigen
 Texturfilterung
@@ -98,16 +98,16 @@ Wireframe
 Auto Boxen
 Partikel
 Rauch
-\VPHohe Auflösung
-\VNMittlere Auflösung
-\VSHohe Auflösung
+\VPHohe AuflÃ¶sung
+\VNMittlere AuflÃ¶sung
+\VSHohe AuflÃ¶sung
 Bildschirmaufteilung
 Musik im Spiel
-Soundeffekt-Lautstärke
-Musik-Lautstärke
+Soundeffekt-LautstÃ¤rke
+Musik-LautstÃ¤rke
 Soundeffekt-Test
 Musik-Test
-Soundeffekt-Kanäle
+Soundeffekt-KanÃ¤le
 Audio
 Stereo
 Mono
@@ -117,18 +117,18 @@ Rennen
 Rekorde
 Spiel starten
 Spiel beitreten
-Warte auf Verbindung mit der Lobby…
-Spiel wählen
+Warte auf Verbindung mit der Lobbyâ€¦
+Spiel wÃ¤hlen
 Computer des Gastgebers (IP):
 Spiel fortsetzen
 Spiel verlassen
 Anzahl von Spielern
 Paket-Optimierung
 DirectPlay-Protokoll
-Suche nach Spielen…
-Trete spiel bei…
+Suche nach Spielenâ€¦
+Trete spiel beiâ€¦
 Leertaste um Spielerliste zu aktualisieren
-Nächste Strecke
+NÃ¤chste Strecke
 Standard
 Bronze
 Silber
@@ -144,7 +144,7 @@ Rennen neustarten
 Aufnahmen neustarten
 Beenden
 Aufnahme abspielen
-Controller wählen:
+Controller wÃ¤hlen:
 Controller konfigurieren
 Tote Zone (Steuerung)
 Steuerungsbereich
@@ -156,7 +156,7 @@ Spieler
 Fahrzeugbeschreibung einmalig speichern
 Fahrzeugbeschreibung mehrfach speichern
 Fahrzeugbeschreibung laufend speichern
-Spielfortschritt zurücksetzen
+Spielfortschritt zurÃ¼cksetzen
 Schwierigkeit
 Simulation
 Arcade
@@ -169,7 +169,7 @@ Km/h
 Km/h (skaliert)
 DU WURDEST
 VERSUCH NOCH BESSER ZU FAHREN
-STELLE DICH DER NÄCHSTEN HERAUSFORDERUNG!
+STELLE DICH DER NÃ„CHSTEN HERAUSFORDERUNG!
 BRONZE-POKAL
 SILBER-POKAL
 GOLD-POKAL
@@ -195,8 +195,8 @@ Bist du sicher?
 \VNSave Progress
 \VSSave Settings
 Load User Tracks
-Loading…
-Saving…
+Loadingâ€¦
+Savingâ€¦
 
 Load Split Times
 Save Split Times
@@ -208,7 +208,7 @@ Attempt Repair
 Manage Controller Pak
 Change Controller Pak
 Erneut versuchen
-Attempting Repair…
+Attempting Repairâ€¦
 Repair Failed
 Repair Successful
 
@@ -216,9 +216,9 @@ Delete Memory Card Block
 Erreiche in jedem Rennen
 mindestens den 3. Platz!
 Erreiche das Podium, um an der
-nächsten Meisterschaft teilzunehmen!
+nÃ¤chsten Meisterschaft teilzunehmen!
 Erreiche das Podium, um dich
- \"Re-Volt Master\" nennen zu können!
+ \"Re-Volt Master\" nennen zu kÃ¶nnen!
 
 CONTROLLER PAK DETECTED IN\n\rCONTROLLER \7, THIS CONTROLLER PAK\n\rWILL BE USED TO SAVE AND LOAD\n\r
 NEW CONTROLLER PAK INSERTED INTO\n\rCONTROLLER \7, THIS CONTROLLER PAK\n\rWILL BE USED TO SAVE AND LOAD\n\r
@@ -236,8 +236,8 @@ REPAIR?
 GAME PROGRESS
 THE SPLIT TIMES
 USER TRACKS
-Überschreiben
-Bestätigen
+Ãœberschreiben
+BestÃ¤tigen
 S
 R
 (S)
@@ -268,18 +268,18 @@ Volle Geschwindigkeit; Vereinfachte Fahrzeug-Physik
 Volle Geschwindigkeit; Einfache Physik
 Reduzierte Geschwindigkeit; Einfache Physik
 Beschleunigen
-Rückwärts
+RÃ¼ckwÃ¤rts
 Feuern
 Auto umdrehen
-Auto zurücksetzen
+Auto zurÃ¼cksetzen
 Kamera wechseln
-Rückansicht
+RÃ¼ckansicht
 Pause
 Strecken
 Gewonnene
 Rennen
 Normal
-Rückwärts
+RÃ¼ckwÃ¤rts
 Gespiegelt
 Sterne
 Modus:
@@ -295,15 +295,15 @@ Herausforderungszeit:
 \VPDu hast
 \VN
 \VSDu hast
-Versuch übrig.
-Versuche übrig.
+Versuch Ã¼brig.
+Versuche Ã¼brig.
 .
 .
 .
 .
-HERZLICHEN GLÜCKWUNSCH!
+HERZLICHEN GLÃœCKWUNSCH!
 DU HAST DICH QUALIFIZIERT!
-HERZLICHEN GLÜCKWUNSCH!
+HERZLICHEN GLÃœCKWUNSCH!
 DU HAST DIE MEISTERSCHAFT BEENDET!
 DU HAST DICH NICHT QUALIFIZIERT!
 Auto
@@ -331,13 +331,13 @@ Silber
 Gold
 Platin
 Game Over!
-NEUE AUTOS WURDEN GELIEFERT!\n(Überprüfe das Angebot an Boxen an\nder Auto-Pyramide)\n
-GLÜCKWUNSCH!\n%s STRECKEN SIND JETZT\n VERFÜGBAR IM RÜCKWÄRTS-MODUS\n(Drücke UNTEN auf dem Strecken-Auswahl-Screen)\n
-GLÜCKWUNSCH!\n%s STRECKEN SIND JETZT\n VERFÜGBAR IM SPIEGEL-MODUS\n(Drücke OBEN auf dem Strecken-Auswahl-Screen)\n
-GLÜCKWUNSCH!\n%s STRECKEN SIND JETZT\n VERFÜGBAR IM RÜCKWÄRTS-SPIEGEL-MODUS\n(Drücke erst UNTEN, dann OBEN auf dem Strecken-Auswahl-Screen)\n
+NEUE AUTOS WURDEN GELIEFERT!\n(ÃœberprÃ¼fe das Angebot an Boxen an\nder Auto-Pyramide)\n
+GLÃœCKWUNSCH!\n%s STRECKEN SIND JETZT\n VERFÃœGBAR IM RÃœCKWÃ„RTS-MODUS\n(DrÃ¼cke UNTEN auf dem Strecken-Auswahl-Screen)\n
+GLÃœCKWUNSCH!\n%s STRECKEN SIND JETZT\n VERFÃœGBAR IM SPIEGEL-MODUS\n(DrÃ¼cke OBEN auf dem Strecken-Auswahl-Screen)\n
+GLÃœCKWUNSCH!\n%s STRECKEN SIND JETZT\n VERFÃœGBAR IM RÃœCKWÃ„RTS-SPIEGEL-MODUS\n(DrÃ¼cke erst UNTEN, dann OBEN auf dem Strecken-Auswahl-Screen)\n
 \VPNEUER SPIELMODUS!\n\"CLOCKWORK CARNAGE\"\nWURDE FREIGESCHALTET\n
-\VNGLÜCKWUNSCH!\nALLE STERNE DER STUNT ARENA GESAMMELT\n
-\VSGLÜCKWUNSCH!\nALLE STERNE DER STUNT ARENA GESAMMELT\n
+\VNGLÃœCKWUNSCH!\nALLE STERNE DER STUNT ARENA GESAMMELT\n
+\VSGLÃœCKWUNSCH!\nALLE STERNE DER STUNT ARENA GESAMMELT\n
 Press Start Button
 Press Start BUTTON to continue
 \1Press Start BUTTON to continue
@@ -495,14 +495,14 @@ Lade Credits
 Lade Game Gauge Benchmark
 Spieler:
 Computergegner
-Zufällig
+ZufÃ¤llig
 Status
 Bereit
 Nicht bereit
 TAB zum Starten
 Spiel abgebrochen!
 Warte auf:
-Warte auf Spielleiter…
+Warte auf Spielleiterâ€¦
 Spielleiter
 Strecke
 Spiel
@@ -525,33 +525,33 @@ Download
   Reflections
   Detail
 Mittiges HUD
-Seitenverhältnis beibehalten
+SeitenverhÃ¤ltnis beibehalten
 Sample Rate
-Rückspiegel
+RÃ¼ckspiegel
 Version
-Drücke die Leertaste, um die Spieler-Liste zu zeigen
-Die Suche nach Spielern läuft…
+DrÃ¼cke die Leertaste, um die Spieler-Liste zu zeigen
+Die Suche nach Spielern lÃ¤uftâ€¦
 Erweiterte Optionen
 Vollbildschirm
-Fensterauflösung
-Fenstergröße
-Seitenverhältnis
+FensterauflÃ¶sung
+FenstergrÃ¶ÃŸe
+SeitenverhÃ¤ltnis
 Prozessorkerne
 Netzwerkoptionen
 Bandbreitenbenutzung
-Kompatibilität mit älteren Versionen
+KompatibilitÃ¤t mit Ã¤lteren Versionen
 Profiloptionen
 Profile aktivieren
 Einstellungen laden
 Einstellungen speichern
 Passwort
-Bitte warten…
+Bitte wartenâ€¦
 Beobachten
 Leertaste zum starten
 TAB um fortzufahrne
 Maximale Verbindungen
 Pick-Ups
-Spieler auswählen
+Spieler auswÃ¤hlen
 Raum voll!
 Spieler verwalten
 Spieler entfernen
@@ -559,9 +559,9 @@ Als Spielleiter festlegen
 Vom Spiel entfernen
 Beobachter
 Du leitest jetzt das Spiel!
-Zum spiel hinzufügen
+Zum spiel hinzufÃ¼gen
 Du wurdest vom Spiel entfernt!
-Du wurdest zum Spiel hinzugefügt!
+Du wurdest zum Spiel hinzugefÃ¼gt!
 Geist anzeigen
 Alle Steuerungen festlegen
 Steuerung auf Standard gesetzt
@@ -570,16 +570,16 @@ Verbinde mit Lobby
 Esc zum abbrechen
 Verbindung erfolgreich
 Verbindung abgebrochen
-Pause drücken um fortzufahren
-Drücke eine beliebige Taste
-Sprache wählen
-Profil wählen
+Pause drÃ¼cken um fortzufahren
+DrÃ¼cke eine beliebige Taste
+Sprache wÃ¤hlen
+Profil wÃ¤hlen
 Profil erstellen
 Profil laden
-Profil löschen
+Profil lÃ¶schen
 Profil existiert!
 Controller-Slot:
-Umdrehen / Rückansicht
+Umdrehen / RÃ¼ckansicht
 Computergegner im Mehrspieler
 Downloads benutzen
 Alle Klassen
@@ -590,12 +590,12 @@ Geteilter Bildschirm
 Wellen im Wasser
 Fenster
 Multisampling
-Warte auf Spieler…
-Trete dem nächsten Spiel bei…
-Drücke TAB um beizutreten
-Zum Starten Bildschirm berühren
-Zum Fortfahren Bildschirm berühren
-Zum Fortfahren Bildschirm berühren
+Warte auf Spielerâ€¦
+Trete dem nÃ¤chsten Spiel beiâ€¦
+DrÃ¼cke TAB um beizutreten
+Zum Starten Bildschirm berÃ¼hren
+Zum Fortfahren Bildschirm berÃ¼hren
+Zum Fortfahren Bildschirm berÃ¼hren
 Kameraansicht
 Folgen
 Verfolgen

@@ -9,7 +9,7 @@ Multi Type:
 Render Settings
 Game Type
 Waiting Room
-Game In Progress…
+Game In Progressâ€¦
 \VPController Settings
 \VNController
 \VSController Settings
@@ -125,8 +125,8 @@ Leave Game
 Number of Players
 Packet Optimization
 DirectPlay Protocol
-Searching for Games…
-Joining Game…
+Searching for Gamesâ€¦
+Joining Gameâ€¦
 Press Spacebar To Refresh Player List
 Next Track
 Default
@@ -195,8 +195,8 @@ Are you sure?
 \VNSave Progress
 \VSSave Settings
 Load User Tracks
-Loading…
-Saving…
+Loadingâ€¦
+Savingâ€¦
 
 Load Split Times
 Save Split Times
@@ -208,7 +208,7 @@ Attempt Repair
 Manage Controller Pak
 Change Controller Pak
 Retry
-Attempting Repair…
+Attempting Repairâ€¦
 Repair Failed
 Repair Successful
 
@@ -502,7 +502,7 @@ Not Ready
 Press TAB to Start
 Multiplayer Game Terminated!
 Waiting For:
-Waiting For Host…
+Waiting For Hostâ€¦
 Host
 Track
 Game
@@ -530,7 +530,7 @@ Sample Rate
 Rearview Mirror
 Version
 Press Spacebar To Show Session Info
-Searching for Players…
+Searching for Playersâ€¦
 Advanced Options
 Full Screen
 Window Resolution
@@ -545,7 +545,7 @@ Enable Profiles
 Load Settings
 Save Settings
 Password
-Please Wait …
+Please Wait â€¦
 Spectate
 Press Space to Start
 Press TAB to Resume
@@ -590,8 +590,8 @@ Split Screen
 Water Ripples
 Windowed
 Multisampling
-Waiting For Players…
-Joining Next Game…
+Waiting For Playersâ€¦
+Joining Next Gameâ€¦
 Press TAB to Join
 Touch Screen to Start
 Touch Screen to Resume

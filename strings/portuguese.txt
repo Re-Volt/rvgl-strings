@@ -3,113 +3,113 @@ Tipo de Jogo
 Nome
 Carro
 Circuito
-Escolher TaÁa
+Escolher Ta√ßa
 Resumo
 Multi-Jogador:
-OpÁıes de RenderizaÁ„o
+Op√ß√µes de Renderiza√ß√£o
 Tipo de Jogo
 Sala de Espera
-O Jogo j· comeÁou!
+O Jogo j√° come√ßou!
 \VPConfig. Controlos
 \VNControlo
 \VSConfig. Controlos
 Escolher Jogo a Entrar
-ComeÁar Corrida
+Come√ßar Corrida
 \VPMelhores Tempos
-\VNTempos Contra-RelÛgio
+\VNTempos Contra-Rel√≥gio
 \VSMelhores Tempos
 Quadro de Progressos
 Editor de Circuitos
-OpÁıes
+Op√ß√µes
 Sair
 Campeonato
-Corrida IndivÌdual
+Corrida Indiv√≠dual
 Carnificina 'Clockwork'
 Battle Tag
-Contra-RelÛgio
-Pr·ctica
+Contra-Rel√≥gio
+Pr√°ctica
 Arena de Acrobacias
 Multi-Jogador
 Menu MAKEITGOOD
-Calcular EstatÌsticas do Carro
+Calcular Estat√≠sticas do Carro
 Escolher Carro
 Escolher Circuito
 Espelhado
 Invertido
 Carros CPU
 Voltas
-Dist‚ncia
-TaÁa de Bronze
-TaÁa de Prata
-TaÁa de Ouro
-TaÁa de Platina
+Dist√¢ncia
+Ta√ßa de Bronze
+Ta√ßa de Prata
+Ta√ßa de Ouro
+Ta√ßa de Platina
 Modo de Fisica
-Curvas B·sicas
+Curvas B√°sicas
 Curvas Completas
 As Primeiras Acrobacias
-OpÁıes de Jogo
-OpÁıes de VÌdeo
-OpÁıes de Som
+Op√ß√µes de Jogo
+Op√ß√µes de V√≠deo
+Op√ß√µes de Som
 Comandos
 Carregar/Guardar Recordes
-Ver CrÈditos
-N˙mero de Carros
-Carros AleatÛrios
-Circuitos AleatÛrios
+Ver Cr√©ditos
+N√∫mero de Carros
+Carros Aleat√≥rios
+Circuitos Aleat√≥rios
 Armas
-N˙mero de Voltas
+N√∫mero de Voltas
 Tempo Limite do Battle Tag
 Dificuldade
-NÌvel de Carros
+N√≠vel de Carros
 Tempos Parciais
-Colis„o
+Colis√£o
 Unidades de Velocidade
 Indroduzir Nome
 Lig.
 Deslig.
 Sim
-N„o
-F·cil
-MÈdia
-DifÌcil
+N√£o
+F√°cil
+M√©dia
+Dif√≠cil
 Extrema
 Vertical
 Horizontal
-ResoluÁ„o
+Resolu√ß√£o
 Texturas
-ReluzÍncias
+Reluz√™ncias
 Sombras
-Placa de VÌdeo
+Placa de V√≠deo
 Brilho
 Contraste
-Dist‚ncia de Desenho de Gr·ficos
-Reflexıes
-Modelos de Inst‚ncia
+Dist√¢ncia de Desenho de Gr√°ficos
+Reflex√µes
+Modelos de Inst√¢ncia
 Marcas de Derrapagens
 Luzes
-Autom·tico
-N„o DisponÌval
+Autom√°tico
+N√£o Dispon√≠val
 Anti-Aliasing
 V-Sync
 Mostrar FPS
 Filtro de Texturas
-NÌveis de Mipmap
+N√≠veis de Mipmap
 Wireframe
 Caixas dos Carros
-PartÌculas
+Part√≠culas
 Fumo
 \VPRes. Alta
-\VNRes. MÈdia
+\VNRes. M√©dia
 \VSRes. Alta
-Divis„o de Ecr„
-M˙sica
+Divis√£o de Ecr√£
+M√∫sica
 Volume de Efeitos Sonoros
-Volume da M˙sica
+Volume da M√∫sica
 Teste de Som
-Teste de M˙sica
+Teste de M√∫sica
 Canais de Som
 Audio
-EstÈreo
+Est√©reo
 Mono
 Ver Recordes
 Guardar Recordes
@@ -117,86 +117,86 @@ Corrida
 Recordes
 Iniciar Jogo
 Entrar no Jogo
-Aguardar LigaÁ„o ao Lobby
+Aguardar Liga√ß√£o ao Lobby
 Escolher Jogo
-Computador Anfitri„o:
+Computador Anfitri√£o:
 Continuar o Jogo
 Sair do Jogo
-N˙mero de Jogadores
-OptimizaÁ„o de Pacotes:
+N√∫mero de Jogadores
+Optimiza√ß√£o de Pacotes:
 Protocolo DirectPlay:
-Procurando JogosÖ
-Entrando no JogoÖ
-Carrega em 'EspaÁo' para actualizar a lista!
+Procurando Jogos‚Ä¶
+Entrando no Jogo‚Ä¶
+Carrega em 'Espa√ßo' para actualizar a lista!
 Circuito Seguinte
 Por Defeito
 Bronze
 Prata
 Ouro
 Especial
-Carregar RepetiÁ„o
-Guardar RepetiÁ„o
+Carregar Repeti√ß√£o
+Guardar Repeti√ß√£o
 Continuar
 Continuar Campeonato
 Terminar Campeonato
 Desistir da Tentativa
 Reiniciar Corrida
-Reiniciar RepetiÁ„o
+Reiniciar Repeti√ß√£o
 Sair
-Ver RepetiÁ„o
+Ver Repeti√ß√£o
 Escolher Controlo:
 Configurar Controlos
-Zona Morta de DirecÁ„o
-Alcance de DirecÁ„o
-DirecÁ„o N„o Linear
+Zona Morta de Direc√ß√£o
+Alcance de Direc√ß√£o
+Direc√ß√£o N√£o Linear
 Voltar aos Controlos Por Defeito
-ConfiguraÁ„o
-Modo de DemonstraÁ„o
+Configura√ß√£o
+Modo de Demonstra√ß√£o
 Jogador
 Save Carinfo Single
 Save Carinfo Multiple
-Guardar EstatÌsticas do Carro
+Guardar Estat√≠sticas do Carro
 Apagar Quadro de Progressos
 Modo
-SimulaÁ„o
+Simula√ß√£o
 Arcade
 Consola
 RC Junior
 MPH
-MPH ‡ Escala
+MPH √† Escala
 FPM
 Km/h
-Km/h ‡ Escala
+Km/h √† Escala
 CHEGASTE EM
-TENTA CHEGAR NUMA MELHOR POSI«√O
-PARA DESBLOQUEAR O PR”XIMO DESAFIO
-A TA«A DE BRONZE
-A TA«A DE PRATA
-A TA«A DE OURO
-A TA«A ESPECIAL
-EST¡ DÕSPONIVEL
+TENTA CHEGAR NUMA MELHOR POSI√á√ÉO
+PARA DESBLOQUEAR O PR√ìXIMO DESAFIO
+A TA√áA DE BRONZE
+A TA√áA DE PRATA
+A TA√áA DE OURO
+A TA√áA ESPECIAL
+EST√Å D√çSPONIVEL
 OS CIRCUITOS ESPELHADOS
 OS CIRCUITOS INVERTIDOS
-EST√O DISPONÕVEIS
+EST√ÉO DISPON√çVEIS
 NOVA ENTREGA DE CARROS
 DESBLOQUEASTE
 CARROS NOVOS
-1∫
-2∫
-3∫
+1¬∫
+2¬∫
+3¬∫
 Carregar/Guardar
 ERRO!
 AVISO!
 Tens a certeza?
-\VPCarregar ConfiguraÁıes
+\VPCarregar Configura√ß√µes
 \VNCarregar Progresso
-\VSCarregar ConfiguraÁıes
-\VPGuardar ConfiguraÁıes
+\VSCarregar Configura√ß√µes
+\VPGuardar Configura√ß√µes
 \VNGuardar Progresso
-\VSGuardar ConfiguraÁıes
+\VSGuardar Configura√ß√µes
 Carregar Circuitos de Utilizador
-CarregandoÖ
-GuardandoÖ
+Carregando‚Ä¶
+Guardando‚Ä¶
 
 Carregar Tempos Parciais
 Guardar Tempos Parciais
@@ -205,32 +205,32 @@ Continuar Sem Guardar
 Continuar Sem Carregar
 Formatar Controller Pak
 Tentar Reparar o Problema
-Gest„o do Controller Pak
+Gest√£o do Controller Pak
 Mudar de Controller Pak
 Tentar de Novo
-ReparandoÖ
-ReparaÁ„o Falhada!
-ReparaÁ„o Com Successo!
+Reparando‚Ä¶
+Repara√ß√£o Falhada!
+Repara√ß√£o Com Successo!
 
 Eliminar Bloco do Memory Card
-Chega em 3∫ ou melhor em cada
-corrida para avanÁares!
+Chega em 3¬∫ ou melhor em cada
+corrida para avan√ßares!
 Chega ao topo da tabela para
-desbloquear o prÛximo desafio!
+desbloquear o pr√≥ximo desafio!
 Chega ao topo da tabela para
 seres coroado \"Re-Volt Master\"!
 
-CONTROLLER PAK DETECTADO NO \n\rCONTROLADOR \7, ESTE CONTROLLER PAK\n\rSER¡ USADO PARA CARREGAR E GUARDAR\n\r
-NOVO CONTROLLER PAK INSERIDO NO\n\rCONTROLADOR \7, ESTE CONTROLLER PAK\n\rSER¡ USADO PARA CARREGAR E GUARDAR\n\r
-CONTROLLER PAK INSERIDO NO\n\rCONTROLADOR \7, SER¡ USADO PARA\n\rGUARDAR E CARREGAR
-AVISO! CONTROLLER PAK INV¡LIDO!!\r\nCONTROLLER PAK \7 EST¡ DANIFICADO
-AVISO!\r\nCONTROLLER PAK \7 CHEIO\n\rIMPOSSÕVEL GUARDAR
-AVISO!\r\nCONTROLLER PAK \7 CHEIO\n\rIMPOSSÕVEL GUARDAR
+CONTROLLER PAK DETECTADO NO \n\rCONTROLADOR \7, ESTE CONTROLLER PAK\n\rSER√Å USADO PARA CARREGAR E GUARDAR\n\r
+NOVO CONTROLLER PAK INSERIDO NO\n\rCONTROLADOR \7, ESTE CONTROLLER PAK\n\rSER√Å USADO PARA CARREGAR E GUARDAR\n\r
+CONTROLLER PAK INSERIDO NO\n\rCONTROLADOR \7, SER√Å USADO PARA\n\rGUARDAR E CARREGAR
+AVISO! CONTROLLER PAK INV√ÅLIDO!!\r\nCONTROLLER PAK \7 EST√Å DANIFICADO
+AVISO!\r\nCONTROLLER PAK \7 CHEIO\n\rIMPOSS√çVEL GUARDAR
+AVISO!\r\nCONTROLLER PAK \7 CHEIO\n\rIMPOSS√çVEL GUARDAR
 ERRO!\r\nCOMANDO DESLIGADO
-AVISO!\r\nN√P H¡ NENHUM \r\nCONTROLLER PAK; N√O SER¡ POSSÕVEL\n\rGUARDAR OU CARREGAR
-ERRO!\r\nNO CONTROLLER PAK \7\r\nIMPOSSÕVEL DE LOCALIZAR\n\r
+AVISO!\r\nN√ÉP H√Å NENHUM \r\nCONTROLLER PAK; N√ÉO SER√Å POSS√çVEL\n\rGUARDAR OU CARREGAR
+ERRO!\r\nNO CONTROLLER PAK \7\r\nIMPOSS√çVEL DE LOCALIZAR\n\r
 POR FAVOR, REMOVA O \n\rRUMBLE PAK E INSIRA UM \n\rCONTROLLER PAK, DEPOIS TENTE DE NOVO
-Este jogo È compativel com RUMBLE PAK\n\rPor favor, insira o seu RUMBLE PAK\n\ragora se o deseja utilizar.
+Este jogo √© compativel com RUMBLE PAK\n\rPor favor, insira o seu RUMBLE PAK\n\ragora se o deseja utilizar.
 AVISO!\r\nOs dados previamente guardados \n\rpodem ser perdidos!
 REPARAR?
 PROGRESSO
@@ -243,17 +243,17 @@ Inv.
 (ESP)
 (INV)
 Classe
-NÌvel
+N√≠vel
 Velocidade
-AcelaraÁ„o
+Acelara√ß√£o
 Peso
-TracÁ„o
-ElÈctrico
+Trac√ß√£o
+El√©ctrico
 Gasolina
 Especial
 Novato
 Amador
-AvanÁado
+Avan√ßado
 Semi-Profissional
 Profissional
 4x4
@@ -263,27 +263,27 @@ Desconhecida
 Bloqueada
 Jogador
 Jogadores
-Velocidade M·xima, Colisıes Realistas
-Velocidade M·xima, Colisıes Simples Entre VeÌculos
-Velocidade M·xima, Colisıes B·sicas
-Velocidade Reduzida, Colisıes B·sicas
+Velocidade M√°xima, Colis√µes Realistas
+Velocidade M√°xima, Colis√µes Simples Entre Ve√≠culos
+Velocidade M√°xima, Colis√µes B√°sicas
+Velocidade Reduzida, Colis√µes B√°sicas
 Acelarar
-Trav„o/Marcha Atr·s
+Trav√£o/Marcha Atr√°s
 Disparar
 Voltar o Carro
 Reposicionar
-Mudar a C‚mara
+Mudar a C√¢mara
 Retrovisor
 Pausa
 Circuito
-1∫
+1¬∫
 Lugar
 Norm.
 Inv.
 Esp.
 Estrelas
 Modo:
-NÌvel:
+N√≠vel:
 Circuito:
 Carro
 Corrida Ganha:
@@ -297,19 +297,19 @@ Recorde:
 \VSFalta-te
 tentativa.
 tentativas.
-∫
-∫
-∫
-∫
-PARAB…NS!
+¬∫
+¬∫
+¬∫
+¬∫
+PARAB√âNS!
 QUALIFICASTE-TE!
-PARAB…NS!
+PARAB√âNS!
 TERMINASTE O CAMPEONATO!
-N√O TE CLASSIFICASTE!
+N√ÉO TE CLASSIFICASTE!
 Carro
 Pontos
 Melhor Volta
-⁄ltima Volta
+√öltima Volta
 Tempo de Volta
 Corrida
 Volta
@@ -321,23 +321,23 @@ Tempo
 Resultado do Jogo
 Resultado da Corrida
 Sair mesmo?
-ComeÁar de novo?
-A sÈrio ou est·s a brincar?
-A sÈrio!
-Estou a brincar...
+Come√ßar de novo?
+A s√©rio ou est√°s a brincar?
+A s√©rio!
+Estou a brincar‚Ä¶
 Por Defeito
 Bronze
 Prata
 Ouro
 Platina
-GAME OVER! Melhor sorte para a prÛxima!
-NOVA ENTREGA DE CARROS!\n(Verifica os carros disponÌveis\nno menu de Carros)\n
-PARAB…NS!\nOS CIRCUITOS D%s EST√O AGORA\nDISPONÕVEIS EM MODO INVERTIDO\n(Carrega BAIXO no menu de Circuitos)\n
-PARAB…NS!\nOS CIRCUITOS D%s EST√O AGORA\nDISPONÕVEIS EM MODO ESPELHADO\n(Carrega CIMA no menu de Circuitos)\n
-PARAB…NS!\nOS CIRCUITOS D%s EST√O AGORA\nDISPONÕVEIS EM MODO INVERTIDO E ESPELHADO\n(Carrega CIMA e depois BAIXO\nno menu de Circuitos)\n
-\VPNOVO TIPO DE JOGO!\n\"CARNIFICINA 'CLOCKWORK'\"\nAGORA DISPONÕVEL\n
-\VNPARAB…NS!\nAPANHASTE TODAS AS ESTRELAS\nDA ARENA DE ACROBACIAS!\n
-\VSPARAB…NS!\nAPANHASTE TODAS AS ESTRELAS\nDA ARENA DE ACROBACIAS!\n
+GAME OVER! Melhor sorte para a pr√≥xima!
+NOVA ENTREGA DE CARROS!\n(Verifica os carros dispon√≠veis\nno menu de Carros)\n
+PARAB√âNS!\nOS CIRCUITOS D%s EST√ÉO AGORA\nDISPON√çVEIS EM MODO INVERTIDO\n(Carrega BAIXO no menu de Circuitos)\n
+PARAB√âNS!\nOS CIRCUITOS D%s EST√ÉO AGORA\nDISPON√çVEIS EM MODO ESPELHADO\n(Carrega CIMA no menu de Circuitos)\n
+PARAB√âNS!\nOS CIRCUITOS D%s EST√ÉO AGORA\nDISPON√çVEIS EM MODO INVERTIDO E ESPELHADO\n(Carrega CIMA e depois BAIXO\nno menu de Circuitos)\n
+\VPNOVO TIPO DE JOGO!\n\"CARNIFICINA 'CLOCKWORK'\"\nAGORA DISPON√çVEL\n
+\VNPARAB√âNS!\nAPANHASTE TODAS AS ESTRELAS\nDA ARENA DE ACROBACIAS!\n
+\VSPARAB√âNS!\nAPANHASTE TODAS AS ESTRELAS\nDA ARENA DE ACROBACIAS!\n
 Carrega em START
 Carrega em START para Continuar
 \1Carrega em START para Continuar
@@ -348,31 +348,31 @@ Lead
 PC Coders
 Nintendo 64 Coders
 PlayStation Coders
-Visuais e ¡udio (Olhos e Ouvidos dos RC)
-Din‚micas (BraÁos e Pernas dos RC)
-I.A. (CÈrebro dos RC)
+Visuais e √Åudio (Olhos e Ouvidos dos RC)
+Din√¢micas (Bra√ßos e Pernas dos RC)
+I.A. (C√©rebro dos RC)
 Editor de Circuitos
-ProgramaÁ„o Adicional
+Programa√ß√£o Adicional
 Lead Artist
-ModelaÁ„o de Circuitos
+Modela√ß√£o de Circuitos
 Texturas de Circuitos
 Carros e 'Artwork'
 Baseado num conceito original de
 Lead Designer
 Artistas de Desenho
-TÈcnicos de Som
-M˙sica composta por
+T√©cnicos de Som
+M√∫sica composta por
 Mixes para a N64
 Gestor de Controlo de Qualidade
 Equipa de Controlo de Qualidade
 Gestor de Rede
-TÈcnico de PC
+T√©cnico de PC
 Director de Desenvolvimento do Produto
-Director ArtÌstico
+Director Art√≠stico
 Director Creativo (Acting)
-Director de ¡udio
+Director de √Åudio
 Gestor Administrativo
-Director TÈcnico (Acting)
+Director T√©cnico (Acting)
 Agradecimentos Especiais A
 \VP
 \VPDeveloped by Acclaim Studios London
@@ -422,7 +422,7 @@ Agradecimentos Especiais A
 \VS
 \VSTHANK YOU FOR PLAYING!
 \VS
-PeÁas
+Pe√ßas
 Armas
 Ajustar
 Guardar
@@ -430,7 +430,7 @@ Novo
 Carregar
 Exportar
 Sair
-PÙr PeÁas
+P√¥r Pe√ßas
 Eliminando
 Menu
 Aviso!
@@ -443,77 +443,77 @@ Lombas
 Curvas Quadradas
 Curvas Abertas
 Diagonal
-InclinaÁıes
+Inclina√ß√µes
 Solavancos
 Estreito
 Tubo
 Ponte
-IntersecÁ„o
+Intersec√ß√£o
 Salto
 Chicane
 SIM
-N√O
-NÌvel: 1
-NÌvel: 2
-NÌvel: 3
-NÌvel: 4
-NÌvel: 5
-NÌvel: 6
-NÌvel: 7
-NÌvel: 8
-NÌvel: 9
-NÌvel: 10
-NÌvel: 11
-NÌvel: 12
-ConcluÌdo!
+N√ÉO
+N√≠vel: 1
+N√≠vel: 2
+N√≠vel: 3
+N√≠vel: 4
+N√≠vel: 5
+N√≠vel: 6
+N√≠vel: 7
+N√≠vel: 8
+N√≠vel: 9
+N√≠vel: 10
+N√≠vel: 11
+N√≠vel: 12
+Conclu√≠do!
 GUARDAR
 Circuito %d
 Armas inseridas:\n\r%d de 6
-: PosiÁ„o
+: Posi√ß√£o
 : Tamanho
-N„o guardou o circuito.\n\rDeseja guard·-lo agora?\n\r
-N„o foi possÌvel guardar a pista. Tentar de novo?
+N√£o guardou o circuito.\n\rDeseja guard√°-lo agora?\n\r
+N√£o foi poss√≠vel guardar a pista. Tentar de novo?
 Substituir o circuito existente?\n\r
 Apagar mesmo\n\r'%s'?\n\r
-Deseja conservar as suas\n\ralteraÁıes?\n\r
+Deseja conservar as suas\n\raltera√ß√µes?\n\r
 Circuito Guardado!
 Erro a guardar a pista!
-\1O circuito n„o forma uma volta, ou tem um\n\rdegrau num tubo. O cursor\n\rindicar· a ˙ltima posiÁ„o v·lida.
-\1O circuito n„o forma uma volta, ou tem um\n\rdegrau. O cursor\n\rindicar· a ˙ltima posiÁ„o v·lida.
-\1O circuito n„o forma uma volta, ou tem um\n\rdegrau num tubo.
-\1O circuito n„o forma uma volta, ou tem um\n\rdegrau.
+\1O circuito n√£o forma uma volta, ou tem um\n\rdegrau num tubo. O cursor\n\rindicar√° a √∫ltima posi√ß√£o v√°lida.
+\1O circuito n√£o forma uma volta, ou tem um\n\rdegrau. O cursor\n\rindicar√° a √∫ltima posi√ß√£o v√°lida.
+\1O circuito n√£o forma uma volta, ou tem um\n\rdegrau num tubo.
+\1O circuito n√£o forma uma volta, ou tem um\n\rdegrau.
 Circuito demasiado complexo!
-\1O circuito n„o tem uma linha de partida!
+\1O circuito n√£o tem uma linha de partida!
 \1O circuito tem mais do que uma linha\n\rde partida!
 Esquerda
 Direita
 Buzina
 Tentar de novo?
-DEMONSTRA«√O
+DEMONSTRA√á√ÉO
 Carregando Menu Principal
-Carregando CrÈditos
+Carregando Cr√©ditos
 Carregando Benchmark
 Jogadores:
 CPU
-AleatÛrio
+Aleat√≥rio
 Estado
 Pronto!
-N„o prontoÖ
-Carrega em TAB para comeÁar!
+N√£o pronto‚Ä¶
+Carrega em TAB para come√ßar!
 Jogo Multi-Jogador Terminado!
 Esperando por:
-Esperando pelo anfitri„oÖ
-Anfitri„o
+Esperando pelo anfitri√£o‚Ä¶
+Anfitri√£o
 Circuito
 Jogo
-Vers„o Incorrecta
+Vers√£o Incorrecta
 Cheio
 Recorde
-¿ Escala
+√Ä Escala
 Terminou
-ComeÁou
+Come√ßou
 Aberto
-RepetiÁ„o
+Repeti√ß√£o
 Ver Galeria
 Local
 Transferido
@@ -521,55 +521,55 @@ Som 3D
  EAX
 Tecnologia 3D:
  Wavetracing:
-  Oclusıes
+  Oclus√µes
   Reflexos
   Detalhes
 Centrar o HUD
 Manter o Aspecto
-FrequÍncia de Som
+Frequ√™ncia de Som
 Espelho Retrovisor
-Vers„o
-Carrega ESPA«O para mostrar a lista de jogadores
-Procurando por jogadoresÖ
-OpÁıes AvanÁadas
-Ecr„ Inteiro
-ResoluÁ„o
+Vers√£o
+Carrega ESPA√áO para mostrar a lista de jogadores
+Procurando por jogadores‚Ä¶
+Op√ß√µes Avan√ßadas
+Ecr√£ Inteiro
+Resolu√ß√£o
 Tamanho da Janela
-RelaÁ„o de Aspecto
-N˙cleos de CPU
-ConfiguraÁ„o de Rede
+Rela√ß√£o de Aspecto
+N√∫cleos de CPU
+Configura√ß√£o de Rede
 Uso de banda larga
 Compatibilidade
-DefiniÁıes de Perfil
+Defini√ß√µes de Perfil
 Utilizar Perfis
-Carregar DefiniÁıes
-Guardar DefiniÁıes
+Carregar Defini√ß√µes
+Guardar Defini√ß√µes
 Password:
-Espera, por favorÖ
+Espera, por favor ‚Ä¶
 Espectador
-Carrega ESPA«O para comeÁar
+Carrega ESPA√áO para come√ßar
 Carrega TAB para continuar
-Conexıes M·ximas
+Conex√µes M√°ximas
 Armas
 Escolher Jogador
 Sala Cheia!
 Administrar Jogadores
 Expulsar Jogador
-Estabelecer Anfitri„o
+Estabelecer Anfitri√£o
 Remover do Jogo
 Espectador
-…s o anfitri„o desta partida!
+√âs o anfitri√£o desta partida!
 Adicionar ao Jogo
 Foste Expluso do Jogo!
 Foste Adicionado ao Jogo!
 Mostrar Fantasma
 Configurar Todos os Controlos
 Controlos Por Defeito
-O anfitri„o escolheu uma partida desconhecida!
-Ligando ao Lobby da sess„oÖ
+O anfitri√£o escolheu uma partida desconhecida!
+Ligando ao Lobby da sess√£o‚Ä¶
 Carrega ESC para cancelar
-Conex„o estabelecida!
-Conex„o perdida!
+Conex√£o estabelecida!
+Conex√£o perdida!
 Carrega na Pausa para continuar
 Carrega em qualquer tecla para continuar
 Idioma
@@ -581,27 +581,27 @@ O perfil existe!
 Ranhura de Controlo:
 Voltar o Carro/Retrovisor
 CPU em Multi-Jogador
-Usar TransferÍncia
+Usar Transfer√™ncia
 Global
-Por NÌveis
+Por N√≠veis
 Criar Mipmaps
-AnisotrÛpia
-Ecr‚ dividido
-SaliÍncias da ¡gua
+Anisotr√≥pia
+Ecr√¢ dividido
+Sali√™ncias da √Ågua
 Em Janela
 Multisampling
-Esperando por JogadoresÖ
-Entrando no PrÛximo JogoÖ
+Esperando por Jogadores‚Ä¶
+Entrando no Pr√≥ximo Jogo‚Ä¶
 Pressione TAB para entrar
 Toque na tela para iniciar
 Toque na tela para retomar
 Toque na tela para continuar
-Vis„o da c‚mera
+Vis√£o da c√¢mera
 Seguir
 Perseguir
 Dentro do carro
-CapÙ
-Opacidade dos botıes
-⁄ltima Volta!
-Renderizador de VÌdeo
-PortuguÍs
+Cap√¥
+Opacidade dos bot√µes
+√öltima Volta!
+Renderizador de V√≠deo
+Portugu√™s

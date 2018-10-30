@@ -1,56 +1,56 @@
 Re-Volt
-Välj Race
+VÃ¤lj Race
 Ange Namn
-Välj Bil
-Välj Bana
-Välj Mästerskap
+VÃ¤lj Bil
+VÃ¤lj Bana
+VÃ¤lj MÃ¤sterskap
 Sammanfattning
 Anslutningstyp:
-Renderingsinställningar
+RenderingsinstÃ¤llningar
 Speltyp
-Väntrum
+VÃ¤ntrum
 Spelet Har Redan Startat!
-\VPKontrollinställningar
+\VPKontrollinstÃ¤llningar
 \VNKontroller
-\VSKontrollinställningar
-Välj Spel Att Ansluta Till
+\VSKontrollinstÃ¤llningar
+VÃ¤lj Spel Att Ansluta Till
 Starta Race
 \VPTidsutmaningstider
 \VNTidsutmaningstider
 \VSTidsutmaningstider
-Framgångstavla
+FramgÃ¥ngstavla
 Baneditor
 Alternativ
 Avsluta
-Mästerskap
+MÃ¤sterskap
 Singel Race
 Clockwork Carnage
 Battle Tag
 Tidsutmaning
-Träning
+TrÃ¤ning
 Stunt Arena
 Multiplayer
-Redigeringsläge
-Beräkna Bil Egenskaper
-Välj Bil
-Välj Bana
-Spegelvänd
-Baklänges
+RedigeringslÃ¤ge
+BerÃ¤kna Bil Egenskaper
+VÃ¤lj Bil
+VÃ¤lj Bana
+SpegelvÃ¤nd
+BaklÃ¤nges
 CPU Bilar
 Varv
-Längd
-Brons Mästerskap
-Silver Mästerskap
-Guld Mästerskap
-Platinum Mästerskap
-Välj Läge
-Grundläggande Kurvtagning
+LÃ¤ngd
+Brons MÃ¤sterskap
+Silver MÃ¤sterskap
+Guld MÃ¤sterskap
+Platinum MÃ¤sterskap
+VÃ¤lj LÃ¤ge
+GrundlÃ¤ggande Kurvtagning
 Avancerad Kurvtagning
-Dina Första Stunt
-Spelinställningar
-Videoinställningar
-Ljudinställningar
-Kontrollinställningar
+Dina FÃ¶rsta Stunt
+SpelinstÃ¤llningar
+VideoinstÃ¤llningar
+LjudinstÃ¤llningar
+KontrollinstÃ¤llningar
 Ladda/Spara Rekord
 Medverkande
 Antal Bilar
@@ -59,49 +59,49 @@ Slumpa Banor
 Pick-ups
 Antal Varv
 Battle Tag Tid
-Svårighetsgrad
-Tillgängliga Bilar
+SvÃ¥righetsgrad
+TillgÃ¤ngliga Bilar
 Bantider
 Kollision
 Hastighetsenhet
 Ange Namn
-På
+PÃ¥
 Av
 Ja
 Nej
-Lätt
+LÃ¤tt
 Mellan
-Svår
+SvÃ¥r
 Extrem
 Vertikal
 Horisontal
-Upplösning
+UpplÃ¶sning
 Texturer
 Blankhet
 Skuggor
 Videoenhet
 Ljusstyrka
 Kontrast
-Synfält
+SynfÃ¤lt
 Reflektioner
 Objekt I Spelet
-Bromsspår
+BromsspÃ¥r
 Ljus
 Automatisk
-Otillgänglig
+OtillgÃ¤nglig
 Anti-alias
-Tillåt V-Sync
+TillÃ¥t V-Sync
 Visa Frame Rate
 Texturfilter
-Mipmap Nivå
+Mipmap NivÃ¥
 Wireframe
-Bil Lådor
+Bil LÃ¥dor
 Partiklar
-Rök
-\VPHög Upplösning
-\VNMedium Upplösning
-\VSHög Upplösning
-Dela Skärm
+RÃ¶k
+\VPHÃ¶g UpplÃ¶sning
+\VNMedium UpplÃ¶sning
+\VSHÃ¶g UpplÃ¶sning
+Dela SkÃ¤rm
 Spelmusik
 SFX Volym
 Musik Volym
@@ -117,18 +117,18 @@ Race
 Rekord
 Starta Spel
 Anslut Till Spel
-Vänta På Lobby Anslutning
-Välj Spel
-Värddator:
-Fortsätt Spel
+VÃ¤nta PÃ¥ Lobby Anslutning
+VÃ¤lj Spel
+VÃ¤rddator:
+FortsÃ¤tt Spel
 Avsluta Spel
 Antal Spelare
 Paket Optimering
 DirectPlay Protokoll
-Söker Efter Spel…
-Ansluter Till Spel…
-Tryck På Mellanslag För Att Förnya Spelarlista
-Nästa Bana
+SÃ¶ker Efter Spelâ€¦
+Ansluter Till Spelâ€¦
+Tryck PÃ¥ Mellanslag FÃ¶r Att FÃ¶rnya Spelarlista
+NÃ¤sta Bana
 Standard
 Brons
 Silver
@@ -136,28 +136,28 @@ Guld
 Special
 Ladda Repris
 Spara Repris
-Fortsätt
-Fortsätt Mästerskap
-Avsluta Mästerskap
-Ge Upp Försök
+FortsÃ¤tt
+FortsÃ¤tt MÃ¤sterskap
+Avsluta MÃ¤sterskap
+Ge Upp FÃ¶rsÃ¶k
 Starta Om Race
 Starta Om Repris
 Avsluta
 Se Repris
-Välj Kontroller:
+VÃ¤lj Kontroller:
 Konfigurera Kontroller
-Dödzon I Styrningen
+DÃ¶dzon I Styrningen
 Styrutslag
-Icke-linjär Styrning
-Återställ Kontroller
+Icke-linjÃ¤r Styrning
+Ã…terstÃ¤ll Kontroller
 Konfiguration
-Demo Läge
+Demo LÃ¤ge
 Spelare
 Spara En Bilinfo
 Spara Flera Bilinfo
 Spara Nuvarande Bilinfo
-Återställ Framgångstavla
-Spelläge
+Ã…terstÃ¤ll FramgÃ¥ngstavla
+SpellÃ¤ge
 Simulator
 Arkad
 Konsoll
@@ -168,18 +168,18 @@ FPM
 KPH
 Skalad KPH
 DU KOM
-FÖRSÖK KOMMA HÖGRE FÖR ATT
-LÅSA UPP NÄSTA UTMANING!
-BRONS MÄSTERSKAPETS
-SILVER MÄSTERSKAPETS
-GULD MÄSTERSKAPETS
-PLATINUM MÄSTERSKAPETS
-ÄR UPPLÅST
-SPEGELVÄNDA BANOR
-BAKVÄNDA BANOR
-HAR LÅSTS UPP
+FÃ–RSÃ–K KOMMA HÃ–GRE FÃ–R ATT
+LÃ…SA UPP NÃ„STA UTMANING!
+BRONS MÃ„STERSKAPETS
+SILVER MÃ„STERSKAPETS
+GULD MÃ„STERSKAPETS
+PLATINUM MÃ„STERSKAPETS
+Ã„R UPPLÃ…ST
+SPEGELVÃ„NDA BANOR
+BAKVÃ„NDA BANOR
+HAR LÃ…STS UPP
 NY LEVERNAS BILAR
-DU HAR LÅST UPP
+DU HAR LÃ…ST UPP
 NYA BILAR
 1:a
 2:a
@@ -187,38 +187,38 @@ NYA BILAR
 Ladda / Spara
 Fel
 Varning
-Är Du Säker?
-\VPLadda Inställningar
+Ã„r Du SÃ¤ker?
+\VPLadda InstÃ¤llningar
 \VNLadda Framsteg
-\VSLadda Inställningar
-\VPSpara Inställningar
+\VSLadda InstÃ¤llningar
+\VPSpara InstÃ¤llningar
 \VNSpara Framsteg
-\VSSpara Inställningar
+\VSSpara InstÃ¤llningar
 Ladda Egna Banor
-Laddar…
-Sparar…
+Laddarâ€¦
+Spararâ€¦
 
 Ladda Deltider
 Spara Deltider
-Fortsätt
-Fortsätt Utan Att Spara
-Forstätt Utan Att Ladda
+FortsÃ¤tt
+FortsÃ¤tt Utan Att Spara
+ForstÃ¤tt Utan Att Ladda
 Formatera Kontroll Paket
-Försök Reparera
+FÃ¶rsÃ¶k Reparera
 Hantera Kontroll Paket
-Ändra Kontroll Paket
-Försök Igen
-Försöker Reparera…
+Ã„ndra Kontroll Paket
+FÃ¶rsÃ¶k Igen
+FÃ¶rsÃ¶ker Repareraâ€¦
 Reparation Misslyckades
 Reparation Lyckades
 
 Ta Bort Minneskorts Block
-Kom 3:a eller bättre i varje
-race för att gå vidare!
-Sluta som 1:a i mästerskapet för att
-låsa upp nästa mästerskap!
-Sluta som 1:a i mästerskapet och
-bli krönad \"Re-Volt Mästare\"!
+Kom 3:a eller bÃ¤ttre i varje
+race fÃ¶r att gÃ¥ vidare!
+Sluta som 1:a i mÃ¤sterskapet fÃ¶r att
+lÃ¥sa upp nÃ¤sta mÃ¤sterskap!
+Sluta som 1:a i mÃ¤sterskapet och
+bli krÃ¶nad \"Re-Volt MÃ¤stare\"!
 
 CONTROLLER PAK DETECTED IN\n\rCONTROLLER \7, THIS CONTROLLER PAK\n\rWILL BE USED TO SAVE AND LOAD\n\r
 NEW CONTROLLER PAK INSERTED INTO\n\rCONTROLLER \7, THIS CONTROLLER PAK\n\rWILL BE USED TO SAVE AND LOAD\n\r
@@ -236,31 +236,31 @@ REPARERA?
 SPEL FRAMSTEG
 DELTIDERNA
 EGNA BANOR
-Skriv Över
+Skriv Ã–ver
 Konfirmera
 S
 B
 (S)
 (B)
 Klass
-Värdering
+VÃ¤rdering
 Fart
 Acc
 Vikt
 Trans
 Elektrisk
-Glöd
+GlÃ¶d
 Special
-Nybörjare
-Amatör
+NybÃ¶rjare
+AmatÃ¶r
 Avancerad
 Semi-Proffs
 Proffs
 4WD
 FWD
 RWD
-Okänd
-Låst
+OkÃ¤nd
+LÃ¥st
 Spelare
 Spelare
 Full Fart; Realistiska Kollisioner
@@ -270,10 +270,10 @@ Reducerad Fart; Simpla Kollisioner
 Accelerera
 Reversera
 Skjut
-Vänd Bil
+VÃ¤nd Bil
 Repositionera
-Ändra Kamera
-Se Bakåt
+Ã„ndra Kamera
+Se BakÃ¥t
 Pausad
 Banor
 Vunnit
@@ -281,22 +281,22 @@ Race
 Normal
 Reverserad
 Spegel
-Stjärnor
+StjÃ¤rnor
 Racetyp:
-Deltävling:
+DeltÃ¤vling:
 Bana:
 Bil
 Vunnit Race:
-Stjärna:
-Stjärnor:
+StjÃ¤rna:
+StjÃ¤rnor:
 av
 Vunnen
 Utmaningstid:
 \VPDu har
 \VN
 \VSDu har
-Försök Kvar.
-Försök Kvar.
+FÃ¶rsÃ¶k Kvar.
+FÃ¶rsÃ¶k Kvar.
 :a
 :a
 :a
@@ -304,43 +304,43 @@ Försök Kvar.
 GRATULERAR!
 DU HAR KVALIFICERAT!
 GRATULERAR!
-MÄSTERSKAP VUNNET!
+MÃ„STERSKAP VUNNET!
 DU KVALIFICERADE INTE!
 Bil
-Poäng
-Bästa Varv
+PoÃ¤ng
+BÃ¤sta Varv
 Senaste Varv
 Varv
 Race
 Varv
 Deltid
-Motståndare
+MotstÃ¥ndare
 Tidsutmaning
 Du Slog Tidsutmaningen!
 Tid
 Spel Resultat
 Race Resultat
 Vill Du Verkligen Avsluta?
-Vill Du Verkligen Börja Om?
-Verkligen eller På Låtsas?
+Vill Du Verkligen BÃ¶rja Om?
+Verkligen eller PÃ¥ LÃ¥tsas?
 Verkligen
-På Låtsas
+PÃ¥ LÃ¥tsas
 Standard
 Brons
 Silver
 Guld
 Platinum
-Game Over!  Bättre Lycka Nästa Gång!
-NY LEVERANS BILAR!\n(Kolla högen med lådor på\nVälj Bil skärmen)\n
-GRATTIS!\n%s BANOR ÄR NU\n TILLGÄNGLIGA I BAKLÄNGESLÄGE\n(Tryck NER på Välj Bana skärmen)\n
-GRATTIS!\n%s BANOR ÄR NU\nTILLGÄNGLIGA I SPEGELLÄGE\n(Tryck UPP på Välj Bana skärmen)\n
-GRATTIS!\n%s BANOR ÄR NU TILLGÄNGLIGA\nI BAKLÄNGES SPEGELLÄGE\n(Tryck UPP och sen NER\npå Välj Bana skärmen)\n
-\VPNYTT SPELLÄGE!\n\"CLOCKWORK CARNAGE\"\nHAR LÅSTS UPP\n
-\VNGRATTIS!\nALLA STUNT ARENA STJÄRNOR ÄR SAMLADE\n
-\VSGRATTIS!\nALLA STUNT ARENA STJÄRNOR ÄR SAMLADE\n
+Game Over!  BÃ¤ttre Lycka NÃ¤sta GÃ¥ng!
+NY LEVERANS BILAR!\n(Kolla hÃ¶gen med lÃ¥dor pÃ¥\nVÃ¤lj Bil skÃ¤rmen)\n
+GRATTIS!\n%s BANOR Ã„R NU\n TILLGÃ„NGLIGA I BAKLÃ„NGESLÃ„GE\n(Tryck NER pÃ¥ VÃ¤lj Bana skÃ¤rmen)\n
+GRATTIS!\n%s BANOR Ã„R NU\nTILLGÃ„NGLIGA I SPEGELLÃ„GE\n(Tryck UPP pÃ¥ VÃ¤lj Bana skÃ¤rmen)\n
+GRATTIS!\n%s BANOR Ã„R NU TILLGÃ„NGLIGA\nI BAKLÃ„NGES SPEGELLÃ„GE\n(Tryck UPP och sen NER\npÃ¥ VÃ¤lj Bana skÃ¤rmen)\n
+\VPNYTT SPELLÃ„GE!\n\"CLOCKWORK CARNAGE\"\nHAR LÃ…STS UPP\n
+\VNGRATTIS!\nALLA STUNT ARENA STJÃ„RNOR Ã„R SAMLADE\n
+\VSGRATTIS!\nALLA STUNT ARENA STJÃ„RNOR Ã„R SAMLADE\n
 Tryck Start
-Tryck Start för att fortsätta
-\1Tryck Start för att fortsätta
+Tryck Start fÃ¶r att fortsÃ¤tta
+\1Tryck Start fÃ¶r att fortsÃ¤tta
 Paus
 A Game By
 Project Manager
@@ -434,7 +434,7 @@ placera moduler
 ta bort
 meny
 varning
-fråga
+frÃ¥ga
 info
 start block
 rakor
@@ -446,7 +446,7 @@ diagonal
 bank
 rumble
 avsmalning
-rör
+rÃ¶r
 bro
 korsning
 hopp
@@ -472,23 +472,23 @@ pick-ups placerade:\n\r%d av 6
 : position
 : storlek
 Du har inte sparat nuvarnade bana.\n\rVill du spara den nu?\n\r
-Misslyckades att spara\n\rFörsöka igen ?
-Skriva över existerande bana?\n\r
+Misslyckades att spara\n\rFÃ¶rsÃ¶ka igen ?
+Skriva Ã¶ver existerande bana?\n\r
 Vill du verkligen ta bort\n\r'%s'\n\r
-Vill du spara ändringarna\n\rdu gjort?\n\r
+Vill du spara Ã¤ndringarna\n\rdu gjort?\n\r
 Bana Sparad!
 Error Saving Track!
-\1Bansträckningen är inte sluten, eller har ett\n\rsteg i ett rör. Markören kommer att\n\rplaceras på den sista giltiga positionen
-\1Bansträckningen är inte sluten, eller har ett\n\rsteg. Markören kommer att\n\rplaceras på den sista giltiga positionen
-\1Bansträckningen är inte sluten, eller har ett\n\rsteg i ett rör.
-\1Bansträckningen är inte sluten, eller har ett\n\rsteg.
-Bana För Komplex!
+\1BanstrÃ¤ckningen Ã¤r inte sluten, eller har ett\n\rsteg i ett rÃ¶r. MarkÃ¶ren kommer att\n\rplaceras pÃ¥ den sista giltiga positionen
+\1BanstrÃ¤ckningen Ã¤r inte sluten, eller har ett\n\rsteg. MarkÃ¶ren kommer att\n\rplaceras pÃ¥ den sista giltiga positionen
+\1BanstrÃ¤ckningen Ã¤r inte sluten, eller har ett\n\rsteg i ett rÃ¶r.
+\1BanstrÃ¤ckningen Ã¤r inte sluten, eller har ett\n\rsteg.
+Bana FÃ¶r Komplex!
 \1Banan har inte ett Start Block
-\1Banan har mer än ett Start Block
-Vänster
-Höger
+\1Banan har mer Ã¤n ett Start Block
+VÃ¤nster
+HÃ¶ger
 Tuta
-Försök Igen?
+FÃ¶rsÃ¶k Igen?
 Demo
 Laddar Meny
 Laddar Medverkande
@@ -499,20 +499,20 @@ Slumpa
 Status
 Klar
 Inte Klar
-Tryck TAB för att Starta
+Tryck TAB fÃ¶r att Starta
 Multiplayer Spel Avslutat!
-Väntar På:
-Väntar På Värd…
-Värd
+VÃ¤ntar PÃ¥:
+VÃ¤ntar PÃ¥ VÃ¤rdâ€¦
+VÃ¤rd
 Bana
 Spel
 Fel Version
 Full
 Rekord
 Skalad
-I Mål
+I MÃ¥l
 Startat
-Öppen
+Ã–ppen
 Repris
 Visa Galleri
 Lokal
@@ -525,62 +525,62 @@ Ladda Ner
   Reflections
   Detail
 Centrera HUD
-Bibehåll Aspekt
+BibehÃ¥ll Aspekt
 Samplingsfrekvens
 Backspegel
 Version
-Tryck På Mellanslag För Att Visa Spelarlista
-Söka Efter Spelare…
+Tryck PÃ¥ Mellanslag FÃ¶r Att Visa Spelarlista
+SÃ¶ka Efter Spelareâ€¦
 Avancerade Alternativ
-Helskärm
-Upplösning I Fönster
-Storlek På Fönster
+HelskÃ¤rm
+UpplÃ¶sning I FÃ¶nster
+Storlek PÃ¥ FÃ¶nster
 Aspekt Ratio
-CPU Kärnor
-Nätverksinställningar
-Bandbreddsanvändning
+CPU KÃ¤rnor
+NÃ¤tverksinstÃ¤llningar
+BandbreddsanvÃ¤ndning
 Kompabilitet
-Profilinställningar
-Tillåt Profiler
-Ladda Inställningar
-Spara Inställningar
-Lösenord
-Vänligen Vänta …
+ProfilinstÃ¤llningar
+TillÃ¥t Profiler
+Ladda InstÃ¤llningar
+Spara InstÃ¤llningar
+LÃ¶senord
+VÃ¤nligen VÃ¤nta â€¦
 Spectate
-Tryck På Mellanslag för att Starta
-Tryck TAB för att Fortsätta
+Tryck PÃ¥ Mellanslag fÃ¶r att Starta
+Tryck TAB fÃ¶r att FortsÃ¤tta
 Max. anslutningar
 Pick-ups
-Välj spelare
+VÃ¤lj spelare
 Room Full!
 Hantera Spelare
 Sparka Spelare
-Ange som värd
-Ta bort från spelet
+Ange som vÃ¤rd
+Ta bort frÃ¥n spelet
 Spectator
-Du är nu värd detta spel!
-Lägg till i spelet
-Du har tagits bort från spelet!
+Du Ã¤r nu vÃ¤rd detta spel!
+LÃ¤gg till i spelet
+Du har tagits bort frÃ¥n spelet!
 Du har lagts till i spelet!
 Visa Ghost
-Ställ Alla kontroller
+StÃ¤ll Alla kontroller
 Kontroller Ange som standard
-Värd igång spelet med okända spår!
+VÃ¤rd igÃ¥ng spelet med okÃ¤nda spÃ¥r!
 Ansluta till Lobby session
-Tryck Esc för att avbryta
+Tryck Esc fÃ¶r att avbryta
 Anslutning etablerad
 Avbryts anslutningen
-Tryck på Pause för att fortsätta
-Tryck på valfri tangent
-Välj språk
-Välj profil
+Tryck pÃ¥ Pause fÃ¶r att fortsÃ¤tta
+Tryck pÃ¥ valfri tangent
+VÃ¤lj sprÃ¥k
+VÃ¤lj profil
 Skapa profil
 Ladda profil
 Ta bort profil
 Profil finns redan!
 Styrenhets fack:
-Vänd / bakre vy
-Flerspelarläge CPU
+VÃ¤nd / bakre vy
+FlerspelarlÃ¤ge CPU
 Use Download
 Global
 Per-Rating
@@ -590,8 +590,8 @@ Split Screen
 Water Ripples
 Windowed
 Multisampling
-Waiting For Players…
-Joining Next Game…
+Waiting For Playersâ€¦
+Joining Next Gameâ€¦
 Press TAB to Join
 Touch Screen to Start
 Touch Screen to Resume

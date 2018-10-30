@@ -9,7 +9,7 @@ Multi modua:
 Itxura aukerak
 Joko modua
 Itxaron gela
-Jokoa abian…
+Jokoa abianâ€¦
 \VPKontrolagailu aukerak
 \VNKontrolagailua
 \VSKontrolagailu aukerak
@@ -125,8 +125,8 @@ Utzi jokoa
 Jokalari kopurua
 Pakete optimizazioa
 DirectPlay protokoloa
-Jokoak bilatzen…
-Jokora batzen…
+Jokoak bilatzenâ€¦
+Jokora batzenâ€¦
 Sakatu Hutsunea jokalari zerrenda freskatzeko
 Hurrengo ibilbidea
 Lehenetsia
@@ -181,9 +181,9 @@ IREKIA IZAN DA
 AUTOEN ENTREGA BERRIA
 IREKI BERRI DUZU
 AUTO BERRIAK
-1º
-2º
-3º
+1Âº
+2Âº
+3Âº
 Kargatu / Gorde
 Akatsa
 Abisua
@@ -195,8 +195,8 @@ Ziur zaude?
 \VNGorde aurrerapena
 \VSGorde aukerak
 Kargatu erabiltzaile ibilbideak
-Kargatzen…
-Gordetzen…
+Kargatzenâ€¦
+Gordetzenâ€¦
 
 Jargatu denbora zatiak
 Gorde denbora zatiak
@@ -208,7 +208,7 @@ Saiatu konpontzen
 Kudeatu Pak kontrolagailua
 Aldatu Pak kontrolagailua
 Berriz saiatu
-Konpontzen saiatzen…
+Konpontzen saiatzenâ€¦
 Konponketak huts egin du
 Arrakastaz konpondu da
 
@@ -297,10 +297,10 @@ Erronka denbora:
 \VSBeste
 saiakera dituzu.
 saiakera dituzu.
-º
-º
-º
-º
+Âº
+Âº
+Âº
+Âº
 ZORIONAK!
 SAILKATU ZARA!
 ZORIONAK!
@@ -502,7 +502,7 @@ Ez dago prest
 Sakatu TAB hasteko
 Multijokalari jokoa amaituta!
 Itxaroten:
-Ostalariaren zain…
+Ostalariaren zainâ€¦
 Ostalaria
 Ibilbidea
 Jokoa
@@ -530,7 +530,7 @@ Lagin tartea
 Atzeko ikuspegi ispilua
 Bertsioa
 Sakatu hutsune barra sesioko infoa ikusteko
-Jokalariak bilatzen…
+Jokalariak bilatzenâ€¦
 Aukera aurreratuak
 Pantaila osoa
 Lehio bereizmena
@@ -545,7 +545,7 @@ Gaitu profilak
 Kargatu aukerak
 Gorde aukerak
 Pasahitza
-Itxaron mesedez …
+Itxaron mesedez â€¦
 Ikusi
 Sakatu hutsunea hasteko
 Sakatu TAB jarraitzeko
@@ -590,8 +590,8 @@ Zatitu pantaila
 Ur ondulazioa
 Lehiokatuta
 Multilagina
-Jokalariak itxaroten…
-Hurrengo jokora bategiten…
+Jokalariak itxarotenâ€¦
+Hurrengo jokora bategitenâ€¦
 Sakatu TAB bat egiteko
 Ukitu pantaila hasteko
 Ukitu pantaila jarraitzeko

@@ -7,9 +7,9 @@ Seleziona coppa
 Sommario
 Tipo connessione:
 Impostazioni rendering
-Modalità
+ModalitÃ 
 Sala d'attesa
-La partita è già cominciata!
+La partita Ã¨ giÃ  cominciata!
 \VPOpzioni Controller
 \VNController
 \VSOpzioni Controller
@@ -30,7 +30,7 @@ Prove cronometrate
 Allenamento
 Arena
 Multigiocatore
-Modalità modifica
+ModalitÃ  modifica
 Calcola statistiche auto
 Seleziona auto
 Seleziona pista
@@ -43,7 +43,7 @@ Coppa di Bronzo
 Coppa d'Argento
 Coppa d'Oro
 Coppa di Platino
-Modalità selezione
+ModalitÃ  selezione
 Rotazione semplice
 Rotazione avanzata
 La prima acrobazia
@@ -67,11 +67,11 @@ Piste a caso
 Oggetti da raccogliere
 Numero di giri
 Tempo Battle Tag
-Difficoltà
+DifficoltÃ 
 Accesso auto
 Intertempi
 Collisione
-Misurazione velocità
+Misurazione velocitÃ 
 Inserisci il nome
 Si
 No
@@ -88,7 +88,7 @@ Textures
 Brillantezza
 Ombre
 Dispositivo video
-Luminosità
+LuminositÃ 
 Contrasto
 Mostra distanza
 Riflessi
@@ -133,8 +133,8 @@ Abbandona partita
 Numero di giocatori
 Ottimizzazione pacchetti dati:
 Protocollo DirectPlay:
-Ricerca dei giochi…
-Collegamento al gioco…
+Ricerca dei giochiâ€¦
+Collegamento al giocoâ€¦
 Premere la barra spaziatrice per aggiornare la lista dei giocatori
 Pista seguente
 Predefinito
@@ -159,13 +159,13 @@ Raggio sterzata
 Sterzata non lineare
 Impostazioni predefinite
 Configurazione
-Modalità demo
+ModalitÃ  demo
 Giocatore
 Salva auto info singole
 Salva auto info multiple
 Salva auto info in uso
 Azzera tabella progressi
-Modalità
+ModalitÃ 
 Simulazione
 Arcade
 Console
@@ -189,9 +189,9 @@ SONO STATE SBLOCCATE
 LA NUOVA SERIE DI AUTO
 TU HAI SBLOCCATO
 LE NUOVE MACCHINE
-1°
-2°
-3°
+1Â°
+2Â°
+3Â°
 Carica / Salva
 Errore
 Attenzione
@@ -203,8 +203,8 @@ Sei sicuro?
 \VNAvanzamento salvataggio
 \VSImpostazioni salvataggio
 Carica pista utente
-Caricamento…
-Salvataggio…
+Caricamentoâ€¦
+Salvataggioâ€¦
 
 Carica intertempi
 Salva intertempi
@@ -216,7 +216,7 @@ Tentativo di riparazione
 Gestione del Controller Pak
 Cambia il Controller Pak
 Riprova
-Tentativo riparazione…
+Tentativo riparazioneâ€¦
 Riparazione fallita
 Riparazione riuscita
 
@@ -290,7 +290,7 @@ Norm.
 Inv.
 Spec.
 Stelle
-Modalità di gioco:
+ModalitÃ  di gioco:
 Livello:
 Pista:
 Auto
@@ -303,10 +303,10 @@ Tempo di sfida:
 Hai
 tentativo.
 tentativi.
-º
-º
-º
-º
+Âº
+Âº
+Âº
+Âº
 CONGRATULAZIONI!
 TI SEI QUALIFICATO
 CONGRATULAZIONI!
@@ -484,13 +484,13 @@ Vuoi veramente eliminare\n\r'%s'\n\r
 Vuoi mantenere i cambiamenti\n\rche hai appena fatto?
 Pista salvata!
 Errore nel salvataggio\n\rdella pista!
-\1La pista non forma un anello, o ha un\n\rraccordo non valido. Il cursore verrà\n\rposizionato nell'ultima posizione\n\rvalida.
-\1La pista non forma un anello, o ha un\n\rpezzo non valido. Il cursore verrà\n\rposizionato nell'ultima posizione\n\rvalida.
+\1La pista non forma un anello, o ha un\n\rraccordo non valido. Il cursore verrÃ \n\rposizionato nell'ultima posizione\n\rvalida.
+\1La pista non forma un anello, o ha un\n\rpezzo non valido. Il cursore verrÃ \n\rposizionato nell'ultima posizione\n\rvalida.
 \1La pista non forma un anello, o ha un\n\rraccordo non valido.
 \1La pista non forma un anello, o ha un\n\rpezzo non valido.
 Pista troppo complicata!
 \1La pista non ha una griglia di\n\rpartenza
-\1La pista ha più di una griglia di\n\rpartenza
+\1La pista ha piÃ¹ di una griglia di\n\rpartenza
 Sinistra
 Destra
 Clacson
@@ -508,7 +508,7 @@ Non pronto
 Premere TAB per cominciare
 Gioco multiplayer finito!
 Attesa:
-In attesa dell'host…
+In attesa dell'hostâ€¦
 Host
 Pista
 Gioco
@@ -536,22 +536,22 @@ Frequenza di campionamento
 Specchietto retrovisore
 Version
 Premere spazio per mostrare la lista dei giocatori
-Ricerca dei giocatori in corso…
+Ricerca dei giocatori in corsoâ€¦
 Opzioni avanzate
-Modalità schermo intero
+ModalitÃ  schermo intero
 Risoluzione finestra
 Dimensione finestra
 Aspect Ratio
 CPU Cores
 Impostazioni di rete
 Utilizzo banda
-Compatibilità Legacy
+CompatibilitÃ  Legacy
 Impostazioni profilo
 Abilita profili
 Carica impostazioni
 Salva impostazioni
 Password
-Attendere prego …
+Attendere prego â€¦
 Spectate
 Premere spazio per cominciare
 Premere TAB per continuare
@@ -566,7 +566,7 @@ Imposta come Spettatore
 Spettatore
 Ora sei tu l' host del gioco!
 Imposta come Giocatore
-Ora Sei In Modalità Spettatore!
+Ora Sei In ModalitÃ  Spettatore!
 Ora Sei Un Giocatore Attivo!
 Mostra Fantasma
 Impostare tutti i controlli
@@ -596,8 +596,8 @@ Schermo Condiviso
 Increspature Onde
 In Finestra
 Multicampionamento
-In attesa dei giocatori…
-Unione alla prossima partita…
+In attesa dei giocatoriâ€¦
+Unione alla prossima partitaâ€¦
 Per TAB per unirti
 Tocca lo schermo per cominciare
 Tocca lo schermo per riprendere
@@ -607,7 +607,7 @@ Segui da lontano
 Segui da vicino
 Interna
 Cofano
-Opacità bottone
+OpacitÃ  bottone
 Ultimo Giro!
 Renderer video
 Italiano

@@ -6,7 +6,7 @@ Circuito
 Seleccionar Copa
 Resumen
 Modo multijugador:
-Ajustes de gráficos
+Ajustes de grÃ¡ficos
 Tipo de Juego
 Sala de espera
 El juego ya ha comenzado
@@ -20,14 +20,14 @@ Opciones
 Abandonar
 Campeonato
 Carrera individual
-Carnicería de cuerda
+CarnicerÃ­a de cuerda
 Battle Tag
 Contrarreloj
-Práctica
+PrÃ¡ctica
 Circuito de especialistas
 Multijugador
-Modo de edición
-Estadísticas de coche
+Modo de ediciÃ³n
+EstadÃ­sticas de coche
 Seleccionar coche
 Circuito
 Reflejado
@@ -40,42 +40,42 @@ Copa de Plata
 Copa de Oro
 Copa de Platino
 Dificultad
-Giro fácil
+Giro fÃ¡cil
 Giro complejo
 Primera acrobacia
 Ajustes del juego
-Ajustes de vídeo
+Ajustes de vÃ­deo
 Ajustes de sonido
 Controles
 Cargar/Guardar partida
-Ver créditos
-Número de coches
+Ver crÃ©ditos
+NÃºmero de coches
 Coches aleatorios
 Circuitos aleatorios
 Pick ups
-Número de vueltas
+NÃºmero de vueltas
 Tiempo de Battle Tag
 Dificultad
 Nivel de coches
 Coche fantasma
-Colisión
+ColisiÃ³n
 Unidad de velocidad
 Introduce nombre
 Activado
 Desactivado
-Sí
+SÃ­
 No
-Fácil
+FÃ¡cil
 Media
-Difícil
+DifÃ­cil
 Extrema
 Vertical
 Horizontal
-Resolución
+ResoluciÃ³n
 Texturas
 Brillantez
 Sombras
-Tarjeta de vídeo
+Tarjeta de vÃ­deo
 Brillo
 Contraste
 Distancia de dibujado
@@ -83,46 +83,46 @@ Reflejos
 Instancias de modelos
 Marcas de derrapes
 Luces
-Automático
+AutomÃ¡tico
 No disponible
 Antialias
-Sincronización vertical
+SincronizaciÃ³n vertical
 Mostrar FPS
 Filtrado de texturas
 Nivel de Mipmap
 Wireframe
 Cajas de los coches
-Partículas
+PartÃ­culas
 Humo
-\VPAlta resolución
-\VNResolución media
-\VSAlta resolución
+\VPAlta resoluciÃ³n
+\VNResoluciÃ³n media
+\VSAlta resoluciÃ³n
 Pantalla dividida
-Música
+MÃºsica
 Volumen de sonidos
-Volumen de música
+Volumen de mÃºsica
 Prueba de sonido
-Prueba de música
+Prueba de mÃºsica
 Canales de sonido
 Audio
-Estéreo
+EstÃ©reo
 Mono
-Ver récords
-Guardar récords
+Ver rÃ©cords
+Guardar rÃ©cords
 Carrera
-Récords
+RÃ©cords
 Crear partida
 Unirse a partida
-Esperar conexión
+Esperar conexiÃ³n
 Escoger partida
-Ordenador anfitrión:
+Ordenador anfitriÃ³n:
 Continuar partida
 Abandonar partida
-Número de jugadores
-Optimización de paquetes:
+NÃºmero de jugadores
+OptimizaciÃ³n de paquetes:
 Protocolo DirectPlay:
-Buscando partidas…
-Uniéndose a partida…
+Buscando partidasâ€¦
+UniÃ©ndose a partidaâ€¦
 Pulsa Espacio para actualizar la lista
 Siguiente circuito
 Por defecto
@@ -130,31 +130,31 @@ Bronce
 Plata
 Oro
 Especial
-Cargar repetición
-Guardar repetición
+Cargar repeticiÃ³n
+Guardar repeticiÃ³n
 Continuar
 Continuar campeonato
 Terminar campeonato
 Cancelar intento
 Reiniciar juego
-Reiniciar repetición
+Reiniciar repeticiÃ³n
 Abandonar
-Ver repetición
+Ver repeticiÃ³n
 Controlador:
 Configurar controles
-Zona muerta de dirección
-Rango de dirección
-Dirección no lineal
+Zona muerta de direcciÃ³n
+Rango de direcciÃ³n
+DirecciÃ³n no lineal
 Restablecer controles
-Configuración
+ConfiguraciÃ³n
 Modo Demo
 Jugador
 Save Carinfo Single
 Save Carinfo Multiple
-Guardar estadísticas del coche
+Guardar estadÃ­sticas del coche
 Reiniciar tabla de progreso
 Modo
-Simulación
+SimulaciÃ³n
 Arcade
 Consola
 RC Junior
@@ -164,35 +164,35 @@ FPM
 Km/h
 Km/h x10
 HAS LLEGADO
-INTENTA LLEGAR EN MEJOR POSICIÓN
-PARA ACCEDER AL PRÓXIMO DESAFÍO
+INTENTA LLEGAR EN MEJOR POSICIÃ“N
+PARA ACCEDER AL PRÃ“XIMO DESAFÃO
 LA COPA DE BRONCE
 LA COPA DE PLATA
 LA COPA DE ORO
 LA COPA ESPECIAL
-ESTÁ DISPONIBLE
+ESTÃ DISPONIBLE
 LOS CIRCUITOS REFLEJADOS
 LOS CIRCUITOS INVERSOS
-ESTÁN DISPONIBLES
+ESTÃN DISPONIBLES
 NUEVA ENTREGA DE COCHES
 TIENES DISPONIBLES
 NUEVOS COCHES
-1º
-2º
-3º
+1Âº
+2Âº
+3Âº
 Cargar/Guardar
 Error
 Advertencia
-¿Estás seguro?
-\VPCargar configuración
+Â¿EstÃ¡s seguro?
+\VPCargar configuraciÃ³n
 \VNCargar progreso
-\VSCargar configuración
-\VPGuardar configuración
+\VSCargar configuraciÃ³n
+\VPGuardar configuraciÃ³n
 \VNGuardar progreso
-\VSGuardar configuración
+\VSGuardar configuraciÃ³n
 Cargar circuitos de usuario
-Cargando…
-Guardando…
+Cargandoâ€¦
+Guardandoâ€¦
 
 Cargar tiempos parciales
 Guardar tiempos parciales
@@ -204,31 +204,31 @@ Intentar repararlo
 Gestionar Controller Pak
 Cambiar Controller Pak
 Reintentar
-Intentado repararlo…
+Intentado repararloâ€¦
 No ha sido reparado
 Ha sido reparado
 
 Borrar Memory Card Block
-¡Llega al menos el 3º en cada
+Â¡Llega al menos el 3Âº en cada
 carrera para avanzar!
-¡Termina el 1º de la tabla para
-acceder al siguiente desafío!
-¡Termina el 1º de la tabla y
-serás coronado \"Re-Volt Master\"!
+Â¡Termina el 1Âº de la tabla para
+acceder al siguiente desafÃ­o!
+Â¡Termina el 1Âº de la tabla y
+serÃ¡s coronado \"Re-Volt Master\"!
 
-CONTROLLER PAK DETECTADO EN EL\n\rCONTROLADOR \7, ESTE CONTROLLER PAK\n\rSERÁ USADO PARA CARGAR Y GUARDAR\n\r
-NUEVO CONTROLLER PAK INSERTADO EN\n\rCONTROLADOR \7, ESTE CONTROLLER PAK\n\rSERÁ USADO PARA CARGAR Y GUARDAR\n\r
-CONTROLLER PAK INSERTADO EN\n\rCONTROLADOR \7, SERÁ USADO PARA\n\rGUARDAR Y CARGAR
-¡¡AVISO, CONTROLLER PAK INVÁLIDO!!\r\nCONTROLLER PAK \7 ESTÁ DAÑADO
-¡¡AVISO!!\r\nCONTROLLER PAK \7 COMPLETO\n\rIMPOSIBLE GUARDAR
-¡¡AVISO!!\r\nCONTROLLER PAK \7 COMPLETO\n\rIMPOSIBLE GUARDAR
-¡¡ERROR!!\r\nCONTROLLER DESCONECTADO
-¡¡AVISO!!\r\nNO SE HA ENCONTRADO NINGÚN \r\nCONTROLLER PAK; NO SERÁ POSIBLE\n\rGUARDAR O CARGAR
-¡¡ERROR!!\r\nEN EL CONTROLLER PAK \7\r\nNO SE HA ENCONTRADO NINGUNA\n\r
+CONTROLLER PAK DETECTADO EN EL\n\rCONTROLADOR \7, ESTE CONTROLLER PAK\n\rSERÃ USADO PARA CARGAR Y GUARDAR\n\r
+NUEVO CONTROLLER PAK INSERTADO EN\n\rCONTROLADOR \7, ESTE CONTROLLER PAK\n\rSERÃ USADO PARA CARGAR Y GUARDAR\n\r
+CONTROLLER PAK INSERTADO EN\n\rCONTROLADOR \7, SERÃ USADO PARA\n\rGUARDAR Y CARGAR
+Â¡Â¡AVISO, CONTROLLER PAK INVÃLIDO!!\r\nCONTROLLER PAK \7 ESTÃ DAÃ‘ADO
+Â¡Â¡AVISO!!\r\nCONTROLLER PAK \7 COMPLETO\n\rIMPOSIBLE GUARDAR
+Â¡Â¡AVISO!!\r\nCONTROLLER PAK \7 COMPLETO\n\rIMPOSIBLE GUARDAR
+Â¡Â¡ERROR!!\r\nCONTROLLER DESCONECTADO
+Â¡Â¡AVISO!!\r\nNO SE HA ENCONTRADO NINGÃšN \r\nCONTROLLER PAK; NO SERÃ POSIBLE\n\rGUARDAR O CARGAR
+Â¡Â¡ERROR!!\r\nEN EL CONTROLLER PAK \7\r\nNO SE HA ENCONTRADO NINGUNA\n\r
 POR FAVOR, DESCONECTE EL \n\rRUMBLE PAK E INSERTE UN \n\rCONTROLLER PAK. PRUEBE DE NUEVO
 ESTE JUEGO SOPORTA RUMBLE PAK\n\rPOR FAVOR, INSERTE SU RUMBLE PAK\n\rAHORA SI DESEA UTILIZARLO
-¡¡AVISO!!\r\nSE PUEDEN PERDER LOS DATOS \n\rGUARDADOS ANTERIORMENTE!
-¿REPARAR?
+Â¡Â¡AVISO!!\r\nSE PUEDEN PERDER LOS DATOS \n\rGUARDADOS ANTERIORMENTE!
+Â¿REPARAR?
 PROGRESO
 TIEMPOS PARCIALES
 PISTAS DE USUARIO
@@ -243,8 +243,8 @@ Nivel
 Velocidad
 Acelerac.
 Peso
-Tracción
-Eléctrico
+TracciÃ³n
+ElÃ©ctrico
 Gasolina
 Especial
 Novato
@@ -259,16 +259,16 @@ Desconocido
 Bloqueado
 Jugador
 Jugadores
-Velocidad máxima, colisión realista
-Velocidad máxima, colisión simple
-Velocidad máxima, colisión básica
-Velocidad reducida, colisión básica
+Velocidad mÃ¡xima, colisiÃ³n realista
+Velocidad mÃ¡xima, colisiÃ³n simple
+Velocidad mÃ¡xima, colisiÃ³n bÃ¡sica
+Velocidad reducida, colisiÃ³n bÃ¡sica
 Acelerar
-Frenar/Marcha atrás
+Frenar/Marcha atrÃ¡s
 Disparar
 Voltear coche
 Reposicionar
-Cambiar cámara
+Cambiar cÃ¡mara
 Retrovisor
 Pausa
 Pista
@@ -287,54 +287,54 @@ Encontrada:
 Estrellas conseguidas:
 de
 Batido
-Récord:
+RÃ©cord:
 \VPTe quedan
 \VN
 \VSTe queda
 intento.
 intentos.
-º
-º
-º
-º
-¡ENHORABUENA!
-¡TE HAS CLASIFICADO!
-¡ENHORABUENA! ¡HAS
+Âº
+Âº
+Âº
+Âº
+Â¡ENHORABUENA!
+Â¡TE HAS CLASIFICADO!
+Â¡ENHORABUENA! Â¡HAS
 TERMINADO EL CAMPEAONATO!
-¡NO TE HAS CLASIFICADO!
+Â¡NO TE HAS CLASIFICADO!
 Coche
 Punt.
 Mejor  V.
-Última V.
+Ãšltima V.
 Tiempo V.
 Carrera
 Vuelta
 Parcial
 Rival
-Desafío
-¡Desafío superado!
+DesafÃ­o
+Â¡DesafÃ­o superado!
 Tiempo
 Resultado del juego
 Resultado de la carrera
-¿Abandonar?
-¿Recomenzar?
-¿Seguro?
-Sí
+Â¿Abandonar?
+Â¿Recomenzar?
+Â¿Seguro?
+SÃ­
 No
 Por defecto
 Bronce
 Plata
 Oro
 Platino
-¡Has perdido! ¡Más suerte la próxima vez!
-¡NUEVA ENTREGA DE COCHES!\n(Comprueba los coches disponibles\nen el menú de selección de coches)\n
-¡ENHORABUENA!\n%s PISTAS ESTÁN AHORA\nDISPONIBLES EN MODO INVERTIDO\n(Pulsa ABAJO en el menú de circuitos)\n
-¡ENHORABUENA!\n%s PISTAS ESTÁN AHORA\nDISPONIBLES EN MODO REFLEJADO\n(Pulsa ARRIBA en el menú de circuitos)\n
-¡ENHORABUENA!\n%s PISTAS ESTÁN AHORA DISPONIBLES \nEN MODO INVERTIDO Y REFLEJADO\n(Pulsa ARRIBA y después ABAJO\nen el menú de circuitos)\n
-\VP¡NUEVO TIPO DE JUEGO!\n\"CARNICERÍA DE CUERDA\"\nSE ENCUENTRA DISPONIBLE\n
-\VN¡ENHORABUENA!\nHAS REUNIDO TODAS LAS ESTRELLAS\nDEL CIRCUITO DE ESPECIALISTAS\n
-\VS¡ENHORABUENA!\nHAS REUNIDO TODAS LAS ESTRELLAS\nDEL CIRCUITO DE ESPECIALISTAS\n
-Pulsa el botón Start
+Â¡Has perdido! Â¡MÃ¡s suerte la prÃ³xima vez!
+Â¡NUEVA ENTREGA DE COCHES!\n(Comprueba los coches disponibles\nen el menÃº de selecciÃ³n de coches)\n
+Â¡ENHORABUENA!\n%s PISTAS ESTÃN AHORA\nDISPONIBLES EN MODO INVERTIDO\n(Pulsa ABAJO en el menÃº de circuitos)\n
+Â¡ENHORABUENA!\n%s PISTAS ESTÃN AHORA\nDISPONIBLES EN MODO REFLEJADO\n(Pulsa ARRIBA en el menÃº de circuitos)\n
+Â¡ENHORABUENA!\n%s PISTAS ESTÃN AHORA DISPONIBLES \nEN MODO INVERTIDO Y REFLEJADO\n(Pulsa ARRIBA y despuÃ©s ABAJO\nen el menÃº de circuitos)\n
+\VPÂ¡NUEVO TIPO DE JUEGO!\n\"CARNICERÃA DE CUERDA\"\nSE ENCUENTRA DISPONIBLE\n
+\VNÂ¡ENHORABUENA!\nHAS REUNIDO TODAS LAS ESTRELLAS\nDEL CIRCUITO DE ESPECIALISTAS\n
+\VSÂ¡ENHORABUENA!\nHAS REUNIDO TODAS LAS ESTRELLAS\nDEL CIRCUITO DE ESPECIALISTAS\n
+Pulsa el botÃ³n Start
 Pulsa Start para continuar
 \1Pulsa Start para continuar
 Pausa
@@ -345,30 +345,30 @@ PC Coders
 Nintendo 64 Coders
 PlayStation Coders
 Visuales y Audio (Ojos y Oidos)
-Física (Brazos y Piernas)
+FÃ­sica (Brazos y Piernas)
 I.A. (Cerebro)
 Editor de Pistas
-Programación adicional
+ProgramaciÃ³n adicional
 Lead Artist
 Modelado de Pistas
 Texturas
 Coches de CR
 Basado en un concepto original de
 Lead Designer
-Diseñadores
+DiseÃ±adores
 Responsable de Sonido
-Música Compuesta por
+MÃºsica Compuesta por
 Arreglos para N64
 Responsable de Calidad
 Equipo de Control de Calidad
 Responsable de Red
-Técnico de PC
+TÃ©cnico de PC
 Director de Desarrollo
-Director Artístico
+Director ArtÃ­stico
 Director Creativo (Acting)
 Director de Audio
 Responsable Administrativo
-Director Técnico (Acting)
+Director TÃ©cnico (Acting)
 Agradecimientos Especiales A
 \VP
 \VPDeveloped by Acclaim Studios London
@@ -428,11 +428,11 @@ exportar
 salir
 poner piezas
 borrando
-menú
+menÃº
 aviso
 pregunta
 info
-lín. salida
+lÃ­n. salida
 rectas
 baches 1
 baches 2
@@ -442,12 +442,12 @@ diagonal
 inclinadas
 comb. baches
 estrechez
-tubería
+tuberÃ­a
 puente
 cruce
 salto
 chicane
-SÍ
+SÃ
 NO
 fase: 1
 fase: 2
@@ -461,34 +461,34 @@ fase: 9
 fase: 10
 fase: 11
 fase: 12
-¡Concluido!
+Â¡Concluido!
 GRABAR
 Pista %d
 pickups puestos:\n\r%d de 6
-posición
-tamaño
-No ha guardado la pista\n\r¿Desea guardarla ahora?\n\r
-No se pudo guardar la pista. ¿Reintentar?
-¿Reemplazar la pista existente?\n\r
-¿Realmente desea borrar\n\r'%s'?\n\r
-¿Desea conservar los cambios\n\rque acaba de hacer?\n\r
-¡Circuito guardado!
-¡Error guardando la pista!
-\1La pista no forma un bucle, o tiene un\n\rescalón en una tubería.El cursor\n\rindicará la última posición válida.
-\1La pista no forma un bucle, o tiene un\n\rescalón. El cursor indicará\n\rla última posición válida.
-\1La pista no forma un bucle, o tiene un\n\rescalón en una tubería.
-\1La pista no forma un bucle, o tiene un\n\rescalón.
-¡Pista demasiado compleja!
+posiciÃ³n
+tamaÃ±o
+No ha guardado la pista\n\rÂ¿Desea guardarla ahora?\n\r
+No se pudo guardar la pista. Â¿Reintentar?
+Â¿Reemplazar la pista existente?\n\r
+Â¿Realmente desea borrar\n\r'%s'?\n\r
+Â¿Desea conservar los cambios\n\rque acaba de hacer?\n\r
+Â¡Circuito guardado!
+Â¡Error guardando la pista!
+\1La pista no forma un bucle, o tiene un\n\rescalÃ³n en una tuberÃ­a.El cursor\n\rindicarÃ¡ la Ãºltima posiciÃ³n vÃ¡lida.
+\1La pista no forma un bucle, o tiene un\n\rescalÃ³n. El cursor indicarÃ¡\n\rla Ãºltima posiciÃ³n vÃ¡lida.
+\1La pista no forma un bucle, o tiene un\n\rescalÃ³n en una tuberÃ­a.
+\1La pista no forma un bucle, o tiene un\n\rescalÃ³n.
+Â¡Pista demasiado compleja!
 \1La pista no tiene parrilla de salida
-\1La pista tiene más de una parrilla\n\rde salida
+\1La pista tiene mÃ¡s de una parrilla\n\rde salida
 Izquierda
 Derecha
 Claxon
-¿Intentarlo de nuevo?
+Â¿Intentarlo de nuevo?
 Demo
-Cargando menú
-Cargando créditos
-Cargando módulo de prueba
+Cargando menÃº
+Cargando crÃ©ditos
+Cargando mÃ³dulo de prueba
 Jugadores:
 CPU
 Aleatorio
@@ -496,26 +496,26 @@ Estado
 Listo
 No listo
 Pulsa TABULADOR para comenzar
-¡Juego multijugador terminado!
+Â¡Juego multijugador terminado!
 Esperando a:
-Esperando al anfitrión…
-Anfitrión
+Esperando al anfitriÃ³nâ€¦
+AnfitriÃ³n
 Pista
 Juego
-Versión incorrecta
+VersiÃ³n incorrecta
 Lleno
-Récord
+RÃ©cord
 x10
 Terminado
 Comenzado
 Abierto
-Repetición
-Ver galería
+RepeticiÃ³n
+Ver galerÃ­a
 Local
 Descargado
 Sonido 3D
  EAX
-Tecnología 3D:
+TecnologÃ­a 3D:
  Wavetracing:
   Obstrucciones
   Reflexiones
@@ -524,48 +524,48 @@ Centrar HUD
 Mantener aspecto
 Frecuencia de sonido
 Espejo retrovisor
-Versión
+VersiÃ³n
 Pulsa Espacio para mostrar la lista de jugadores
-Buscando jugadores…
+Buscando jugadoresâ€¦
 Opciones avanzadas
 Pantalla completa
-Resolución
-Tamaño de la ventana
-Relación de aspecto
-Núcleos de CPU
-Configuración de red
+ResoluciÃ³n
+TamaÃ±o de la ventana
+RelaciÃ³n de aspecto
+NÃºcleos de CPU
+ConfiguraciÃ³n de red
 Uso de ancho de banda
 Compatibilidad
 Ajustes de perfil
 Habilitar perfiles
 Cargar ajustes
 Guardar ajustes
-Contraseña
-Espera, por favor…
+ContraseÃ±a
+Espera, por favor â€¦
 Espectador
 Pulsa Espacio para comenzar
 Pulsa Tabulador para continuar
-Conexiones máximas
+Conexiones mÃ¡ximas
 Pick ups
 Seleccionar jugador
-¡Sala llena!
+Â¡Sala llena!
 Administrar jugadores
 Expulsar jugador
-Establecer anfitrión
+Establecer anfitriÃ³n
 Salir del juego
 Espectador
-¡Ahora estás administrando esta partida!
-Añadir al juego
-¡Has sido expulsado del juego!
-¡Has sido añadido al juego!
+Â¡Ahora estÃ¡s administrando esta partida!
+AÃ±adir al juego
+Â¡Has sido expulsado del juego!
+Â¡Has sido aÃ±adido al juego!
 Mostrar fantasma
 Configurar todos los controles
 Controles por defecto
-¡El anfitrión ha escogido una pista desconocida!
-Conectando a la sesión
+Â¡El anfitriÃ³n ha escogido una pista desconocida!
+Conectando a la sesiÃ³n
 Pulsa Escape para cancelar
-Conexión exitosa
-Conexión cancelada
+ConexiÃ³n exitosa
+ConexiÃ³n cancelada
 Pulsa Pausa para continuar
 Pulsa cualquier tecla para seguir
 Idioma
@@ -573,7 +573,7 @@ Cambiar de perfil
 Crear perfil
 Cargar perfil
 Eliminar perfil
-¡El perfil existe!
+Â¡El perfil existe!
 Controles de:
 Voltear/Vista trasera
 CPU en multijugador
@@ -581,23 +581,23 @@ Usar Descarga
 Global
 Por niveles
 Generar Mipmaps
-Anisotropía
+AnisotropÃ­a
 Pantalla dividida
 Ondas en agua
 Modo ventana
 Multimuestreo
-Esperando jugadores…
-Entrando al siguiente juego…
+Esperando jugadoresâ€¦
+Entrando al siguiente juegoâ€¦
 Presiona TAB para unirte
 Toca la pantalla para unirte
 Toca la pantalla para reanudar
 Toca la pantalla para continuar
-Vista de cámara
+Vista de cÃ¡mara
 Seguir lejos
 Seguir cerca
 Paragolpes
-Capó
+CapÃ³
 Botones opacos
-Última Vuelta!
-Renderizador de vídeo
-Español
+Ãšltima Vuelta!
+Renderizador de vÃ­deo
+EspaÃ±ol

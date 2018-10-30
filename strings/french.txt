@@ -1,17 +1,17 @@
 Re-Volt
-Sél. Course
+SÃ©l. Course
 Entrer nom
-Sél. Voit.
+SÃ©l. Voit.
 Circuit
-Sél. Coupe
-Résumé
+SÃ©l. Coupe
+RÃ©sumÃ©
 Type Multi
 Config. Ecran
 Type de jeu
 Salle d'attente
-La partie est déjà commencée
-Contrôleur
-Sél. la partie
+La partie est dÃ©jÃ  commencÃ©e
+ContrÃ´leur
+SÃ©l. la partie
 En piste !
 Meilleurs Temps
 Progression
@@ -28,10 +28,10 @@ Cascades
 Multijoueurs
 Edit. Circuits
 Stats de la voiture
-Sél. voiture
+SÃ©l. voiture
 Circuit
 Mode miroir
-Mode inversé
+Mode inversÃ©
 Voit. CPU
 Nb tours
 Longueur
@@ -42,24 +42,24 @@ Coupe en Platine
 Choisir Mode
 Virages faciles
 Virages difficiles
-1ères cascades
+1Ã¨res cascades
 Config. Jeu
-Config. Vidéo
+Config. VidÃ©o
 Config. Audio
-Config. contrôles
+Config. contrÃ´les
 Charg/Sauv partie
-Voir crédits
+Voir crÃ©dits
 Nb de voitures
-Voitures aléatoires
-Circuits aléatoires
+Voitures alÃ©atoires
+Circuits alÃ©atoires
 Bonus
 Nb de tours
 Tps Battle Tag
-Difficulté
-Niveau véhicules
-Vs. Fantôme
+DifficultÃ©
+Niveau vÃ©hicules
+Vs. FantÃ´me
 Collision
-Unités De Vitesse
+UnitÃ©s De Vitesse
 Entrer nom
 Oui
 Non
@@ -68,34 +68,34 @@ Non
 Facile
 Moyen
 Difficile
-Très dur
+TrÃ¨s dur
 Vertical
 Horizontal
-Résolution
+RÃ©solution
 Textures
 Brillance
 Ombres
-Carte Vidéo
-Luminosité
+Carte VidÃ©o
+LuminositÃ©
 Contraste
 Distance affichage
 Reflets
-Instances de modèles
+Instances de modÃ¨les
 Traces pneus
-Lumières
+LumiÃ¨res
 Automatique
 Indisponible
-Anticrénelage
+AnticrÃ©nelage
 V-Sync
 Affichage cadence de trame
 Filtrage Textures
-Qualité Texture
+QualitÃ© Texture
 3D fil de fer
 Boites
 Projections
-Fumée
-Haute résolution
-Ecran partagé
+FumÃ©e
+Haute rÃ©solution
+Ecran partagÃ©
 Musique
 Vol. Effets
 Vol. Musique
@@ -103,7 +103,7 @@ Tester Effets
 Tester Musique
 Canaux Effets
 Audio
-Stéréo
+StÃ©rÃ©o
 Mono
 Voir records
 Sauv. records
@@ -111,7 +111,7 @@ Course
 Records
 En piste !
 Rejoindre course
-Attendre connexion réseau
+Attendre connexion rÃ©seau
 Choisir partie
 Serveur
 Continuer partie
@@ -120,14 +120,14 @@ Nb de joueurs
 Optimisation des paquets
 Protocole DirectPlay
 Recherche des parties
-Entrée en jeu
+EntrÃ©e en jeu
 Barre espace pour actualiser les joueurs
 Circuit suivant
-Défaut
+DÃ©faut
 Bronze
 Argent
 Or
-Spécial
+SpÃ©cial
 Charger ralenti
 Sauver ralenti
 Continuer
@@ -138,14 +138,14 @@ Recommencer partie
 Revoir ralenti
 Quitter
 Voir ralenti
-Sélect. contrôleur
-Config. contrôles
+SÃ©lect. contrÃ´leur
+Config. contrÃ´les
 Seuil d'action direction
-Sensibilité direction
-Braquage non linéaire
-Contrôles par défaut
+SensibilitÃ© direction
+Braquage non linÃ©aire
+ContrÃ´les par dÃ©faut
 Configuration
-Mode démo
+Mode dÃ©mo
 Joueur
 Sauver Carinfo simple
 Sauver Carinfo multi.
@@ -157,31 +157,31 @@ Arcade
 Console
 RC Junior
 MPH
-MPH réduits
+MPH rÃ©duits
 Fpm
 K/h
-K/h réduits
+K/h rÃ©duits
 VOUS ETES
-PASSEZ LA VITESSE SUPÉRIEURE
-POUR ACCÉDER AU PROCHAIN NIVEAU
+PASSEZ LA VITESSE SUPÃ‰RIEURE
+POUR ACCÃ‰DER AU PROCHAIN NIVEAU
 LA COUPE EN  BRONZE
 LA COUPE EN  ARGENT
 LA COUPE EN OR
 LA COUPE SPECIALE
 EST ACCESSIBLE.
 LES CIRCUITS MIROIRS
-LES CIRCUITS INVERSÉS
+LES CIRCUITS INVERSÃ‰S
 SONT ACCESSIBLES.
 NOUVELLES VOITURES
-VOUS AVEZ DÉBLOQUÉ
+VOUS AVEZ DÃ‰BLOQUÃ‰
 DES VOITURES
 1er
-2ème
-3ème
+2Ã¨me
+3Ã¨me
 Charger/Sauver
 Erreur
 Attention
-Etes-vous sûr ?
+Etes-vous sÃ»r ?
 Chargement Progression
 Sauvegarde Progression
 Charg. circuits
@@ -194,21 +194,21 @@ Continuer
 Continuez sans sauver
 Continuez sans charger
 Formatage du Controller Pak
-Tentative de réparation
-Vérifiez le Controller Pak
+Tentative de rÃ©paration
+VÃ©rifiez le Controller Pak
 Changez le Controller Pak
-Réessayez
-Tentative de Réparation
-Réparation Échouée
-Réparation Réussie
+RÃ©essayez
+Tentative de RÃ©paration
+RÃ©paration Ã‰chouÃ©e
+RÃ©paration RÃ©ussie
 
-Effacement des données
-Finissez au moins 3ème pour
+Effacement des donnÃ©es
+Finissez au moins 3Ã¨me pour
 rester en course pour la coupe !
 Finissez premier pour avoir
-accès à la prochaine coupe.
+accÃ¨s Ã  la prochaine coupe.
 Finissez 1er au classement,
-et vous serez sacré Champion \n\rincontesté de Re-Volt !
+et vous serez sacrÃ© Champion \n\rincontestÃ© de Re-Volt !
 
 UN CONTROLLER PAK A ETE DETECTE\n\rSUR LE PORT \7. CE DERNIER SERA\n\rUTILISE POUR SAUVER ET CHARGER
 UN NOUVEAU CONTROLLER PAK \7 \n\rA ETE INSERE. IL SERA\n\rDESORMAIS UTILISE POUR\n\rCHARGER et SAUVER\n\r
@@ -221,8 +221,8 @@ ATTENTION! IMPOSSIBLE DE TROUVER\n\rUN CONTROLLER PAK. IL SERA\n\rIMPOSSIBLE DE 
 ERREUR!! DANS CE CONTROLLER PAK \7\n\rIMPOSSIBLE DE TROUVER\n\r
 VEUILLEZ ENLEVER LE RUMBLE PAK \n\rET INSERER UN CONTROLLER PAK.
 CE JEU EST COMPATIBLE RUMBLE PAK.\n\rL'INSERER POUR L'UTILISER\n\rAVEC RE-VOLT.
-ATTENTION !!  DES DONNéES\n\rantérieures seront perdues
-Réparer ?
+ATTENTION !!  DES DONNÃ©ES\n\rantÃ©rieures seront perdues
+RÃ©parer ?
 Avancement
 Temps
 Circuits perso.
@@ -238,64 +238,64 @@ Vitesse
 Acc
 Poids
 Trans
-Électrique
+Ã‰lectrique
 Essence
-Spécial
-Débutant
+SpÃ©cial
+DÃ©butant
 Amateur
-Avancé
+AvancÃ©
 Semi-Pro
 Pro
 4x4
 T. Avant
-T. Arrière
+T. ArriÃ¨re
 Inconnu
-Bloqué
+BloquÃ©
 Joueur
 Joueurs
-Vitesse max, collisions réalistes
+Vitesse max, collisions rÃ©alistes
 Vitesse max, collisions voitures simples
 Vitesse max, collisions simples
-Vitesse réduite, collisions simples
-Accélérer
+Vitesse rÃ©duite, collisions simples
+AccÃ©lÃ©rer
 Frein/Recul
 Tir
 Retourner voiture
 Repositionner voiture
-Changer de caméra
-Vue arrière
+Changer de camÃ©ra
+Vue arriÃ¨re
 Pause
 Circuits
-Gagné
+GagnÃ©
 
 Norm.
 Rev.
 Mir.
-Étoile
+Ã‰toile
 Mode de jeu:
-Étape:
+Ã‰tape:
 Circuit:
 Voiture
 Victoire:
-Étoile:
-Étoiles collectées:
+Ã‰toile:
+Ã‰toiles collectÃ©es:
 de
 Battu
-Tps référence:
+Tps rÃ©fÃ©rence:
 \VPVous avez encore
 \VN
 \VSVous avez encore
 essai
 essais
 er
-ème
-ème
-ème
-FÉLICITATIONS!
-VOUS ÊTES QUALIFIÉ
-FÉLICITATIONS!
+Ã¨me
+Ã¨me
+Ã¨me
+FÃ‰LICITATIONS!
+VOUS ÃŠTES QUALIFIÃ‰
+FÃ‰LICITATIONS!
 FIN DU CHAMPIONNAT
-VOUS N'AVEZ PAS ÉTÉ QUALIFIÉ
+VOUS N'AVEZ PAS Ã‰TÃ‰ QUALIFIÃ‰
 Voiture
 Pnts
 Meilleur
@@ -314,17 +314,17 @@ Voulez vous quitter ?
 Recommencer la partie?
 Quitter ?
 Vraiment ?
-Sûr ?
-Défaut
+SÃ»r ?
+DÃ©faut
 Bronze
 Argent
 Or
 Platine
 Perdu! Meilleure chance la prochaine fois!
-NOUVELLE LIVRAISON DE VÉHICULES!\n\r(allez admirer les nouvelles voitures)\n
-Félicitations!\n%s DE NOUVEAUX CIRCUITS SONT\nDISPONIBLES EN MODE RENVERSÉ\n(appuyer sur la touche BAS lors\n de sélection de circuits)\n
-Félicitations!\n%s DE NOUVEAUX CIRCUITS SONT\nDISPONIBLES EN MODE MIROIR\n(appuyer sur la touche HAUT lors\n de la sélection des circuits)\n
-Félicitations!\n%s DE NOUVEAUX CIRCUITS SONT\nDISPONIBLES EN MODE MIROIR RENVERSÉ\n(appuyer sur haut et bas\n lors de la sélection des circuits)\n
+NOUVELLE LIVRAISON DE VÃ‰HICULES!\n\r(allez admirer les nouvelles voitures)\n
+FÃ©licitations!\n%s DE NOUVEAUX CIRCUITS SONT\nDISPONIBLES EN MODE RENVERSÃ‰\n(appuyer sur la touche BAS lors\n de sÃ©lection de circuits)\n
+FÃ©licitations!\n%s DE NOUVEAUX CIRCUITS SONT\nDISPONIBLES EN MODE MIROIR\n(appuyer sur la touche HAUT lors\n de la sÃ©lection des circuits)\n
+FÃ©licitations!\n%s DE NOUVEAUX CIRCUITS SONT\nDISPONIBLES EN MODE MIROIR RENVERSÃ‰\n(appuyer sur haut et bas\n lors de la sÃ©lection des circuits)\n
 UN NOUVEAU MODE DE JEU EST\nDISPONIBLE: "LA HORDE SAUVAGE"
 Appuyez sur Le Bouton Start
 Appuyez sur le bouton Start
@@ -377,7 +377,7 @@ Pause
 \VPDistributed by Acclaim Distribution, inc.
 \VP
 \VP
-\VPMERCI D'AVOIR JOUÉ!
+\VPMERCI D'AVOIR JOUÃ‰!
 \VN
 \VNDeveloped by Acclaim Studios London
 \VN
@@ -392,7 +392,7 @@ Pause
 \VNDistributed by
 \VNAcclaim Distribution, inc.
 \VN
-\VNMERCI D'AVOIR JOUÉ!
+\VNMERCI D'AVOIR JOUÃ‰!
 \VN
 \VS
 \VSDeveloped by Acclaim Studios London
@@ -408,7 +408,7 @@ Pause
 \VSDistributed by
 \VSAcclaim Distribution, inc.
 \VS
-\VSMERCI D'AVOIR JOUÉ!
+\VSMERCI D'AVOIR JOUÃ‰!
 \VS
 modules
 Bonus
@@ -424,15 +424,15 @@ menu
 avertissement
 question
 information
-Départ
+DÃ©part
 Tout droit
 Trou
 Bosses
-Virage 90°
+Virage 90Â°
 Virage
 Diagonale
 Pentu
-Dos d'âne
+Dos d'Ã¢ne
 Etroit
 Tunnel
 Passerelle
@@ -441,101 +441,101 @@ Tremplin
 Chicane
 OUI
 NON
-étape : 1
-étape : 2
-étape : 3
-étape : 4
-étape : 5
-étape : 6
-étape : 7
-étape : 8
-étape : 9
-étape : 10
-étape : 11
-étape : 12
-Terminé!!
+Ã©tape : 1
+Ã©tape : 2
+Ã©tape : 3
+Ã©tape : 4
+Ã©tape : 5
+Ã©tape : 6
+Ã©tape : 7
+Ã©tape : 8
+Ã©tape : 9
+Ã©tape : 10
+Ã©tape : 11
+Ã©tape : 12
+TerminÃ©!!
 SAUV
 Piste %d
-Bonus placés:\n\r%d de 6
+Bonus placÃ©s:\n\r%d de 6
 : placent
 : taille
-Vous n'avez pas sauvegardé la piste\n\ractuelle. Voulez-vous la\n\rsauvegarder maintenant?
-N'a pas sauvegardé la piste. Réessayer?
+Vous n'avez pas sauvegardÃ© la piste\n\ractuelle. Voulez-vous la\n\rsauvegarder maintenant?
+N'a pas sauvegardÃ© la piste. RÃ©essayer?
 Ecraser le circuit existant?\n\r
 Voulez-vous effacer\n\r'%s'\n\r
 Voulez-vous garder vos derniers\n\r changements?\n\r
-Circuit sauvé!
+Circuit sauvÃ©!
 Erreur sauvegarde circuit!
-\1Le circuit ne forme pas une boucle,\n\rou a une pente près d'un \n\rtunnel. Le curseur sera placé\n\rà la dernière position valide.
-\1Le circuit ne forme pas une boucle,\n\rou a une pente non finie.\n\rLe curseur sera placé à la\n\rdernière position valide.
-\1Le circuit ne forme pas une boucle,\n\rou a une pente près d'un\n\rtunnel.
+\1Le circuit ne forme pas une boucle,\n\rou a une pente prÃ¨s d'un \n\rtunnel. Le curseur sera placÃ©\n\rÃ  la derniÃ¨re position valide.
+\1Le circuit ne forme pas une boucle,\n\rou a une pente non finie.\n\rLe curseur sera placÃ© Ã  la\n\rderniÃ¨re position valide.
+\1Le circuit ne forme pas une boucle,\n\rou a une pente prÃ¨s d'un\n\rtunnel.
 \1Le circuit ne forme pas une boucle,\n\rou a une pente non finie\n\r
 Circuit trop complexe!
-\1Le circuit n'a pas de départ
-\1Le circuit a plus d'un départ
+\1Le circuit n'a pas de dÃ©part
+\1Le circuit a plus d'un dÃ©part
 Gauche
 Droite
 Klaxon
 Nouvel essai?
 Demo
 Chargement menu
-Chargement des Crédits
-Chargement "Référence mesures"
+Chargement des CrÃ©dits
+Chargement "RÃ©fÃ©rence mesures"
 Coureurs :
 CPU
-Aléatoire
+AlÃ©atoire
 Mode
-Prêt
-Non prêt
-Appuyez sur TAB pour démarrer
-Le Jeu Multijoueur est terminé!
+PrÃªt
+Non prÃªt
+Appuyez sur TAB pour dÃ©marrer
+Le Jeu Multijoueur est terminÃ©!
 Attente :
-Attente serveur…
+Attente serveurâ€¦
 Serveur
 Circuit
 Jeu
 Mauvaise Version
 Complet
-Enregistré
-Mesuré
-Terminé
-Démarré
+EnregistrÃ©
+MesurÃ©
+TerminÃ©
+DÃ©marrÃ©
 Ouvert
 Rejouer
 Voir Galerie
 Local
-Téléchargement
+TÃ©lÃ©chargement
 3D Audio
  EAX
 3D Technologie:
  Wavetracing:
   Occlusions
-  Réflexions
-  Détail
+  RÃ©flexions
+  DÃ©tail
 Centrer le HUD
 Conserver l'aspect
-Échantillonnage
-Rétroviseur
+Ã‰chantillonnage
+RÃ©troviseur
 Version
 Barre d'espace pour afficher la liste des joueurs
-Recherche des joueurs…
-Options avancées
-Plein écran
-Résolution écran
-Taille de l'écran
+Recherche des joueursâ€¦
+Options avancÃ©es
+Plein Ã©cran
+RÃ©solution Ã©cran
+Taille de l'Ã©cran
 Format d'image
-Cœurs CPU
-Paramètres réseau
+CÅ“urs CPU
+ParamÃ¨tres rÃ©seau
 Util. Bande-passante
-Retro-Compatibilité
+Retro-CompatibilitÃ©
 Configuration du profil
 Activer les profils
 Charger la config.
 Enregistrer la config.
 Mot de passe
-Patientez …
+Patientez â€¦
 Spectateur
-Barre d'espace pour démarrer
+Barre d'espace pour dÃ©marrer
 Appuyez sur TAB pour continuer
 Max. de connexions
 Bonus
@@ -543,53 +543,53 @@ Choisir le joueur
 Salle pleine!
 Gestion des joueurs
 Bannir
-Définir comme serveur
+DÃ©finir comme serveur
 Sortir de la partie
 Spectateur
-Vous êtes le nouveau serveur !
-Intégrer à la partie
-Vous êtes spectateur !
-Vous êtes un joueur actif !
-Voir le fantôme
-Régler tous les contrôles
-Contrôles réglés par défaut
-L'hôte commence le jeu avec un circuit inconnu !
-Connexion à la session
-Appuyez sur échap pour abandonner
-Connexion établie
-Connexion annulée
+Vous Ãªtes le nouveau serveur !
+IntÃ©grer Ã  la partie
+Vous Ãªtes spectateur !
+Vous Ãªtes un joueur actif !
+Voir le fantÃ´me
+RÃ©gler tous les contrÃ´les
+ContrÃ´les rÃ©glÃ©s par dÃ©faut
+L'hÃ´te commence le jeu avec un circuit inconnu !
+Connexion Ã  la session
+Appuyez sur Ã©chap pour abandonner
+Connexion Ã©tablie
+Connexion annulÃ©e
 Appuyez sur pause pour continuer
 Appuyez sur une touche
-Sélectionner langue
-Sélectionner profil
+SÃ©lectionner langue
+SÃ©lectionner profil
 Nouveau profil
 Charger profil
 Supprimer profil
 Ce profil existe!
-Sélection Joueur:
-Retourner / Vue en arrière
+SÃ©lection Joueur:
+Retourner / Vue en arriÃ¨re
 Multijoueurs CPU
-Téléchargé
+TÃ©lÃ©chargÃ©
 Globale
-Par Catégorie
-Créer Mipmaps
+Par CatÃ©gorie
+CrÃ©er Mipmaps
 Anisotropie
-Ecran Partagé
+Ecran PartagÃ©
 Vaguelettes
-Mode fenêtré
+Mode fenÃªtrÃ©
 Echantillonnage multiple
-En attente des joueurs…
-Rejoindre la prochaine partie…
+En attente des joueursâ€¦
+Rejoindre la prochaine partieâ€¦
 Appuyez sur TAB pour rejoindre
-Toucher l'écran pour démarrer
-Toucher l'écran pour continuer
-Toucher l'écran pour continuer
-Vue caméra
-Derrière
+Toucher l'Ã©cran pour dÃ©marrer
+Toucher l'Ã©cran pour continuer
+Toucher l'Ã©cran pour continuer
+Vue camÃ©ra
+DerriÃ¨re
 Au Dessus
-Intérieur
-Personnalisée
-Visibilité des Boutons
+IntÃ©rieur
+PersonnalisÃ©e
+VisibilitÃ© des Boutons
 Dernier Tour !
-Rendu Vidéo
-Français
+Rendu VidÃ©o
+FranÃ§ais
