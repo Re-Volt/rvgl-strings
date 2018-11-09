@@ -592,4 +592,5 @@ Personnalisée
 Visibilité des Boutons
 Dernier Tour !
 Rendu Vidéo
+Retour à la salle
 Français

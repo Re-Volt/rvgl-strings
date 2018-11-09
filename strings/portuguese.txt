@@ -604,4 +604,5 @@ Capô
 Opacidade dos botões
 Última Volta!
 Renderizador de Vídeo
+Voltar ao Lobby
 Português

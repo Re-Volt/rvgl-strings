@@ -604,4 +604,5 @@ Hood
 Button Opacity
 Sista Varvet!
 Video Renderer
+Återvänd till Lobby
 Svenska

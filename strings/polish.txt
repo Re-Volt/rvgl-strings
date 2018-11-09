@@ -572,7 +572,7 @@ Polaczenie nawiazne
 Polaczenie przerwane
 Wcisnij Pauze, aby kontynuowac
 Wcisnij dowolny klawisz
-Wybierz jezyk
+Wybierz język
 Wybierz profil
 Zalóz profil
 Wczytaj profil
@@ -583,7 +583,7 @@ Odwróc / Widok Wsteczny
 CPU w Multiplayerze
 Uzyj Pobierania
 Globalnie
-wg Klasyfikacji
+Wg Klasyfikacji
 Generuj Mipmapy
 Anizotropia
 Podzielony ekran
@@ -603,5 +603,6 @@ W aucie
 Na masce
 Nieprzezroczystosc Przycisków
 Ostatnie okrazenie!
-Renderer
+Renderer wideo
+Powrót do pokoju
 Polski

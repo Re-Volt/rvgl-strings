@@ -610,4 +610,5 @@ Cofano
 Opacità bottone
 Ultimo Giro!
 Renderer video
+Torna alla Lobby
 Italiano
