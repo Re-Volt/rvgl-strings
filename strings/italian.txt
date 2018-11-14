@@ -18,7 +18,7 @@ Inizia gara
 \VPMigliori tempi
 \VNMigliori tempi
 \VSMigliori tempi
-Tabella progr.
+Tabella progressi
 Editor di piste
 Opzioni
 Esci
@@ -71,7 +71,7 @@ Difficoltà
 Accesso auto
 Intertempi
 Collisione
-Misurazione velocità
+Unità di misura
 Inserisci il nome
 Si
 No
@@ -93,7 +93,7 @@ Contrasto
 Mostra distanza
 Riflessi
 Mostra modelli
-Indicatori derapata
+Tracce derapate
 Luci
 Automatico
 Non disponibile
@@ -103,13 +103,13 @@ Mostra frame rate
 Filtro texture
 Livello Mipmap
 Wireframe
-Auto BBoxes
+BBoxes auto
 Particelle
 Fumo
 \VPAlta risoluzione
 \VNMedia risoluzione
 \VSAlta risoluzione
-Split-screen
+Schermo condiviso
 Musica del gioco
 Volume effetti
 Volume musica
@@ -122,7 +122,7 @@ Mono
 Guarda i Record
 Salva i Record
 Gara
-Records
+Record
 Comincia partita
 Unisciti alla partita
 In attesa connessione
@@ -141,7 +141,7 @@ Predefinito
 Bronzo
 Argento
 Oro
-Speciale
+Platino
 Carica replay
 Salva replay
 Riprendi
@@ -163,7 +163,7 @@ Modalità demo
 Giocatore
 Salva auto info singole
 Salva auto info multiple
-Salva auto info in uso
+Salva info auto in uso
 Azzera tabella progressi
 Modalità
 Simulazione
@@ -171,17 +171,17 @@ Arcade
 Console
 Junior RC
 MPH
-MPH modif.
-Fpm
-Kph
-Kph modif.
+MPH Scalate
+FPM
+Km/h
+Km/h Scalati
 SEI ARRIVATO
 PROVA A MIGLIORARE PER
 SBLOCCARE LA PROSSIMA SFIDA!
 LA COPPA DI BRONZO
 LA COPPA D'ARGENTO
 LA COPPA D'ORO
-LA COPPA SPECIALE
+LA COPPA DI PLATINO
 E' SBLOCCATA
 LE PISTE SPECULARI
 LE PISTE INVERTITE
@@ -222,7 +222,7 @@ Riparazione riuscita
 
 Elimina blocco della Memory Card
 Classificati almeno terzo
-per avanzare!
+in ogni gara per avanzare!
 Classificati in prima posizione
 per accedere alla prossima sfida
 Classificati in prima posizione per
@@ -251,19 +251,19 @@ I
 (S)
 (I)
 Classe
-Posiz.
-Vel.
-Acc.
+Grado
+Velocità
+Accelerazione
 Peso
-Tras.
+Trasmissione
 Elettrica
 Benzina
 Speciale
 Principiante
 Appassionato
 Avanzato
-Semi-Prof.
-Profess.
+Semi-Professionale
+Professionale
 4WD
 FWD
 RWD
@@ -271,10 +271,10 @@ Sconosciuto
 Bloccato
 Giocatore
 Giocatori
-Vel. piena; scontri realistici
-Vel. piena; scontri auto semplici
-Vel. piena; scontri semplici
-Vel. ridotta; scontri semplici
+Velocità normale; scontri realistici
+Velocità normale; scontri auto semplici
+Velocità normale; scontri semplici
+Velocità ridotta; scontri semplici
 Accelera
 Frena
 Fuoco
@@ -286,20 +286,20 @@ Pausa
 Piste
 Vinte
 Gare
-Norm.
-Inv.
-Spec.
+Normale
+Invertita
+Speculare
 Stelle
 Modalità di gioco:
 Livello:
 Pista:
 Auto
-Gare vinte:
+Gara vinta:
 Stelle trovate:
 Stelle raccolte:
 di
 Battuto
-Tempo di sfida:
+Tempo sfida:
 Hai
 tentativo.
 tentativi.
@@ -446,8 +446,8 @@ griglia partenza
 rettilinei
 pozze
 gobbe
-angolo quad.
-angolo rot.
+angolo quadrato
+angolo rotondo
 diagonale
 terrapieno
 sterrato
@@ -498,7 +498,7 @@ Provare ancora?
 Demo
 Caricamento interfaccia
 Caricamento ringraziamenti
-Caricamento del Gauge Benchmark del gioco
+Caricamento benchmark
 Corridori:
 CPU
 Casuale
@@ -506,13 +506,13 @@ Stato
 Pronto
 Non pronto
 Premere TAB per cominciare
-Gioco multiplayer finito!
+Partita finita!
 Attesa:
 In attesa dell'host…
 Host
 Pista
 Gioco
-Ver. errata
+Versione errata
 Pieno
 Record
 Modificato
@@ -523,9 +523,9 @@ Replay
 Guarda la galleria
 Locale
 Scaricamento
-3D Audio
+Audio 3D
  EAX
-3D Tecnologia:
+Tecnologia 3D:
  Wavetracing:
   Occlusioni
   Riflessioni
@@ -534,7 +534,7 @@ Centra HUD
 Mantieni Aspetto
 Frequenza di campionamento
 Specchietto retrovisore
-Version
+Versione
 Premere spazio per mostrare la lista dei giocatori
 Ricerca dei giocatori in corso…
 Opzioni avanzate
@@ -551,27 +551,27 @@ Abilita profili
 Carica impostazioni
 Salva impostazioni
 Password
-Attendere prego …
-Spectate
+Attendere prego…
+Osserva
 Premere spazio per cominciare
 Premere TAB per continuare
 Connessioni massime
 Oggetti
-Seleziona Giocatore
-Sala Piena!
-Amministra Giocatori
+Seleziona giocatore
+Sala piena!
+Amministra giocatori
 Espelli
-Imposta come Host
-Imposta come Spettatore
+Imposta come host
+Imposta come spettatore
 Spettatore
-Ora sei tu l' host del gioco!
-Imposta come Giocatore
-Ora Sei In Modalità Spettatore!
-Ora Sei Un Giocatore Attivo!
-Mostra Fantasma
-Impostare tutti i controlli
-Controlli Imposta predefinito
-Host Iniziato Gioco Con Track sconosciuto!
+Ora sei tu l'host del gioco!
+Imposta come giocatore
+Ora sei uno spettatore!
+Ora sei un pilota!
+Mostra fantasma
+Imposta tutti i controlli
+Controlli predefiniti reimpostati
+La partita è iniziata su una pista sconosciuta!
 Collegamento alla Lobby sessione
 Premere Esc per annullare
 Connessione stabilita
