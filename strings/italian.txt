@@ -10,9 +10,9 @@ Impostazioni rendering
 Modalità
 Sala d'attesa
 La partita è già cominciata!
-\VPOpzioni Controller
+\VPOpzioni controller
 \VNController
-\VSOpzioni Controller
+\VSOpzioni controller
 Seleziona partita in corso
 Inizia gara
 \VPMigliori tempi
@@ -56,9 +56,9 @@ La prima acrobazia
 \VPImpostazioni audio
 \VNaudio
 \VSImpostazioni audio
-\VPImpostazioni Controller
+\VPImpostazioni controller
 \VNController
-\VSImpostazioni Controller
+\VSImpostazioni controller
 Carica/Salva i record
 Ringraziamenti
 Numero di auto
@@ -152,8 +152,8 @@ Riavvia partita
 Riavvia replay
 Esci
 Vedi replay
-Seleziona Controller:
-Configura Controller
+Seleziona controller:
+Configura controller
 Sterzata non attiva
 Raggio sterzata
 Sterzata non lineare
@@ -578,23 +578,23 @@ Connessione stabilita
 Connessione annullata
 Premere Pausa per continuare
 Premere un tasto per continuare
-Seleziona Lingua
-Seleziona Profilo
-Crea Profilo
-Carica Profilo
-Cancella Profilo
+Seleziona lingua
+Seleziona profilo
+Crea profilo
+Carica profilo
+Cancella profilo
 Profilo esistente!
-Slot Controller:
+Slot controller:
 Ribalta / Guarda indietro
 CPU Multigiocatore
 Usa Download
 Globale
-Per Categoria
+Per categoria
 Genera Mipmaps
 Anisotropia
-Schermo Condiviso
-Increspature Onde
-In Finestra
+Schermo condiviso
+Onde in acqua
+In finestra
 Multicampionamento
 In attesa dei giocatori…
 Unione alla prossima partita…
@@ -607,7 +607,7 @@ Segui da lontano
 Segui da vicino
 Interna
 Cofano
-Opacità bottone
+Opacità pulsanti
 Ultimo Giro!
 Renderer video
 Torna alla Lobby
