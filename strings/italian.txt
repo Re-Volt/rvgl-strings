@@ -551,7 +551,7 @@ Abilita profili
 Carica impostazioni
 Salva impostazioni
 Password
-Attendere prego…
+Attendere prego …
 Osserva
 Premere spazio per cominciare
 Premere TAB per continuare
