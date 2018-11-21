@@ -605,4 +605,5 @@ Button Opacity
 Final Lap!
 Video Renderer
 Back To Lobby
-English
+\LNEnglish
+\LCen

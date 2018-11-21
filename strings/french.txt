@@ -593,4 +593,5 @@ Visibilité des Boutons
 Dernier Tour !
 Rendu Vidéo
 Retour à la salle
-Français
+\LNFrançais
+\LCfr

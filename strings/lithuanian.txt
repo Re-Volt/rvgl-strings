@@ -605,4 +605,5 @@ Mygtukų Permatomumas
 Paskutinis Ratas!
 Atvaizdavimo Būdas
 Grįžti į Lobby
-Lietuvių
+\LNLietuvių
+\LClt

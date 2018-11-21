@@ -605,4 +605,5 @@ Knopf Deckkraft
 Letzte Runde!
 Videorenderer
 Zurück zur Lobby
-Deutsch
+\LNDeutsch
+\LCde

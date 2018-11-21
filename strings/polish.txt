@@ -605,4 +605,5 @@ Nieprzezroczystosc Przycisków
 Ostatnie okrazenie!
 Renderer wideo
 Powrót do pokoju
-Polski
+\LNPolski
+\LCpl

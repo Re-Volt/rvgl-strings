@@ -605,4 +605,5 @@ Opacidade dos botões
 Última Volta!
 Renderizador de Vídeo
 Voltar ao Lobby
-Português
+\LNPortuguês
+\LCpt

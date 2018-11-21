@@ -601,4 +601,5 @@ Botones opacos
 Última Vuelta!
 Renderizador de vídeo
 Volver a la sala
-Español
+\LNEspañol
+\LCes
