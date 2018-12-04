@@ -10,9 +10,9 @@ Grafička podešavanja
 Tip igre
 Čekaonica
 Trka je u toku…
-\VPPodešavanje džojstika
+\VPPodešavanje komandi
 \VNDžojstik
-\VSPodešavanje džojstika
+\VSPodešavanje komandi
 Pridruži se igri
 Počni trku
 \VPNajbolja vremena
@@ -21,7 +21,7 @@ Počni trku
 Pregled napretka
 Napravi svoju stazu
 Podešavanja
-Napusti
+Napusti igru
 Šapmionat
 Obična trka
 Autići na navijanje
@@ -47,7 +47,7 @@ Izaberi mod
 Osnovno skretanje
 Napredna skretanja
 Tvoji prvi trikovi
-Podešavanja trke
+Podešavanja igre
 Video podešavanja
 Zvučna podešavanja
 Podešavanja kontrola
@@ -162,11 +162,11 @@ Simulacija
 Arkadni
 Konzola
 Junior RC
-MPH
-Skalirana MPH
-FPM
-KPH
-Skalirana KPH
+Milja na čas
+Skalirana MNČ
+Stopa po minutu
+Kilom. na čas
+Skalirana KNČ
 STIGAO SI
 PLASIRAJ SE BOLJE DA BI
 OTKLJUČAO SLEDEĆI IZAZOV!
@@ -276,8 +276,8 @@ Promena kamere
 Gledanje pozadi
 Pauza
 Staze
-Pobedio
-Trka
+Pobede
+U trkama
 Norm
 Una
 Pre
@@ -292,20 +292,20 @@ Sakupljeno zvezda:
 od
 Oboreno
 Rekordno vreme:
-\VPYou have
+\VPPreostalo ti je
 \VN
-\VSYou have
-Pokušaj preostao.
-Pokušaja preostalo.
+\VSPreostao ti je
+pokušaj.
+pokušaja.
 .
 .
 .
 .
 SVAKA ČAST!
-PROŠAO SI DALjE!
+PROŠAO SI DALJE!
 SVAKA ČAST!
 ŠAMPIONAT GOTOV!
-NISI PROŠAO DALjE!
+NISI PROŠAO DALJE!
 Auto
 Poena
 Najbolji krug
@@ -582,7 +582,7 @@ Mesto za izlazni uređaj:
 Obrni / okreni pogled
 CPU u trkama u 2/3/4
 Koristi skidanje
-Opšte
+Opšta
 Po klasi
 Generiši mipmep
 Anizotropija
