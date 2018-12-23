@@ -1,30 +1,30 @@
 Re-Volt
-Wybierz wyscig
-Wpisz nazwe
+Wybierz wyścig
+Wpisz nazwę
 Wybierz pojazd
-Wybierz trase
+Wybierz trasę
 Wybierz puchar
 Podsumowanie
-Typ polaczenia:
+Typ połączenia:
 Zaawansowane
 Rodzaj gry
 Poczekalnia
-Gra juz sie rozpoczela!
+Gra już się rozpoczęła!
 \VPUstawienia sterowania
 \VNKontroler
 \VSUstawienia sterowania
-Wybierz gre aby dolaczyc
-Rozpocznij wyscig
+Wybierz grę aby dołączyć
+Rozpocznij wyścig
 \VPNajlepsze czasy
-\VNCzasy probne
+\VNCzasy próbne
 \VSNajlepsze czasy
-Tabela postepów
+Tabela postępów
 Edytor tras
 Opcje
-Wyjscie
+Wyjście
 Mistrzostwa
-Szybki wyscig
-Mechaniczna rzez
+Pojedynczy wyścig
+Mechaniczna rzeź
 Bitwa
 Próba czasowa
 Trening
@@ -33,133 +33,133 @@ Gra wieloosobowa
 Tryb edycji
 Oblicz statystyki pojazdów
 Wybierz pojazd
-Wybierz trase
+Wybierz trasę
 Lustrzana
 Odwrócona
 CPU
-Okrazen
+Okrążeń
 Dystans
-Brazowy puchar
+Brązowy puchar
 Srebrny puchar
-Zloty puchar
+Złoty puchar
 Platynowy puchar
 Wybierz tryb
-Podstawowe zakrety
-Zaawansowane zakrety
+Podstawowe zakręty
+Zaawansowane zakręty
 Twoje pierwsze wyczyny
 Ustawienia gry
 Ustawienia wideo
-Ustawienia dzwieku
+Ustawienia dźwięku
 Ustawienia sterowania
 Wczytaj/Zapisz Rekordy
 Autorzy
-Ilosc pojazdów
+Ilość pojazdów
 Losowe pojazdy
 Losowe trasy
 Bronie
-Ilosc okrazen
+Ilość okrążeń
 Czas bitwy
 Poziom
-Dostepnosc pojazdów
-Miedzyczasy
+Dostępność pojazdów
+Międzyczasy
 Kolizje
-Jednostka predkosci
-Wpisz nazwe
-Wlaczone
-Wylaczone
+Jednostka prędkości
+Wpisz nazwę
+Włączone
+Wyłączone
 Tak
 Nie
-Latwy
-Sredni
+Łatwy
+Średni
 Trudny
 Ekstremalny
 Pionowy
 Poziomy
-Rozdzielczosc
+Rozdzielczość
 Tekstury
-Blyszczenie
+Błyszczenie
 Cienie
 Grafika
-Jasnosc
+Jasność
 Kontrast
-Odleglosc rysowania
+Odległość rysowania
 Odbicia
 Modele obiektów
-Slady opon
-Swiatla
+Ślady opon
+Światła
 Automatyczne
-Niedostepne
+Niedostępne
 Antyaliasing
 Synchronizacja pionowa
 Pokazuj licznik FPS
 Filtrowanie tekstur
 Poziom mipmap
 Model szkieletowy
-Pudla pojazdów
-Czasteczki
+Pudła pojazdów
+Cząsteczki
 Dym
-\VPWysoka rozdzielczosc
-\VNSredniej rozdzielczosci
-\VSWysoka rozdzielczosc
+\VPWysoka rozdzielczość
+\VNŚredniej rozdzielczości
+\VSWysoka rozdzielczość
 Podzielony ekran
 Muzyka w grze
-Glosnosc efektów
-Glosnosc muzyki
+Głośność efektów
+Głośność muzyki
 Test efektów
 Test muzyki
-Kanal efektów
+Kanał efektów
 Audio
 Stereo
 Mono
 Zobacz rekordy
 Zapisz rekordy
-Wyscig
+Wyścig
 Rekordy
-Rozpocznij gre
-Dolacz do gry
-Poczekaj na polaczenie
-Wybierz gre
+Rozpocznij grę
+Dołącz do gry
+Poczekaj na połączenie
+Wybierz grę
 Host:
-Kontynuuj gre
-Opusc gre
+Kontynuuj grę
+Opuść grę
 Liczba graczy
 Optymalizacja pakietów
-Protokól DirectPlay
+Protokół DirectPlay
 Wyszukiwanie gry…
-Dolaczenie do gry…
-Wcisnij Spacje aby odswiezyc liste graczy
-Nastepna trasa
-Domyslne
-Braz
+Dołączanie do gry…
+Wciśnij Spację aby odświeżyć listę graczy
+Następna trasa
+Domyślne
+Brąz
 Srebro
-Zloto
+Złoto
 Specjalne
-Wczytaj powtórke
-Zapisz powtórke
+Wczytaj powtórkę
+Zapisz powtórkę
 Wznów
 Kontynuuj Mistrzostwa
-Zakoncz Mistrzostwa
-Poddaj sie
-Zrestartuj wyscig
-Zrestartuj powtorke
-Wyjscie
-Zobacz powtorke
+Zakończ Mistrzostwa
+Poddaj się
+Zrestartuj wyścig
+Zrestartuj powtórkę
+Wyjście
+Zobacz powtórkę
 Wybierz Kontroler:
 Konfiguracja sterowania
 Martwa Strefa
-Zasieg Sterowania
-Nieliniowe Sterowanie
-Ustaw sterowanie domyslne
+Zasięg Sterowania
+Sterowanie Nieliniowe
+Ustaw sterowanie domyślne
 Konfiguracja
 Tryb demo
 Gracz
-Save Carinfo Single
-Save Carinfo Multiple
-Save Current Car Info
-Resetuj tabele postepów
+Zapisz Info Pojazdu Pojedynczo
+Zapisz Info Pojazdu Wielokrotnie
+Zapisz Bieżące Info Pojazdu
+Resetuj tabelę postępów
 Tryb
-Symulacja
-Zrecznosciowy
+Symulacyjny
+Zręcznościowy
 Konsolowy
 Junior RC
 MPH
@@ -167,94 +167,94 @@ Skalowane MPH
 FPM
 KPH
 Skalowane KPH
-PRZYJECHALES
-POSTARAJ SIE UKLASOWAC WYZEJ
-ABY ODBLOKOWAC NASTEPNE WYZWANIE!
-BRAZOWY PUCHAR
+PRZYJECHAŁEŚ
+POSTARAJ SIĘ UPLASOWAĆ WYŻEJ
+ABY ODBLOKOWAĆ NASTĘPNE WYZWANIE!
+BRĄZOWY PUCHAR
 SREBRNY PUCHAR
-ZLOTY PUCHAR
+ZŁOTY PUCHAR
 SPECJALNY PUCHAR
-ZOSTAL ODBLOKOWANY
+ZOSTAŁ ODBLOKOWANY
 LUSTRZANE TRASY
 ODWRÓCONE TRASY
-ZOSTALA ODBLOKOWANA
+ZOSTAŁA ODBLOKOWANA
 NOWA DOSTAWA POJAZDÓW
-ODBLOKOWALES
+ODBLOKOWAŁEŚ
 NOWE POJAZDY
 1-SZY
 2-GI
 3-CI
 Wczytaj / Zapisz
-Blad
-Ostrzezenie
-Jestes pewien?
+Błąd
+Ostrzeżenie
+Jesteś pewien?
 \VPWczytaj ustawienia
-\VNWczytaj postepy
+\VNWczytaj postępy
 \VSWczytaj ustawienia
 \VPZapisz ustawienia
-\VNZapisz postepy
+\VNZapisz postępy
 \VSZapisz ustawienia
-Wczytaj trasy uzytkownika
+Wczytaj trasy użytkownika
 Wczytywanie…
 Zapisywanie…
 
-Wczytaj miedzyczasy
-Zapisz miedzyczasy
+Wczytaj międzyczasy
+Zapisz międzyczasy
 Kontynuuj
 Kontynuuj bez zapisywania
 Kontynuuj bez wczytywania
 Formatuj Kontroler Pak
-Spróbuj naprawic
-Zarzadzaj Kontrolerem Pak
-Zmien Kontroler Pak
+Spróbuj naprawić
+Zarządzaj Kontrolerem Pak
+Zmień Kontroler Pak
 Powtórz
 Próba naprawy…
-Naprawa nie powiodla sie
+Naprawa nie powiodła się
 Naprawa udana
 
-Usun Blok Karty Pamieci
+Usuń Blok Karty Pamięci
 Zajmij trzecie lub lepsze miejsce
-w wyscigu aby awansowac!
-Ukoncz z najwyzszym wynikiem
-aby odblokowac nowe wyzwania!
-Zakoncz na szczycie tabeli
-aby zostac \"Mistrzem Re-Volt\"!
+w wyścigu aby awansować!
+Ukończ z najwyższym wynikiem
+aby odblokować nowe wyzwania!
+Zakończ na szczycie tabeli
+aby zostać \"Mistrzem Re-Volt\"!
 
-KONTROLER PAK WYKRYTY W\n\rKONTROLER \7, TEN KONTROLER PAK\n\rBEDZIE UZYTY DO ZAPISU I WCZYTANIA\n\r
-NOWY CONTROLER PAK WLOZONO DO\n\rKONTROLER \7, TEN KONTROLER PAK\n\rBEDZIE UZYTY DO ZAPISU I WCZYTANIA\n\r
-NOWY CONTROLER PAK WLOZONO DO\n\rKONTROLER \7, BEDZIE UZYTY DO ZAPISU\n\rI WCZYTANIA
-UWAGA NIEWLASCIWY KONTROLER PAK!!\r\nKONTROLER PAK \7 JEST USZKODZONY
-UWAGA!!\r\nKONTROLER PAK \7 FULL\n\rNIE JEST W STANIE ZAPISAC
-UWAGA!!\r\nKONTROLER PAK \7 FULL\n\rNIE JEST W STANIE ZAPISAC
-BLAD!!\r\nKONTROLER ODLACZONY
-UWAGA!!\r\nNIE ZNALEZIONO KONTROLERA PAK\r\nNIE BEDZIE MOZLIWE\n\rZAPISANIE LUB WCZYTANIE
-BLAD!!\r\nON KONTROLER PAK \7\n\rNIE JEST W STANIE ZLOKALIZOWAC
-PROSZE USUNAC RUMBLE PAK\n\rI WLOZYC KONTROLER PAK\n\rA NASTEPNIE SPROBOWAC PONOWNIE
-Ta gra jest kompatibylna z Rumble Pakiemn\rProsze wlozyc swoj Rumble Pak teraz\n\rJezeli chcesz z nim grac
-UWAGA!!\r\nPoprzednio zapisane dane\n\rmoga zostac utracone!
+KONTROLER PAK WYKRYTY W\n\rKONTROLER \7, TEN KONTROLER PAK\n\rBĘDZIE UŻYTY DO ZAPISU I WCZYTANIA\n\r
+NOWY CONTROLER PAK WŁOŻONO DO\n\rKONTROLER \7, TEN KONTROLER PAK\n\rBĘDZIE UŻYTY DO ZAPISU I WCZYTANIA\n\r
+NOWY CONTROLER PAK WŁOŻONO DO\n\rKONTROLER \7, BĘDZIE UŻYTY DO ZAPISU\n\rI WCZYTANIA
+UWAGA NIEWŁAŚCIWY KONTROLER PAK!!\r\nKONTROLER PAK \7 JEST USZKODZONY
+UWAGA!!\r\nKONTROLER PAK \7 FULL\n\rNIE JEST W STANIE ZAPISAĆ
+UWAGA!!\r\nKONTROLER PAK \7 FULL\n\rNIE JEST W STANIE ZAPISAĆ
+BŁĄD!!\r\nKONTROLER ODŁĄCZONY
+UWAGA!!\r\nNIE ZNALEZIONO KONTROLERA PAK\r\nNIE BĘDZIE MOŻLIWE\n\rZAPISANIE LUB WCZYTANIE
+BŁĄD!!\r\nON KONTROLER PAK \7\n\rNIE JEST W STANIE ZLOKALIZOWAĆ
+PROSZĘ USUNĄĆ RUMBLE PAK\n\rI WŁOŻYĆ KONTROLER PAK\n\rA NASTĘPNIE SPRÓBOWAĆ PONOWNIE
+Ta gra jest kompatybilna z Rumble Pakiemn\rProszę włożyć swój Rumble Pak teraz\n\rJeżeli chcesz z nim grać
+UWAGA!!\r\nPoprzednio zapisane dane\n\rmogą zostać utracone!
 NAPRAW?
-POSTEP W GRZE
-MIEDZYCZASY
-TRASY UZYTKOWNIKA
-Zastap
-Potwierdz
+POSTĘP W GRZE
+MIĘDZYCZASY
+TRASY UŻYTKOWNIKA
+Zastąp
+Potwierdź
 M
 R
 (M)
 (R)
-Klasa
+Kategoria
 Klasyfikacja
-Szybkosc
-Przyspieszenie
-Waga
-Naped
+Szybkość
+Przyśpieszenie
+Masa
+Napęd
 Elektryczny
 Spalinowy
 Specjalny
 Rekrut
 Amator
 Zaawansowany
-Pólprofesjonalny
+Półprofesjonalny
 Profesjonalista
 4WD
 FWD
@@ -263,21 +263,21 @@ Nieznany
 Zablokowana
 Gracz
 Gracze
-Pelna predkosc, Realistyczne kolizje
-Pelna predkosc, Proste kolizje pojazdów
-Pelna predkosc, Proste kolizje
-Zmniejszona predkosc, Proste kolizje
-Przyspieszenie
+Pełna prędkość, Realistyczne kolizje
+Pełna prędkość, Proste kolizje pojazdów
+Pełna prędkość, Proste kolizje
+Zmniejszona prędkość, Proste kolizje
+Przyśpieszenie
 Wsteczny
-Strzal
-Odwróc pojazd
+Strzał
+Odwróć pojazd
 Zrepozycjonuj pojazd
 Zmiana kamery
-Widok z tylu
+Widok z tyłu
 Pauza
 Trasy
 Wygrany
-Wyscig
+Wyścig
 Norm
 Odwr
 Lustr
@@ -292,9 +292,9 @@ Kolekcja gwiazd:
 z
 Pokonany
 Czas wyzwania:
-\VPPozostala Ci
+\VPPozostała Ci
 \VN
-\VSPozostaly Ci
+\VSPozostały Ci
 próba.
 próby.
 szy
@@ -304,151 +304,151 @@ ty
 GRATULACJE!
 GRASZ DALEJ!
 GRATULACJE!
-MISTRZOSTWA UKONCZONE!
-NIE UDALO CI SIE ZAKWALIFIKOWAC!
+MISTRZOSTWA UKOŃCZONE!
+NIE UDAŁO CI SIĘ ZAKWALIFIKOWAĆ!
 Pojazd
 Pkt
-Najlepsze okrazenie
-Ostatnie okrazenie
-Okrazenie
-Wyscig
-Okrazenie
-Miedzyczas
+Najlepsze okrążenie
+Ostatnie okrążenie
+Okrążenie
+Wyścig
+Okrążenie
+Międzyczas
 Przeciwnicy
 Wyzwanie
 Czas wyzwania pobity!
 Czas
 Wynik gry
-Wynik wyscigu
-Naprawde wyjsc?
-Naprawde restart?
-Naprawde czy udajesz?
-Naprawde
-Udaje
-Domyslnie
-Braz
+Wynik wyścigu
+Naprawdę wyjść?
+Naprawdę zrestartować?
+Naprawdę czy udajesz?
+Naprawdę
+Udaję
+Domyślnie
+Brąz
 Srebro
-Zloto
+Złoto
 Platyna
-Koniec gry! Spróbuj szczescia nastepnym razem!
-NOWA DOSTAWA POJAZDOW!\n(Sprawdz nowe pudla w\nmenu wyboru pojazdów)\n
-GRATULACJE!\n%s TRASY SA TERAZ\nDOSTEPNE W TRYBIE LUSTRZANYM\n(Wcisnij DOL w menu wyboru tras)\n
-GRATULACJE!\n%s TRASY SA TERAZ\nDOSTEPNE W TRYBIE ODWROCONYM\n(Wcisnij GORA w menu wyboru tras)\n
-GRATULACJE!\n%s TRASY SA TERAZ DOSTEPNE \nW TRYBIE LUSTRZANYM ODWROCONYM\n(Wcisnij GORA potem DOL\nw menu wyboru tras)\n
-\VPNOWY TRYB!\n\"MECHANICZNA RZEZ\"\nZOSTAL ODBLOKOWANY\n
-\VNGRATULACJE!\nZEBRANO WSZYSTKIE GWIAZDY ARENY WYCZYNOW\n
-\VSGRATULACJE!\nZEBRANO WSZYSTKIE GWIAZDY ARENY WYCZYNOW\n
-Wcisnij przycisk Start
-Wcisnij przycisk Start, aby kontynuowac
-\1Wcisnij przycisk Start, aby kontynuowac
+Koniec gry! Spróbuj szczęścia następnym razem!
+NOWA DOSTAWA POJAZDÓW!\n(Sprawdź nowe pudła w\nmenu wyboru pojazdów)\n
+GRATULACJE!\n%s TRASY SĄ TERAZ\nDOSTĘPNE W TRYBIE LUSTRZANYM\n(Wciśnij DÓŁ w menu wyboru tras)\n
+GRATULACJE!\n%s TRASY SĄ TERAZ\nDOSTĘPNE W TRYBIE ODWRÓCONYM\n(Wciśnij GÓRA w menu wyboru tras)\n
+GRATULACJE!\n%s TRASY SĄ TERAZ DOSTĘPNE \nW TRYBIE LUSTRZANYM ODWRÓCONYM\n(Wciśnij GÓRA potem DÓŁ\nw menu wyboru tras)\n
+\VPNOWY TRYB!\n\"MECHANICZNA RZEŹ\"\nZOSTAŁ ODBLOKOWANY\n
+\VNGRATULACJE!\nZEBRANO WSZYSTKIE GWIAZDY ARENY WYCZYNÓW\n
+\VSGRATULACJE!\nZEBRANO WSZYSTKIE GWIAZDY ARENY WYCZYNÓW\n
+Wciśnij przycisk Start
+Wciśnij przycisk Start aby kontynuować
+\1Wciśnij przycisk Start aby kontynuować
 Pauza
 Gra autorstwa
-Menedzer projektu
-Glowny programista
-Programisci PC
-Programisci Nintendo 64
-Programisci PlayStation
-Grafika i Dzwiek (Oczy i Uszy R/C)
-Dynamika (Dlonie i Stopy R/C)
+Menedżer projektu
+Główny programista
+Programiści PC
+Programiści Nintendo 64
+Programiści PlayStation
+Grafika i Dźwięk (Oczy i Uszy R/C)
+Dynamika (Dłonie i Stopy R/C)
 Inteligencja (Mózgi R/C)
 Edytor tras
 Dodatkowe programowanie
-Glówny Artysta
+Główny Artysta
 Modelowanie Tras
 Tekstury Tras
 Modele Pojazdów i Grafika
-Na podstawie oryginalnej koncepcji wg
-Glówny Projektant
+Na podstawie oryginalnej koncepcji według
+Główny Projektant
 Projektanci
-Projektowanie Efektów Dzwiekowych
+Projektowanie Efektów Dźwiękowych
 Muzyka Napisana Przez
-Specjalne Rozwiazania dla N64
-Menadzer Kontroli Jakosci
-Druzyna Kontroli Jakosci
-Menadzer Sieciowy
+Specjalne Rozwiązania dla N64
+Menedżer Kontroli Jakości
+Drużyna Kontroli Jakości
+Menedżer Sieciowy
 Technik Komputerowy
 Dyrektor ds. Rozwoju Produktu
 Dyrektor Artystyczny
-Pelniacy Funkcje Dyrektora Kreatywnego
-Rezyser Dzwieku
-Menedzer ds. Rozwoju Rynkowego
-Pelniacy Funkcje Dyrektora Technicznego
-Specjalne podziekowania
+Pełniący Funkcję Dyrektora Kreatywnego
+Reżyser Dźwięku
+Menedżer ds. Rozwoju Rynkowego
+Pełniący Funkcję Dyrektora Technicznego
+Specjalne podziękowania
 \VP
 \VPOpracowane przez Acclaim Studios London
 \VP
-\VPWszelkie prawa zastrzezone
+\VPWszelkie prawa zastrzeżone
 \VP
 \VPWykorzystuje Miles Sound System. @ 1991-1999 by Rad Game Tools, inc.
 \VP
-\VPWszystkie znaki handlowe s¹ w³asnoscia
+\VPWszystkie znaki handlowe są własnością
 \VPAcclaim Entertainment, inc.
 \VP
-\VPTM, r & @ 1999 ACCLAIM ENTERTAINMENT, INC. WSZELKIE PRAWA ZASTRZEZONE
+\VPTM, r & @ 1999 ACCLAIM ENTERTAINMENT, INC. WSZELKIE PRAWA ZASTRZEŻONE
 \VP
 \VPDystrybuowane przez Acclaim Distribution, inc.
 \VP
 \VP
-\VPDZIEKUJEMY ZA GRE!
+\VPDZIĘKUJEMY ZA GRĘ!
 \VN
 \VNOpracowane przez Acclaim Studios London
 \VN
 \VNWszystkie postacie w nim zawarte oraz
-\VNich podobizny z dzielnic s¹ znakami towarowymi
+\VNich podobizny z dzielnic są znakami towarowymi
 \VNAcclaim Entertainment, inc.
 \VN
 \VNTM , \2 & \3 1999
 \VNACCLAIM ENTERTAINMENT, INC.
-\VNWSZELKIE PRAWA ZASTRZEZONE
+\VNWSZELKIE PRAWA ZASTRZEŻONE
 \VN
 \VNDystrybuowane przez
 \VNAcclaim Distribution, inc.
 \VN
-\VNDZIEKUJEMY ZA GRE!
+\VNDZIĘKUJEMY ZA GRĘ!
 \VN
 \VS
 \VSOpracowane przez Acclaim Studios London
 \VS
 \VSWszystkie postacie w nim zawarte oraz
-\VSich podobizny z dzielnic s¹ znakami towarowymi
+\VSich podobizny z dzielnic są znakami towarowymi
 \VSAcclaim Entertainment, inc.
 \VS
 \VSTM , R & @ 1999
 \VSACCLAIM ENTERTAINMENT, INC.
-\VSALL RIGHTS RESERVED
+\VSWSZELKIE PRAWA ZASTRZEŻONE
 \VS
 \VSDystrybuowane przez
 \VSAcclaim Distribution, inc.
 \VS
-\VSDZIEKUJEMY ZA GRE!
+\VSDZIĘKUJEMY ZA GRĘ!
 \VS
-moduly
-pick-ups
+moduły
+pick-upy
 dostosuj
 zachowaj
 nowy
 wczytaj
 eksportuj
-wyjscie
-umiesc moduly
+wyjście
+umieść moduły
 kasowanie
 menu
-ostrzezenie
+ostrzeżenie
 pytanie
 info
 start
 proste
 spadki
 wzniesienia
-kwadratowe zakrety
-polokragle zakrety
-ukosne
+kwadratowe zakręty
+półokrągłe zakręty
+ukośne
 brzeg
-wstrzasy
-waski
+wstrząsy
+wąski
 rura
 most
-skrzyzowanie
+skrzyżowanie
 skok
 szykana
 TAK
@@ -465,125 +465,125 @@ etap : 9
 etap : 10
 etap : 11
 etap : 12
-Ukonczony!!
+Ukończony!!
 ZAPISZ
 Trasa %d
 ustawione pick-upy:\n\r%d z 6
 : pozycja
 : rozmiar
-Nie zapisales biezacej trasy.\n\rChcesz ja zapisac teraz?\n\r
-Nie udalo sie zapisac trasy\n\rPonowic ?
-Nadpisac istniejaca trase?\n\r
-Naprawde chcesz usunac\n\r'%s'\n\r
-Czy chcesz zachowac zmiany\n\rktórych w³aœnie dokona³eœ?\n\r
+Nie zapisałeś bieżącej trasy.\n\rCzy chcesz ją zapisać teraz?\n\r
+Nie udało się zapisać trasy\n\rPonowić?
+Nadpisać istniejącą trasę?\n\r
+Naprawdę chcesz usunąć?\n\r'%s'\n\r
+Czy chcesz zachować zmiany\n\rktórych właśnie dokonałeś?\n\r
 Trasa zapisana!
-Wystapil blad podczas zapisu trasy!
-\1Trasa nie tworzy petli, lub ma\n\ruskok w góre w rurze. Kursor bedzie\n\rustawiony w ostatniej poprawnej pozycji.
-\1Trasa nie tworzy petli, lub ma\n\ruskok w góre. Kursor bedzie\n\rustawiony w ostatniej poprawnej pozycji.
-\1Trasa nie tworzy petli, lub ma\n\ruskok w góre w rurze.
-\1Trasa nie tworzy petli, lub ma\n\rw sobie uskok w góre.
-Trasa zbyt zlozona!
+Wystąpił błąd podczas zapisu trasy!
+\1Trasa nie tworzy pętli lub ma\n\ruskok w górę w rurze. Kursor będzie\n\rustawiony w ostatniej poprawnej pozycji.
+\1Trasa nie tworzy pętli lub ma\n\ruskok w górę. Kursor będzie\n\rustawiony w ostatniej poprawnej pozycji.
+\1Trasa nie tworzy pętli lub ma\n\ruskok w górę w rurze.
+\1Trasa nie tworzy pętli lub ma\n\rw sobie uskok w górę.
+Trasa zbyt złożona!
 \1Trasa nie posiada startu
-\1Trasa posiada wiecej niz jeden start
+\1Trasa posiada więcej niż jeden start
 Lewo
 Prawo
 Klakson
 Spróbuj ponownie?
 Demo
-Ladowanie menu
-Ladowanie autorów
-Ladowanie Wskaznika Punktu Odniesienia Gry
+Ładowanie menu
+Ładowanie autorów
+Ładowanie Wskaźnika Punktu Odniesienia Gry
 Graczy:
 CPU
 Losowo
 Status
 Gotowy
 Nie jest gotowy
-Wcisnij TAB aby rozpoczac
-Gra Multiplayer Przerwana!
+Wciśnij TAB aby rozpocząć
+Gra wieloosobowa Przerwana!
 Czekamy na:
 Czekaj na hosta…
 Host
 Trasa
 Gra
-Zla wersja
-Pelen
+Zła wersja
+Pełen
 Rekord
 Skalowany
-Ukonczony
-Rozpoczety
+Ukończony
+Rozpoczęty
 Otwórz
 Powtórka
 Galeria
-Local
-Download
-Dzwiek 3D
+Lokalne
+Pobierz
+Dźwięk 3D
  EAX
 Technologia 3D:
- Sledzenie Fal:
-  Niedroznosci
+ Śledzenie Fal:
+  Niedrożności
   Odbicia
-  Szczególy
-Wysrodkowanie HUDu
+  Szczegóły
+Wyśrodkowanie HUDu
 Utrzymanie stylu gry
-Czestotliwosc próby
+Częstotliwość próby
 Lusterko wsteczne
 Wersja
-Wcisnij spacje by pokazac informacje sesji
+Wciśnij spację by pokazać informacje sesji
 Szukanie graczy…
 Opcje zaawansowane
-Pelny ekran
-Rozdzielczosc okna
+Pełny ekran
+Rozdzielczość okna
 Rozmiar okna
 Proporcje obrazu
 Rdzenie procesora
 Ustawienia sieci
-Zuzycie lacza
-Zgodnosc z innymi wersjami
+Zużycie łącza
+Zgodność z innymi wersjami
 Ustawienia profilu
 Odblokuj profile
 Wczytaj ustawienia
 Zapisz ustawienia
-Haslo
-Prosze czekac …
-Ogladaj
-Wcisnij Spacje, aby rozpoczac
-Wcisnij TAB, aby wznowic
-Maksymalna ilosc polaczen
+Hasło
+Proszę czekać…
+Oglądaj
+Wciśnij Spację aby rozpocząć
+Wciśnij TAB aby wznowić
+Maksymalna liczba połączeń
 Bronie
 Wybierz gracza
-Pokój pelny!
-Zarzadzaj graczami
-Wyrzuc
+Pełny pokój!
+Zarządzaj graczami
+Wyrzuć
 Ustaw jako Host
 Ustaw jako Widz
 Widz
-Teraz hostujesz te gre!
+Teraz hostujesz tę grę!
 Ustaw jako gracza
-Jestes teraz widzem gry!
-Jestes teraz aktywnym graczem!
+Teraz jesteś widzem gry!
+Teraz jesteś aktywnym graczem!
 Pokazuj ducha
 Ustaw wszystkie klawisze
-Ustaw sterowanie domyslne
-Host wystartowal gre z nieznana trasa!
-Podlaczenie do sesji
-Wcisnij Esc, aby anulowac
-Polaczenie nawiazne
-Polaczenie przerwane
-Wcisnij Pauze, aby kontynuowac
-Wcisnij dowolny klawisz
+Ustaw sterowanie domyślne
+Host wystartował grę z nieznaną trasą!
+Podłączenie do sesji
+Wciśnij Esc aby anulować
+Połączenie nawiązane
+Połączenie przerwane
+Wciśnij Pauzę aby kontynuować
+Wciśnij dowolny klawisz
 Wybierz język
 Wybierz profil
-Zalóz profil
+Załóż profil
 Wczytaj profil
-Usun profil
+Usuń profil
 Profil istnieje!
 Gniazdo kontrolera:
-Odwróc / Widok Wsteczny
-CPU w Multiplayerze
-Uzyj Pobierania
+Odwróć / Widok Wsteczny
+CPU w grze wieloosobowej
+Użyj Pobierania
 Globalnie
-Wg Klasyfikacji
+wg Klasyfikacji
 Generuj Mipmapy
 Anizotropia
 Podzielony ekran
@@ -591,19 +591,19 @@ Falowanie wody
 W Oknie
 Multisampling
 Czekanie na graczy…
-Dolaczanie do nastepnej gry…
-Wcisnij TAB aby Dolaczyc
-Dotknij Ekranu by Rozpoczac
-Dotknij Ekranu by Wznowic
-Dotknij Ekranu by Kontynuowac
+Dołączanie do następnej gry…
+Wciśnij TAB aby Dołączyć
+Dotknij Ekranu aby Rozpocząć
+Dotknij Ekranu aby Wznowić
+Dotknij Ekranu aby Kontynuować
 Widok z Kamery
-Podazajaca
-Sledzaca
+Podążająca
+Śledząca
 W aucie
 Na masce
-Nieprzezroczystosc Przycisków
-Ostatnie okrazenie!
-Renderer wideo
-Powrót do pokoju
+Nieprzezroczystość Przycisków
+Ostatnie okrążenie!
+Renderowanie wideo
+Powrót do lobby
 \LNPolski
 \LCpl
