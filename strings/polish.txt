@@ -604,6 +604,6 @@ Na masce
 Nieprzezroczystość Przycisków
 Ostatnie okrążenie!
 Renderowanie wideo
-Powrót do lobby
+Powrót do poczekalni
 \LNPolski
 \LCpl
