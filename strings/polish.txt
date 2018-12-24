@@ -281,13 +281,13 @@ Wyścig
 Norm
 Odwr
 Lustr
-Gwiazdy
+Gwiazda
 Rodzaj gry:
 Etap:
 Trasa:
 Pojazd
 Wygrana:
-Znaleziono gwiazd:
+Znaleziono gwiazdę:
 Kolekcja gwiazd:
 z
 Pokonany
