@@ -91,7 +91,7 @@ Automaticky
 Nedostupné
 Antialias
 Povolit V-Sync
-Zobrazit FPS (snímky za sekundu)
+Zobrazit FPS
 Filtr Textur
 Úroveň Mipmap
 Wireframe
