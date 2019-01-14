@@ -605,5 +605,6 @@ Opacidade dos botões
 Última Volta!
 Renderizador de Vídeo
 Voltar ao Lobby
+Escolher Repetição
 \LNPortuguês
 \LCpt

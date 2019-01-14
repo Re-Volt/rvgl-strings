@@ -605,5 +605,6 @@ Velikost Tlačítek
 Poslední Kolo!
 Zobrazovač Videa
 Zpět Do Lobby
+Výběr Záznam
 \LNČeský
 \LCcz

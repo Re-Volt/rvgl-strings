@@ -611,5 +611,6 @@ Opacità pulsanti
 Ultimo Giro!
 Renderer video
 Torna alla Lobby
+Seleziona replay
 \LNItaliano
 \LCit

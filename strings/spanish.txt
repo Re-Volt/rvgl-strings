@@ -601,5 +601,6 @@ Botones opacos
 Última Vuelta!
 Renderizador de vídeo
 Volver a la sala
+Seleccionar repetición
 \LNEspañol
 \LCes

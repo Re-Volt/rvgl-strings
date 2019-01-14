@@ -605,5 +605,6 @@ Knopf Deckkraft
 Letzte Runde!
 Videorenderer
 Zurück zur Lobby
+Aufnahme wählen
 \LNDeutsch
 \LCde

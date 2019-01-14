@@ -605,5 +605,6 @@ Nieprzezroczystość Przycisków
 Ostatnie okrążenie!
 Renderowanie wideo
 Powrót do poczekalni
+Wybierz powtórkę
 \LNPolski
 \LCpl

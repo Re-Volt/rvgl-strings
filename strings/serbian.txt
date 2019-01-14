@@ -605,5 +605,6 @@ Vidljivost dugmića
 Poslednji krug!
 Video Renderer
 Nazad u lobi
+Izaberi snimak
 \LNSrpski
 \LCsr

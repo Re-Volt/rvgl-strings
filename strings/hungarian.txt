@@ -605,5 +605,6 @@ Gombok átlátszósága
 Utolsó Kör!
 Videó leképező
 Vissza a lobbihoz
+Válassz Replay
 \LNMagyar
 \LChu

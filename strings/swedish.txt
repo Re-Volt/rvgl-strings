@@ -605,5 +605,6 @@ Button Opacity
 Sista Varvet!
 Video Renderer
 Återvänd till Lobby
+Välj Repris
 \LNSvenska
 \LCsv

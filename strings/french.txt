@@ -593,5 +593,6 @@ Visibilité des Boutons
 Dernier Tour !
 Rendu Vidéo
 Retour à la salle
+Sélectionner ralenti
 \LNFrançais
 \LCfr
