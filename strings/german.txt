@@ -606,5 +606,6 @@ Letzte Runde!
 Videorenderer
 Zurück zur Lobby
 Aufnahme wählen
+Frontend wählen
 \LNDeutsch
 \LCde

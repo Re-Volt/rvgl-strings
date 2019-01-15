@@ -606,5 +606,6 @@ Paskutinis Ratas!
 Atvaizdavimo Būdas
 Grįžti į Lobby
 Pasirinkite Pakartojimą
+Pasirinkite Menių
 \LNLietuvių
 \LClt

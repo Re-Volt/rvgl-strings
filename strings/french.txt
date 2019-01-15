@@ -594,5 +594,6 @@ Dernier Tour !
 Rendu Vidéo
 Retour à la salle
 Sélectionner ralenti
+Sélectionner menu
 \LNFrançais
 \LCfr

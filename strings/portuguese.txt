@@ -606,5 +606,6 @@ Opacidade dos botões
 Renderizador de Vídeo
 Voltar ao Lobby
 Escolher Repetição
+Escolher Menu
 \LNPortuguês
 \LCpt

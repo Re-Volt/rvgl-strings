@@ -606,5 +606,6 @@ Ostatnie okrążenie!
 Renderowanie wideo
 Powrót do poczekalni
 Wybierz powtórkę
+Wybierz menu
 \LNPolski
 \LCpl

@@ -606,5 +606,6 @@ Poslední Kolo!
 Zobrazovač Videa
 Zpět Do Lobby
 Výběr Záznam
+Výběr Menu
 \LNČeský
 \LCcz

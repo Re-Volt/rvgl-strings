@@ -606,5 +606,6 @@ Utolsó Kör!
 Videó leképező
 Vissza a lobbihoz
 Válassz Replay
+Válassz Frontend
 \LNMagyar
 \LChu

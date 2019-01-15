@@ -606,5 +606,6 @@ Sista Varvet!
 Video Renderer
 Återvänd till Lobby
 Välj Repris
+Välj Meny
 \LNSvenska
 \LCsv

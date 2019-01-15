@@ -606,5 +606,6 @@ Final Lap!
 Video Renderer
 Back To Lobby
 Select Replay
+Select Frontend
 \LNEnglish
 \LCen

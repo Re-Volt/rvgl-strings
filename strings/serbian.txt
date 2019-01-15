@@ -606,5 +606,6 @@ Poslednji krug!
 Video Renderer
 Nazad u lobi
 Izaberi snimak
+Izaberi menu
 \LNSrpski
 \LCsr

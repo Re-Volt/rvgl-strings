@@ -606,5 +606,6 @@ Azken itzulia!
 Irudi sortzailea
 Itzuli atarian
 Aukeratu errepikapena
+Aukeratu interfazea
 \LNEuskara
 \LCeu

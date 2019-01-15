@@ -602,5 +602,6 @@ Botones opacos
 Renderizador de vídeo
 Volver a la sala
 Seleccionar repetición
+Seleccionar menú
 \LNEspañol
 \LCes
