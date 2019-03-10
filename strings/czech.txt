@@ -161,7 +161,7 @@ Mód
 Simulace
 Arkáda
 Konzole
-Začátečník RC
+RC Začátečník
 MPH
 MPH v Měřítku
 FPM
@@ -273,7 +273,7 @@ Střelba
 Otočit Auto
 Vrácení na Trať
 Změnit Pohled
-Pohled do Zadu
+Pohled Dozadu
 Pauza
 Tratě
 Vyhraný
@@ -331,7 +331,7 @@ Stříbrný
 Zlatý
 Platinový
 Konec Hry!  Příště Víc Štěstí!
-NOVÁ DODÁVKA AUT!\n(Podívej se na hromadu krabic na\nthe Obrazovce Výběru Auta)\n
+NOVÁ DODÁVKA AUT!\n(Podívej se na hromadu krabic na\nObrazovce Výběru Auta)\n
 GRATULACE!\n%s TRATĚ JSOU NYNÍ\nDOSTUPNÉ V OBRÁCENÉ VERZI\n(Stiskni DOLŮ na Obrazovce Výběru Tratě)\n
 GRATULACE!\n%s TRATĚ JSOU NYNÍ\nDOSTUPNÉ V ZRCADLOVÉ VERZI\n(Stiskni NAHORU na Obrazovce Výběru Tratě)\n
 GRATULACE!\n%s TRATĚ JSOU NYNÍ DOSTUPNÉ\nV OBRÁCENÉ ZRCADLOVÉ VERZI\n(Stiskni NAHORU a poté DOLŮ\nna Obrazovce Výběru Tratě)\n
@@ -488,7 +488,7 @@ Trať Je Moc Komplexní!
 Vlevo
 Vpravo
 Zatroubit
-Zkusit Znova?
+Zkusit Znovu?
 Demo
 Načítání Hlavního Menu
 Načítání Titulků
@@ -571,7 +571,7 @@ Stiskni Esc pro zrušení
 Spojení navázáno
 Spojení ukončeno
 Stiskni Pauzu pro pokračování
-Stiskni libovolnou klávesu pro pokračování
+Stiskni klávesu pro pokračování
 Vyber Jazyk
 Vybrat Účet
 Vytvořit Účet
@@ -579,7 +579,7 @@ Načíst Účet
 Smazat Účet
 Účet Již Existuje!
 Ovládací Slot:
-Otočit / Pohled do Zadu
+Otočit / Pohled Dozadu
 CPU ve Hře Pro Více Hráčů
 Použít Stahování
 Celkový
@@ -605,7 +605,7 @@ Velikost Tlačítek
 Poslední Kolo!
 Zobrazovač Videa
 Zpět Do Lobby
-Výběr Záznam
+Výběr Záznamu
 Výběr Menu
-\LNČeský
+\LNČeština
 \LCcz
