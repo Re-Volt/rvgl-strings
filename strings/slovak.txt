@@ -332,9 +332,9 @@ Zlatý
 Platinový
 Koniec Hry!  Nabudúce Viac Šťastia!
 NOVÁ DODÁVKA ÁUT!\n(Pozri sa na hromadu krabíc na\nObrazovke Výberu Auta)\n
-GRATULÁCIE!\n%s TRATE SÚ TERAZ\nDOSTUPNÉ V OBRÁTENEJ VERZII\n(Stlač DOLU na Obrazovke Výberu Trate)\n
-GRATULÁCIE!\n%s TRATE SÚ TERAZ\nDOSTUPNÉ V ZRKADLOVEJ VERZII\n(Stlač HORE na Obrazovke Výberu Trate)\n
-GRATULÁCIE!\n%s TRATE SÚ TERAZ DOSTUPNÉ\nV OBRÁTENEJ ZRKADLOVEJ VERZII\n(Stlač HORE a potom DOLU\nna Obrazovke Výberu Trate)\n
+GRATULÁCIE!\nTRATE Z KATEGÓRIE "%s" SÚ\nTERAZ DOSTUPNÉ V OBRÁTENEJ VERZII\n(Stlač DOLU na Obrazovke Výberu Trate)\n
+GRATULÁCIE!\nTRATE Z KATEGÓRIE "%s" SÚ\nTERAZ DOSTUPNÉ V ZRKADLOVEJ VERZII\n(Stlač HORE na Obrazovke Výberu Trate)\n
+GRATULÁCIE!\nTRATE Z KATEGÓRIE "%s" SÚ\nTERAZ DOSTUPNÉ V OBRÁTENEJ ZRKADLOVEJ VERZII\n(Stlač HORE a potom DOLU\nna Obrazovke Výberu Trate)\n
 \VPNOVÝ HERNÝ MÓD!\n\"CLOCKWORK ŠIALENSTVO\"\nBOL ODOMKNUTÝ\n
 \VNGRATULÁCIE!\nPOZBIERAL SI VŠETKY HVIEZDY V ARÉNE SKOKOV\n
 \VSGRATULÁCIE!\nPOZBIERAL SI VŠETKY HVIEZDY V ARÉNE SKOKOV\n
@@ -571,7 +571,7 @@ Stlač Esc pre zrušenie
 Spojenie naviazané
 Spojenie ukončené
 Stlač Pauzu pre pokračovanie
-Stlač klávesu pre pokračovanie
+Stlač ľubovoľnú klávesu
 Vyber Jazyk
 Vybrať Účet
 Vytvoriť Účet
