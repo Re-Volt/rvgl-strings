@@ -434,9 +434,11 @@ plasează modulele
 ștergere
 meniu
 atenție
+întrebare
 informație
 grilă de start
 linii drepte
+adâncitură
 movile
 cot pătrat
 cot rotund
@@ -563,6 +565,8 @@ Ai fost adăugat în joc!
 Arată fantomă
 Setează toate controalele
 Controale setate implicit
+Gazda a început jocul cu pista necunoscută!
+Conectarea la sesiunea de lobby
 Apasă tasta Esc pentru a anula
 Conexiune stabilită
 Conexiune anulată
