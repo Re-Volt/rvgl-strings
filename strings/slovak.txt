@@ -583,7 +583,7 @@ Otočiť / Pohľad Dozadu
 CPU v Hre Pre Víac Hráčov
 Použíť Sťahovanie
 Celkový
-Podľa Hodnotenia
+Hodnotenia
 Generovať Mipmapy
 Anisotropy
 Rozdelená Obrazovka

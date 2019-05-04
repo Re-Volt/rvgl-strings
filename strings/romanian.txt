@@ -583,7 +583,7 @@ Vedere răsturnată / din spate
 Multiplayer CPU
 Folosește descărcarea
 Global
-Conform clasificării
+Conform clasă
 Generează Mipmaps
 Anizotropie
 Ecran împărțit

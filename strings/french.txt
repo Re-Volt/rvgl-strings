@@ -571,7 +571,7 @@ Retourner / Vue en arrière
 Multijoueurs CPU
 Téléchargé
 Globale
-Par Catégorie
+Par Niveau
 Créer Mipmaps
 Anisotropie
 Ecran Partagé

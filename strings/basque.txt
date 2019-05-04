@@ -583,7 +583,7 @@ Biratu / Atzera ikuspegia
 Multi-jokalari CPUa
 Erabili deskarga
 Orokorra
-Puntuazioa bakoitzeko
+Puntuazioa
 Sortu Mipmapak
 Anisotropia
 Zatitu pantaila

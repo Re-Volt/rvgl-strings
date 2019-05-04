@@ -583,7 +583,7 @@ Odwróć / Widok Wsteczny
 CPU w grze wieloosobowej
 Użyj Pobierania
 Globalnie
-wg Klasyfikacji
+wg Klasyf.
 Generuj Mipmapy
 Anizotropia
 Podzielony ekran

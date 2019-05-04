@@ -589,7 +589,7 @@ Ribalta / Guarda indietro
 CPU Multigiocatore
 Usa Download
 Globale
-Per categoria
+Per grado
 Genera Mipmaps
 Anisotropia
 Schermo condiviso
@@ -603,8 +603,8 @@ Tocca lo schermo per cominciare
 Tocca lo schermo per riprendere
 Tocca lo schermo per continuare
 Visuale telecamera
-Segui da lontano
-Segui da vicino
+Lontano
+Vicino
 Interna
 Cofano
 Opacità pulsanti

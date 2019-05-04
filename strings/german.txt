@@ -583,7 +583,7 @@ Umdrehen / Rückansicht
 Computergegner im Mehrspieler
 Downloads benutzen
 Alle Klassen
-Pro Auto-Klasse
+Pro Klasse
 Mipmaps generieren
 Anisotropische Filterung
 Geteilter Bildschirm

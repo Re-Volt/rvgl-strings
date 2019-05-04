@@ -583,7 +583,7 @@ Kantelen / Achteruitzicht
 Multiplayer CPU
 Gebruik download
 Globaal
-Per waardering
+Per rang
 Genereer mipmaps
 Anisotropie
 Gesplitst scherm
