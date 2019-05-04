@@ -274,9 +274,9 @@ Pausa
 Pista
 Gana-
 da
-Norm
-Inv
-Refl
+Norm.
+Inv.
+Refl.
 Estr.
 Modo:
 Fase:

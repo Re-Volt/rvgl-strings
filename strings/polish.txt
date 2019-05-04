@@ -238,10 +238,10 @@ MIĘDZYCZASY
 TRASY UŻYTKOWNIKA
 Zastąp
 Potwierdź
-M
-R
-(M)
-(R)
+L
+O
+(L)
+(O)
 Kategoria
 Klasyfikacja
 Szybkość
@@ -278,9 +278,9 @@ Pauza
 Trasy
 Wygrany
 Wyścig
-Norm
-Odwr
-Lustr
+Norm.
+Odwr.
+Lustr.
 Gwiazda
 Rodzaj gry:
 Etap:

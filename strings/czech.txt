@@ -278,7 +278,7 @@ Pauza
 Tratě
 Vyhraný
 Závod
-Norm
+Norm.
 Obr.
 Zrc.
 Hvězdy

@@ -239,9 +239,9 @@ PISTELE UTILIZATORULUI
 Rescrie
 Confirmă
 O
-R
+I
 (O)
-(R)
+(I)
 Clasă
 Clasificare
 Viteză
@@ -276,11 +276,11 @@ Schimbă camera
 Vedere din spate
 Pauză
 Piste
-Câștigată
-Cursă
-Normal
-Inversat
-Oglindă
+Câșt-
+igată
+Norm.
+Inv.
+Ogl.
 Stele
 Modul jocului:
 Stadiu:

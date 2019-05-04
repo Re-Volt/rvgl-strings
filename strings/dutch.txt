@@ -238,9 +238,9 @@ DE TUSSENTIJDEN
 CIRCUITS VAN DE GEBRUIKER
 Overschrijven
 Bevestig
-G
+S
 O
-(G)
+(S)
 (O)
 Klasse
 Rang
@@ -278,9 +278,9 @@ Pauzeren
 Circuits
 Won
 Race
-Normaal
-Omgekeerd
-Gespiegeld
+Norm.
+Omgek.
+Spieg.
 Sterren
 Spel Modus:
 Stage:

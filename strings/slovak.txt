@@ -278,7 +278,7 @@ Pauza
 Trate
 Vyhraný
 Závod
-Norm
+Norm.
 Obr.
 Zrk.
 Hviezdy

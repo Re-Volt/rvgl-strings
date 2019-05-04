@@ -238,10 +238,10 @@ TEMPOS PARCIAIS
 PISTAS DE UTILIZADOR
 Sobreguardar
 Confirmar
-Esp.
-Inv.
-(ESP)
-(INV)
+E
+I
+(E)
+(I)
 Classe
 Nível
 Velocidade

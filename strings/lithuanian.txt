@@ -276,12 +276,12 @@ Pakeisti Kamerą
 Galinis Vaizdas
 Pauzė
 Trasos
-Laimėtos
-Lenktynės
-Paprastas
-Atvirkšt
-Veidrod
-Žvaigždės
+Laim-
+ėtos
+Norm.
+Atvir.
+Veidr.
+Žvaigž.
 Žaidimo Rėžimas:
 Etapas:
 Trasa:

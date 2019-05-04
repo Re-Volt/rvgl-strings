@@ -238,10 +238,10 @@ ZATITUTAKO DENBORAK
 ERABILTZAILE IBILBIDEAK
 Gainidatzi
 Baieztatu
-M
-E
-(M)
-(E)
+I
+A
+(I)
+(A)
 Klasea
 Puntuazioa
 Abiadura
@@ -276,8 +276,8 @@ Aldatu kamera
 Atzeko bista
 Gelditu
 Ibilbideak
-Lasterketa
-irabazi
+Irabazi
+
 Norm.
 Alder.
 Islad.

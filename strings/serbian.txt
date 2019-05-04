@@ -277,10 +277,10 @@ Gledanje pozadi
 Pauza
 Staze
 Pobede
-U trkama
-Norm
-Una
-Pre
+
+Norm.
+Una.
+Pre.
 Zvezde
 Mod igre:
 Etapa:

@@ -278,10 +278,10 @@ Pausad
 Banor
 Vunnit
 Race
-Normal
-Reverserad
-Spegel
-Stjärnor
+Norm.
+Bak.
+Speg.
+Stjärn.
 Racetyp:
 Deltävling:
 Bana:

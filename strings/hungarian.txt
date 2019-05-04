@@ -239,9 +239,9 @@ A FELHASZNÁLÓK PÁLYÁI
 Felülírás
 Beleegyezés
 T
-F
+V
 (T)
-(F)
+(V)
 Osztály
 Besorolás
 Sebesség
@@ -278,10 +278,10 @@ Szünet
 Pályák
 Nyert
 Verseny
-Norm
-Vissz
-Tükör
-Csillagok
+Norm.
+Vissz.
+Tükör.
+Csillag.
 Játékmód:
 Szakasz:
 Pálya:
@@ -289,7 +289,7 @@ Autó
 Nyert verseny:
 Csillagok megtalálva:
 Csillagok összegyûjtve:
-ennyibõl:
+ból
 Legyõzve
 Kitûzött idõ:
 \VPYou have

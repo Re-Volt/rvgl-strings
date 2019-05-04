@@ -276,11 +276,11 @@ Kamera wechseln
 Rückansicht
 Pause
 Strecken
-Gewonnene
-Rennen
-Normal
-Rückwärts
-Gespiegelt
+Gewon-
+nene
+Norm.
+Rück.
+Spieg.
 Sterne
 Modus:
 Rennen:

@@ -286,9 +286,9 @@ Pausa
 Piste
 Vinte
 Gare
-Normale
-Invertita
-Speculare
+Norm.
+Inv.
+Spec.
 Stelle
 Modalità di gioco:
 Livello:

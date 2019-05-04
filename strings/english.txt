@@ -278,9 +278,9 @@ Pause
 Tracks
 Won
 Race
-Norm
-Rev
-Mirr
+Norm.
+Rev.
+Mirr.
 Stars
 Game Mode:
 Stage:
