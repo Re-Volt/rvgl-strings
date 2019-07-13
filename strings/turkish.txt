@@ -1,10 +1,10 @@
-﻿Re-Volt
-YARIŞ SEÇ
-İSİM GİR
-ARABA SEÇ
-PİST SEÇ
-KUPA SEÇ
-YORUM
+Re-Volt
+Yarış Seç
+İsim Gir
+Araba Seç
+Pist Seç
+Kupa Seç
+Yorum
 Çoklu Bağlantı:
 Oluşturma Ayarları
 Oyun Türü
