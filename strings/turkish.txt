@@ -583,7 +583,7 @@ Kontrolcü Yeri:
 Çok Oyunculuda AI
 İndirmeyi Kullan
 Dünya
-Her-Değerlendirme
+Her Sınıf
 Mipmap Üret
 Anizotropi
 Yarım Ekran
