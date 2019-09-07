@@ -607,5 +607,6 @@ Zobrazovač Videá
 Späť Do Lobby
 Výber Záznam
 Výber Menu
+Pokrok
 \LNSlovenčina
 \LCsk

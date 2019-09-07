@@ -607,5 +607,6 @@ Renderowanie wideo
 Powrót do poczekalni
 Wybierz powtórkę
 Wybierz menu
+Postęp
 \LNPolski
 \LCpl

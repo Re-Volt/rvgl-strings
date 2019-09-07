@@ -607,5 +607,6 @@ Video Renderer
 Återvänd till Lobby
 Välj Repris
 Välj Meny
+Framsteg
 \LNSvenska
 \LCsv

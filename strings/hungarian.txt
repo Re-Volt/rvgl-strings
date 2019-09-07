@@ -607,5 +607,6 @@ Videó leképező
 Vissza a lobbihoz
 Válassz Replay
 Válassz Frontend
+Haladás
 \LNMagyar
 \LChu

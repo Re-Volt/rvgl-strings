@@ -607,5 +607,6 @@ Zobrazovač Videa
 Zpět Do Lobby
 Výběr Záznamu
 Výběr Menu
+Pokrok
 \LNČeština
 \LCcz

@@ -607,5 +607,6 @@ Renderizador de Vídeo
 Voltar ao Lobby
 Escolher Repetição
 Escolher Menu
+Progresso
 \LNPortuguês
 \LCpt

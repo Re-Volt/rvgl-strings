@@ -607,5 +607,6 @@ Videorenderer
 Zurück zur Lobby
 Aufnahme wählen
 Frontend wählen
+Fortschritt
 \LNDeutsch
 \LCde

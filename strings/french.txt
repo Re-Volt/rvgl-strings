@@ -595,5 +595,6 @@ Rendu Vidéo
 Retour à la salle
 Sélectionner ralenti
 Sélectionner menu
+Progrès
 \LNFrançais
 \LCfr

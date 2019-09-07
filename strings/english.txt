@@ -607,5 +607,6 @@ Video Renderer
 Back To Lobby
 Select Replay
 Select Frontend
+Progress
 \LNEnglish
 \LCen

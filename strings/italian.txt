@@ -613,5 +613,6 @@ Renderer video
 Torna alla Lobby
 Seleziona replay
 Seleziona interfaccia
+Progresso
 \LNItaliano
 \LCit

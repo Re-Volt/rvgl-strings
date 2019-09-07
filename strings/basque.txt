@@ -607,5 +607,6 @@ Irudi sortzailea
 Itzuli atarian
 Aukeratu errepikapena
 Aukeratu interfazea
+Aurrerabide
 \LNEuskara
 \LCeu

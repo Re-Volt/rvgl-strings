@@ -607,5 +607,6 @@ Atvaizdavimo Būdas
 Grįžti į Lobby
 Pasirinkite Pakartojimą
 Pasirinkite Menių
+Progresas
 \LNLietuvių
 \LClt

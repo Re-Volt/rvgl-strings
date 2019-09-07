@@ -607,5 +607,6 @@ Redare video
 Înapoi la Lobby
 Selectează înregistrare
 Selectează interfață
+Progres
 \LNRomână
 \LCro

@@ -603,5 +603,6 @@ Renderizador de vídeo
 Volver a la sala
 Seleccionar repetición
 Seleccionar menú
+Progreso
 \LNEspañol
 \LCes

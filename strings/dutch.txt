@@ -607,5 +607,6 @@ Video-renderer
 Terug naar de lobby
 Selecteer filmpje
 Selecteer frontend
+Voortgang
 \LNNederlands
 \LCnl
