@@ -52,7 +52,7 @@ Görüntü Ayarları
 Ses Ayarları
 Kontrol Ayarları
 Yükle/Kayıt Rekor
-Krediye Bak
+Yapımcıları Göster
 Araba Sayısı
 Rastgele Araba
 Rastgele Pist
@@ -60,7 +60,7 @@ Nesne Alma
 Tur Sayısı
 Rakip Etiketleme Zamanı
 Zorluk
-Açılan Araba 
+Kilidi Açılan Araba 
 Bölünmüş Zaman
 Çarpışma
 Hız Birimi
@@ -308,7 +308,7 @@ TEBRİKLER!
 Başarısız oldun ve elendin!
 Araç
 Puan
-En İyi Zaman
+En Hızlı Tur
 Son Tur
 Tur Zamanı
 Yarış
@@ -320,9 +320,9 @@ Mücadele Zamanını Yendin!
 Zaman
 Oyun Sonucu
 Yarış Sonucu
-Gerçekten Çıkacak mısın?
+Oyundan Çıkılsın mı?
 Gerçekten Tekrarlayacak mısın?
-Gerçekten mi yoksa numara mı yapıyorsun?
+Gerçekten mi Taklit mi yapıyorsun?
 Gerçekten
 Numara
 Başlangıç
@@ -490,8 +490,8 @@ Sağ
 Korna
 Tekrar Dene?
 Tanıtım
-Ön Kabuk Yükleniyor
-Krediler Yükleniyor
+Ana Menü Yükleniyor
+Yapımcılar Yükleniyor
 Oyun Ölçer Kıyaslaması Yükleniyor
 Yarışçılar:
 BOT
