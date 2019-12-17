@@ -322,7 +322,7 @@ Oyun Sonucu
 Yarış Sonucu
 Oyundan Çıkılsın mı?
 Gerçekten Tekrarlayacak mısın?
-Gerçekten mi Taklit mi yapıyorsun?
+Gerçekten mi yoksa Numara mı Yapmalıyım?
 Gerçekten
 Numara
 Başlangıç
@@ -514,7 +514,7 @@ Bitiş
 Başlangıç
 Açık
 İzleti
-Galeriye Bak
+Galeriyi Göster
 Yerel
 İndir
 3B Ses
