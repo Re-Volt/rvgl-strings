@@ -60,7 +60,7 @@ Nesne Alma
 Tur Sayısı
 Rakip Etiketleme Zamanı
 Zorluk
-Kilidi Açılan Araba 
+Kilidi Açılan Araba
 Bölünmüş Zaman
 Çarpışma
 Hız Birimi
@@ -91,7 +91,7 @@ Otomatik
 Mevcut Değil
 Düzgünleştirme
 V-Sync'i Etkinleştir
-FPS'yi Göster 
+FPS'yi Göster
 Kaplama Filteri
 Mipmap Seviyesi
 Tel Kafes
@@ -154,7 +154,7 @@ Yapılandırma
 Demo Modu
 Oyuncu
 Tekli Carinfo'yu Kaydet
-Çoklu Carinfo'yu Kaydet 
+Çoklu Carinfo'yu Kaydet
 Kullandığın Arabanın Bilgisi
 İlerlemeyi Sıfırla
 Tür
