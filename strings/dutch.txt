@@ -608,5 +608,6 @@ Terug naar de lobby
 Selecteer filmpje
 Selecteer frontend
 Voortgang
+Super Pro
 \LNNederlands
 \LCnl

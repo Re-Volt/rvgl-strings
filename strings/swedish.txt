@@ -608,5 +608,6 @@ Video Renderer
 Välj Repris
 Välj Meny
 Framsteg
+Super Proffs
 \LNSvenska
 \LCsv

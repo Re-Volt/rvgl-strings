@@ -608,5 +608,6 @@ Vissza a lobbihoz
 Válassz Replay
 Válassz Frontend
 Haladás
+Szuper Profi
 \LNMagyar
 \LChu

@@ -608,5 +608,6 @@ Itzuli atarian
 Aukeratu errepikapena
 Aukeratu interfazea
 Aurrerabide
+Super Pro
 \LNEuskara
 \LCeu

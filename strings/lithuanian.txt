@@ -254,7 +254,7 @@ Speciali
 Naujokas
 Mėgėjas
 Patyręs
-Semi-Pro
+Pusiau-Prof.
 Profesionalas
 4WD
 FWD
@@ -608,5 +608,6 @@ Grįžti į Lobby
 Pasirinkite Pakartojimą
 Pasirinkite Menių
 Progresas
+Super Prof.
 \LNLietuvių
 \LClt

@@ -608,5 +608,6 @@ Powrót do poczekalni
 Wybierz powtórkę
 Wybierz menu
 Postęp
+Super Prof.
 \LNPolski
 \LCpl

@@ -254,7 +254,7 @@ Speciální
 Zelenáč
 Amatér
 Pokročilý
-Skoro Profesionál
+Skoro Prof.
 Profesionál
 4x4
 2x4 Přední
@@ -608,5 +608,6 @@ Zpět Do Lobby
 Výběr Záznamu
 Výběr Menu
 Pokrok
+Super Prof.
 \LNČeština
 \LCcz

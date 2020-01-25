@@ -254,7 +254,7 @@ Special
 Începător
 Amator
 Avansat
-Semi-Profesionist
+Semi-Prof.
 Profesionist
 4WD
 FWD
@@ -608,5 +608,6 @@ Redare video
 Selectează înregistrare
 Selectează interfață
 Progres
+Super Prof.
 \LNRomână
 \LCro

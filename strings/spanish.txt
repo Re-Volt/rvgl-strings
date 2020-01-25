@@ -604,5 +604,6 @@ Volver a la sala
 Seleccionar repetición
 Seleccionar menú
 Progreso
+Súper Pro
 \LNEspañol
 \LCes

@@ -254,7 +254,7 @@ Specijalni
 Početnik
 Amater
 Napredni
-Polu-profes.
+Polu-prof.
 Profesionalac
 Sve četiri
 Prednja
@@ -608,5 +608,6 @@ Nazad u lobi
 Izaberi snimak
 Izaberi menu
 Napredak
+Super Prof.
 \LNSrpski
 \LCsr

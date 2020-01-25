@@ -608,5 +608,6 @@ Lobi'ye Dön
 Tekrarı Seç
 Ön Kabuğu Seç
 İlerleme
+Süper Usta
 \LNTürkçe
 \LCtr

@@ -262,7 +262,7 @@ Speciale
 Principiante
 Appassionato
 Avanzato
-Semi-Professionale
+Semi-Prof.
 Professionale
 4WD
 FWD
@@ -614,5 +614,6 @@ Torna alla Lobby
 Seleziona replay
 Seleziona interfaccia
 Progresso
+Super Prof.
 \LNItaliano
 \LCit

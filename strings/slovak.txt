@@ -254,7 +254,7 @@ Motorové
 Zelenáč
 Amatér
 Pokročilý
-Skoro Profesionál
+Skoro Prof.
 Profesionál
 4x4
 2x4 Predná
@@ -608,5 +608,6 @@ Späť Do Lobby
 Výber Záznam
 Výber Menu
 Pokrok
+Super Prof.
 \LNSlovenčina
 \LCsk

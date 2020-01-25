@@ -608,5 +608,6 @@ Zurück zur Lobby
 Aufnahme wählen
 Frontend wählen
 Fortschritt
+Super Pro
 \LNDeutsch
 \LCde

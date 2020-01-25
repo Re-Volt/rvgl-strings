@@ -254,7 +254,7 @@ Especial
 Novato
 Amador
 Avançado
-Semi-Profissional
+Semi-Prof.
 Profissional
 4x4
 Dianteira
@@ -608,5 +608,6 @@ Voltar ao Lobby
 Escolher Repetição
 Escolher Menu
 Progresso
+Super Prof.
 \LNPortuguês
 \LCpt

@@ -608,5 +608,6 @@ Back To Lobby
 Select Replay
 Select Frontend
 Progress
+Super Pro
 \LNEnglish
 \LCen

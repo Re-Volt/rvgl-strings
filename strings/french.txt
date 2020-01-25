@@ -596,5 +596,6 @@ Retour à la salle
 Sélectionner ralenti
 Sélectionner menu
 Progrès
+Super Pro
 \LNFrançais
 \LCfr
