@@ -1,9 +1,9 @@
 Re-Volt
 Izaberi trku
 Ime
-Izaberi auto
-Izaberi stazu
-Izaberi kup
+Izaberite auto
+Izaberite stazu
+Izaberite kup
 Podaci o trci
 Tip igre u više igrača:
 Grafička podešavanja
@@ -13,15 +13,15 @@ Trka je u toku…
 \VPPodešavanje komandi
 \VNDžojstik
 \VSPodešavanje komandi
-Pridruži se igri
-Počni trku
+Pridružite se igri
+Počnite trku
 \VPNajbolja vremena
 \VNVrememna
 \VSNajbolja vremena
 Pregled napretka
-Napravi svoju stazu
+Napravite svoju stazu
 Podešavanja
-Napusti igru
+Izlaz iz igre
 Šapmionat
 Obična trka
 Autići na navijanje
@@ -31,9 +31,9 @@ Vežbanje
 Arena sa zvezdama
 Igra u više igrača
 Testiranje
-Izračunaj podatke auta
-Izaberi auto
-Izaberi stazu
+Izračunavanje podataka auta
+Izaberite auto
+Izaberite stazu
 Preslikano
 Unazad
 CPU Protivnici
@@ -43,7 +43,7 @@ Bronzani Kup
 Srebrni Kup
 Zlatni Kup
 Platinasti Kup
-Izaberi mod
+Izaberite mod
 Osnovno skretanje
 Napredna skretanja
 Tvoji prvi trikovi
@@ -51,14 +51,14 @@ Podešavanja igre
 Video podešavanja
 Zvučna podešavanja
 Podešavanja kontrola
-Učitaj/Sačuvaj Rekorde
-Pogledaj odjavnu špicu
+Učitavanje/Čuvanje rekorda
+Odjavna špica
 Broj auta
 Nasumični auti
 Nasumične staze
 Oružja
 Broj krugova
-Vreme u šugici
+Minuta u šugici
 Težina
 Pristup autima
 Razlika u vremenu
@@ -69,10 +69,10 @@ Uključeno
 Isključeno
 Da
 Ne
-Lako
-Osrednje
-Teško
-Ekstremno
+Laka
+Osrednja
+Teška
+Ekstremna
 Uspravno
 Vodoravno
 Rezolucija
@@ -91,7 +91,7 @@ Automatsko
 Nedostupno
 Anti-Alias
 V. Sinhro.
-Prikaži brzinu igre
+Prikaz brzine igre
 Filter tekstura
 Kvalitet tekstura
 Žičasti prikaz
@@ -111,52 +111,52 @@ Zvučni kanali
 Audio
 Stereo
 Mono
-Pogledaj rekorde
-Sačuvaj rekorde
+Pogledajte rekorde
+Sačuvajte rekorde
 Trka
 Rekordi
-Otpočni trku
-Pridruži se trci
+Otpočnite trku
+Pridružite se trci
 Povezivanje lobija
-Izaberi igru
+Izaberite igru
 Server:
-Nastavi
-Napusti
+Nastavite
+Napustite
 Broj igrača
 Paket optimizacija
 DirectPlay protokol
 Nalaženje igre…
 Pridruživanje…
-Osveži listu igrača spejsom
+Osvežite listu igrača spejsom
 Sledeća staza
 Podrazumevano
 Bronzani
 Srebrni
 Zlatni
 Platinasti
-Učitaj snimak
-Sačuvaj snimak
-Nastavi
-Nastavi šampionat
-Završi šampionat
-Pokušaj ponovo
+Učitajte snimak
+Sačuvajte snimak
+Nastavite
+Nastavak šampionata
+Izlaz iz šampionata
+Pokušajte ponovo
 Restart trke
 Restart snimka
-Napusti
-Pogledaj snimak
+Napustite
+Pregled snimka
 Izaberi upravljač:
 Podesi upravljač
 Mrtva zona skretanja
 Domet skretanja
 Nelinearno skretanje
-Resetuj komande
+Reset komandi
 Podešavanje
 Demonstracija
 Igrač
-Sačuvaj podatak o autu
-Sačuvaj više podataka o autu
-Prenesi podatke u parametre
-Počni igru iz početka
+Sačuvajte podatak o autu
+Sačuvajte više podataka o autu
+Prenos podataka u parametre
+Počnite igru iz početka
 Mod
 Simulacija
 Arkadni
@@ -167,9 +167,9 @@ Skalirana MNČ
 Stopa po minutu
 Kilom. na čas
 Skalirana KNČ
-STIGAO SI
-PLASIRAJ SE BOLJE DA BI
-OTKLJUČAO SLEDEĆI IZAZOV!
+STIGLI STE
+PLASIRAJTE SE BOLJE DA BI
+OTKLJUČALI SLEDEĆI KUP!
 BRONZANI KUP
 SREBRNI KUP
 ZLATNI KUP
@@ -179,46 +179,46 @@ PRESLIKANE STAZE
 STAZE UNAZAD
 SU OTKLJČULANE
 DOSTAVA NOVIH AUTA
-OTKLJUČAO SI
+OTKLJUČALI STE
 NOVE AUTE
 PRVI
 DRUGI
 TREĆI
-Učitaj / Sačuvaj
+Učitavanje / Čuvanje
 Greška
 Upozorenje
-Da li si siguran?
+Da li ste sigurni?
 \VPLoad Settings
 \VNLoad Progress
 \VSLoad Settings
 \VPSave Settings
 \VNSave Progress
 \VSSave Settings
-Učitaj korisničke podatke
+Učitavanje korisničkih podataka
 Učitavanje…
 Čuvanje…
 
-Učitaj vremena
-Sačuvaj vremena
-Nastavi
-Nastavi bez čuvanja
-Nastavi bez učitavanja
+Učitajte vremena
+Sačuvajte vremena
+Nastavite
+Nastavite bez čuvanja
+Nastavite bez učitavanja
 Format Controller Pak
 Attempt Repair
 Manage Controller Pak
 Change Controller Pak
-Pokšaj ponovo
+Pokšajte ponovo
 Pokušava se popravka…
 Popravka neuspešna
 Popravka je uspela
 
-Obriši blok memorijske kartice
-Ideš dalje samo ako si
-bio bar treći!
-Završi prvi na tabeli
-da bi otključao sledeći kup!
-Završi prvi na tabeli
-da bi postao \"Majstor Re-volta\"!
+Obrišite blok memorijske kartice
+Idete dalje samo ako ste
+bili bar treći!
+Završite prvi na tabeli
+da bi otključali sledeći kup!
+Završite prvi na tabeli
+da bi postali \"Majstor Re-volta\"!
 
 CONTROLLER PAK DETECTED IN\n\rCONTROLLER \7, THIS CONTROLLER PAK\n\rWILL BE USED TO SAVE AND LOAD\n\r
 NEW CONTROLLER PAK INSERTED INTO\n\rCONTROLLER \7, THIS CONTROLLER PAK\n\rWILL BE USED TO SAVE AND LOAD\n\r
@@ -236,8 +236,8 @@ REPAIR?
 STATISTIKA
 PROLAZNA VREMENA
 KORISNIČKE STAZE
-Sačuvaj preko prehodnog
-Potvrdi
+Sačuvajte preko prehodnog
+Potvrda
 P
 U
 (P)
@@ -292,9 +292,9 @@ Sakupljeno zvezda:
 od
 Oboreno
 Rekordno vreme:
-\VPPreostalo ti je
+\VPPreostao vam je
 \VN
-\VSPreostao ti je
+\VSPreostalo vam je
 pokušaj.
 pokušaja.
 .
@@ -302,14 +302,14 @@ pokušaja.
 .
 .
 SVAKA ČAST!
-PROŠAO SI DALJE!
+PROŠLI STE DALJE!
 SVAKA ČAST!
 ŠAMPIONAT GOTOV!
-NISI PROŠAO DALJE!
+NISTE PROŠLI DALJE!
 Auto
 Poena
 Najbolji krug
-Prošli krug
+Prethodni krug
 Krug
 Trka
 Krug
@@ -320,7 +320,7 @@ Rekord staze oboren!
 Vreme
 Rezultati igre
 Rezultati trke
-Napustiti igru?
+Napuštate trku?
 Početi iz početka?
 Stvarno ili kobajagi?
 Stvarno
@@ -331,16 +331,16 @@ Srebrni
 Zlatni
 Platinasti
 Kraj igre!  Više sreće sledeći put!
-DOSTAVA NOVIH AUTA!\n(Pronađi ih na\ngomili sa ostalima)\n
-SVAKA ČAST!\n%s STAZE SU SADA\n DOSTUPNE UNAZAD\n(Pritisni donju strelicu kad budeš birao stazu)\n
-SVAKA ČAST!\n%s STAZE SU SADA\n DOSTUPNE KAO PRESLIKANE\n(Pritisni gornju strelicu kad budeš birao stazu)\n
-SVAKA ČAST!\n%s STAZE SU SADA\n DOSTUPNE PRESLIKANE I UNAZAD\n(Pritisni donju i gornju strelicu kad budeš birao stazu)\n
+DOSTAVA NOVIH AUTA!\n(Pronađite ih na\ngomili sa ostalima)\n
+SVAKA ČAST!\n%s STAZE SU SADA\n DOSTUPNE UNAZAD\n(Pritisnite donju strelicu dok birate stazu)\n
+SVAKA ČAST!\n%s STAZE SU SADA\n DOSTUPNE KAO PRESLIKANE\n(Pritisnite gornju strelicu dok birate stazu)\n
+SVAKA ČAST!\n%s STAZE SU SADA\n DOSTUPNE PRESLIKANE I UNAZAD\n(Pritisnite donju i gornju strelicu dok birate stazu)\n
 \VPNOVI MOD IGRE!\n\"AUTIĆI NA NAVIJANJE\"\nJE OTKLJUČAN\n
-\VNSVAKA ČAST!\nSAKUPIO SI SVE ZVEZDE U ARENI\n
-\VSSVAKA ČAST!\nSAKUPIO SI SVE ZVEZDE U ARENI\n
-Pritisni start
-Pritisni start da bi nastavio
-\1Pritisni start da bi nastavio
+\VNSVAKA ČAST!\nSAKUPILI STE SVE ZVEZDE U ARENI\n
+\VSSVAKA ČAST!\nSAKUPILI STE SVE ZVEZDE U ARENI\n
+Pritisnite start
+Pritisnite start da bi nastavili
+\1Pritisnite start da bi nastavili
 Pauza
 A Game by
 Project Manager
@@ -488,7 +488,7 @@ Track Too Complex!
 Levo
 Desno
 Truba
-Pokušaj opet?
+Pokušajte opet?
 Demonstracija
 Loading Frontend
 Loading Credits
@@ -524,12 +524,12 @@ Download
   Zatvaranja
   Odrazi
   Detalji
-Centriraj HUD
-Reguliši odnos
-Sample Rate
+Centriranje HUD-a
+Regulacija odnosa
+Frekvencija
 Retrovizor
 Verzija
-Pritisni spejs za podatke o sesiji
+Pritisnite spejs za podatke o sesiji
 Traženje igrača…
 Napredna podešavanja
 Preko celog ekrana
@@ -541,50 +541,50 @@ Mrežna podešavanja
 Korišćenje protoka
 Primitivna kompaktibilnost
 Podešavanja profila
-Uključi profile
-Učitaj podešavanja
-Sačuvaj podešavanja
+Uključite profile
+Učitavanje podešavanja
+Čuvanje podešavanja
 Lozinka
-Molimo sačekaj …
-Posmatraj
-Pritisni spejs da bi počeo
-Pritisni tab da bi nastavio
+Molimo sačekajte …
+Posmatranje
+Pritisnite spejs da bi počeli
+Pritisnite tab da bi nastavili
 Najviše mogućih konekcija
 Munjice
-Izaberi igrača
+Izaberite igrača
 Sva mesta su popunjena!
-Upravljaj igračima
-Izbaci igrača
-Postavi za hosta
-Ukloni igrača iz igre
+Upravljanje igračima
+Izbacivanje igrača
+Postavite za hosta
+Uklanjanje igrača iz igre
 Posmatrač
-Ti si sada host!
-Dodaj u igru
-Izbačen si iz igre!
-Dodat si u igru!
-Prikaži duha
-Namesti komande
-Vrati prvobitne komande
+Vi ste sada host!
+Dodajte u igru
+Izbačeni ste iz igre!
+Dodati ste u igru!
+Prikaz duha
+Mapiranje komandi
+Resetovanje komandi
 Trenutno se vozi na nepoznatoj stazi!
 Povezivanje na sesiju
-Pritisni Esc da otkažeš
+Pritisnite Esc da otkažete
 Veza uspostavnjena
 Veza je otkazana
-Pritisni pauzu da nastaviš
-Pritisni bilo koje dugme da nastaviš
-Izaberi jezik
-Izaberi profil
-Napravi profil
-Učitaj profil
-Izbriši profil
+Pritisnite pauzu da nastavite
+Pritisnite bilo koje dugme da nastavite
+Izaberite jezik
+Izaberite profil
+Napravite profil
+Učitajte profil
+Izbrišite profil
 Profil već postoji!
 Mesto za izlazni uređaj:
-Obrni / okreni pogled
+Obrnuti / okrenuti pogled
 CPU u trkama u 2/3/4
-Koristi skidanje
+Koristite skidanje
 Opšta
 Po klasi
-Generiši mipmep
+Generisanje mipmepa
 Anizotropija
 U 2/3/4 igrača
 Efekat talasa
@@ -592,12 +592,12 @@ U prozoru
 Multisampling
 Čekaju se igrači…
 Pridruživanje sledećoj igri…
-Stisnite tab da bi se pridružio
-Dodirni ekran za početak
-Dodirni ekran za nastavak
-Dodirni ekran za nastavak
+Stisnite tab da bi se pridružili
+Dodirnite ekran za početak
+Dodirnite ekran za nastavak
+Dodirnite ekran za nastavak
 Kamera
-Prati auto
+Pratite auto
 Iz trećeg lica
 U autu
 Hauba
@@ -605,8 +605,8 @@ Vidljivost dugmića
 Poslednji krug!
 Video Renderer
 Nazad u lobi
-Izaberi snimak
-Izaberi menu
+Izaberite snimak
+Izaberite menu
 Napredak
 Super Prof.
 \LNSrpski
