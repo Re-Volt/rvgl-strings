@@ -1,2 +1,1 @@
-# rvgl-strings
-RVGL Localization
+Moved here: https://gitlab.com/re-volt/rvgl-strings
